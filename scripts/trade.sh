@@ -73,11 +73,14 @@ EOF
 
   get_bars)
     # Usage: get_bars <symbol> <timeframe> <start> <end>
-    local symbol="${2:?symbol required}"
-    local timeframe="${3:-1Day}"
-    local start="${4:-$(date -d '7 days ago' +%Y-%m-%d 2>/dev/null || date -v-7d +%Y-%m-%d)}"
-    local end="${5:-$(date +%Y-%m-%d)}"
-    alpaca GET "/v2/stocks/${symbol}/bars?timeframe=${timeframe}&start=${start}&end=${end}"
+    _sym="${2:?symbol required}"
+    _tf="${3:-1Day}"
+    _start="${4:-$(date -d '7 days ago' +%Y-%m-%d 2>/dev/null || date -v-7d +%Y-%m-%d)}"
+    _end="${5:-$(date +%Y-%m-%d)}"
+    curl -s -X GET \
+      -H "APCA-API-KEY-ID: $API_KEY" \
+      -H "APCA-API-SECRET-KEY: $API_SECRET" \
+      "https://data.alpaca.markets/v2/stocks/${_sym}/bars?timeframe=${_tf}&start=${_start}&end=${_end}&feed=iex"
     ;;
 
   get_snapshot)

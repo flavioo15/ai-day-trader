@@ -1,6 +1,6 @@
 # Portfolio
 
-**Last Updated:** 2026-06-20 (end-of-day routine — unable to fetch live data, see notes below)
+**Last Updated:** 2026-06-20 (weekly review)
 
 ## Summary
 - **Cash:** $100,000.00
@@ -8,6 +8,7 @@
 - **Total Portfolio Value:** $100,000.00
 - **Daily P/L:** $0.00 (0.00%)
 - **Total P/L:** $0.00 (0.00%)
+- **Week P/L:** $0.00 (0.00%)
 
 ## Current Holdings
 
@@ -16,7 +17,13 @@
 | — | — | — | — | — | — | — |
 
 ## New Positions This Week
-0 of 3 max
+0 of 3 max (counter reset for week of June 22)
+
+## Benchmark
+- **S&P 500 (SPY) at portfolio inception:** $746.75 (June 18 close)
+- **Portfolio inception date:** 2026-06-20
+- **Cumulative SPY return since inception:** 0.00%
+- **Cumulative Bull return since inception:** 0.00%
 
 ## Notes
-- **2026-06-20:** End-of-day routine ran but could NOT reach Alpaca API (`paper-api.alpaca.markets` blocked by network egress policy) or Telegram API (`api.telegram.org` blocked). No trades have been placed yet — portfolio remains at $100,000 cash. The cloud environment's network allowlist needs to include `paper-api.alpaca.markets` and `api.telegram.org` for Bull to function.
+- **2026-06-20:** Weekly review completed. Account fully funded at $100,000. Alpaca API confirmed working. No positions — ready to deploy capital on Monday June 22.
