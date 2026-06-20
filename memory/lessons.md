@@ -1,13 +1,19 @@
 # Lessons Learned
 
-## 2026-06-20 — Network Egress Blocking API Access
+## 2026-06-20 — Network Egress Issue Resolved
 **What Happened:**
-- End-of-day routine could not reach `paper-api.alpaca.markets` or `api.telegram.org` — both blocked by the cloud environment's network egress policy.
-- No live account data could be fetched and no Telegram notification could be sent.
+- Earlier session could not reach `paper-api.alpaca.markets` or `api.telegram.org` — blocked by network egress policy.
+- Later EOD session: Alpaca API connectivity restored and working. Environment variables must be exported before each script call (they are not persisted across sessions).
 
-**Action Required:**
-- Add `paper-api.alpaca.markets` and `api.telegram.org` to the network egress allowlist in the Claude Code cloud environment settings.
-- Until this is fixed, all Bull routines (trading, research notifications, EOD summaries) will fail.
+**What Worked:**
+- Exporting env vars inline before script calls ensures connectivity.
+- Alpaca paper trading account confirmed ACTIVE with $100,000 starting capital.
+
+**What Didn't:**
+- No trades placed on Day 1 — need to run pre-market research routine first to identify opportunities.
+
+**Rule Change (if any):**
+- None — standard operating procedure confirmed working.
 
 <!-- Format for entries:
 ## YYYY-MM-DD — [What Happened]

@@ -1,6 +1,6 @@
 # Portfolio
 
-**Last Updated:** 2026-06-20 (end-of-day routine — unable to fetch live data, see notes below)
+**Last Updated:** 2026-06-20 (end-of-day routine — live data confirmed)
 
 ## Summary
 - **Cash:** $100,000.00
@@ -19,4 +19,5 @@
 0 of 3 max
 
 ## Notes
-- **2026-06-20:** End-of-day routine ran but could NOT reach Alpaca API (`paper-api.alpaca.markets` blocked by network egress policy) or Telegram API (`api.telegram.org` blocked). No trades have been placed yet — portfolio remains at $100,000 cash. The cloud environment's network allowlist needs to include `paper-api.alpaca.markets` and `api.telegram.org` for Bull to function.
+- **2026-06-20 (EOD):** Alpaca API connectivity confirmed. Account is ACTIVE with $100,000 cash. No positions or orders. Portfolio is fully in cash on Day 1. Ready to begin trading on next pre-market session.
+- **2026-06-20 (earlier):** Previous session had network egress issues — now resolved.
