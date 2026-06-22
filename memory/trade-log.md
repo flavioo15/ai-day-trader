@@ -2,9 +2,9 @@
 
 | Date | Ticker | Action | Shares | Price | Reasoning | Outcome |
 |------|--------|--------|--------|-------|-----------|---------|
-| 2026-06-22 | AVGO | BUY (filled) | 12 | $403.09 | AI networking/custom silicon leader. +4.62% daily momentum. VMware synergy realization. Strong FCF and margins. AI revenue guidance catalysts ahead. | Filled at open. 10% trailing stop set (ID: 13812cb2). Down -1.91% at midday. |
-| 2026-06-22 | NVDA | BUY (filled) | 23 | $213.73 | AI infrastructure king. +2.78% daily momentum. Hyperscaler capex demand. Dominant GPU market position. Beat+raise pattern. | Filled at open. 10% trailing stop set (ID: 1e3c9814). Down -2.10% at midday. |
-| 2026-06-22 | META | BUY (filled) | 8 | $569.44 | Strong ad monetization + AI-driven engagement. +1.78% daily momentum. Improving margins and efficiency. Substantial FCF. | Filled at open. 10% trailing stop set (ID: 73d8eb21). Down -1.34% at midday. |
+| 2026-06-22 | AVGO | BUY (filled) | 12 | $403.09 | AI networking/custom silicon leader. +4.62% daily momentum. VMware synergy realization. Strong FCF and margins. AI revenue guidance catalysts ahead. | Filled at open. 10% trailing stop set (ID: 13812cb2). EOD: $394.57, -2.11% from entry. Worst intraday (-4.08%). |
+| 2026-06-22 | NVDA | BUY (filled) | 23 | $213.73 | AI infrastructure king. +2.78% daily momentum. Hyperscaler capex demand. Dominant GPU market position. Beat+raise pattern. | Filled at open. 10% trailing stop set (ID: 1e3c9814). EOD: $208.64, -2.38% from entry. |
+| 2026-06-22 | META | BUY (filled) | 8 | $569.44 | Strong ad monetization + AI-driven engagement. +1.78% daily momentum. Improving margins and efficiency. Substantial FCF. | Filled at open. 10% trailing stop set (ID: 73d8eb21). EOD: $565.31, -0.73% from entry. Best performer. |
 
 ## Trade Theses
 

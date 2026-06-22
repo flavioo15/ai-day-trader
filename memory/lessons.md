@@ -1,5 +1,32 @@
 # Lessons Learned
 
+## 2026-06-22 — End of Day 1 Recap
+**What Happened:**
+- First full trading day complete. All 3 positions (AVGO, NVDA, META) in the red.
+- Portfolio closed at $99,747.43 (-$252.57, -0.25%)
+- AVGO was the worst intraday performer (-4.08% from prev close), closing at $394.57
+- META held up best (-0.73% from entry), NVDA middle (-2.38%)
+- All 3 trailing stops remain active and untriggered
+
+**What Worked:**
+- Trailing stops placed at midday are functioning correctly with proper high-water marks
+- Position sizing kept total risk manageable — only 14% deployed, portfolio only down 0.25%
+- Conservative cash allocation (85.7%) limits downside exposure
+
+**What Didn't:**
+- All 3 picks went red on day 1 — bought into what turned out to be a tech selloff day
+- AVGO dropped -4.08% intraday, suggesting Friday's +4.62% momentum was partially a false signal
+- No way to know pre-open that Monday would sell off — but entering all 3 on same day concentrated timing risk
+
+**Key Lesson:**
+Staggering entries across 2-3 days would reduce timing risk. All 3 positions entered at once means all are exposed to the same daily market direction. Consider spacing entries in the future.
+
+**Action Items:**
+- Monitor AVGO closely — down -2.11% from entry, worst of the three
+- Watch Micron earnings Wednesday (June 24) — key validation for semi thesis
+- FedEx earnings Tuesday (June 23) — economic demand signals
+- No trading action needed — all positions within normal range, no stops near trigger
+
 ## 2026-06-22 — First Fills & Trailing Stops Placed
 **What Happened:**
 - All 3 buy orders (AVGO, NVDA, META) filled at Monday open
