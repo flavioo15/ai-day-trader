@@ -1,79 +1,97 @@
 # Research Log
 
-## 2026-06-22 — Pre-Market Research (Monday Open)
+## 2026-06-22 — Pre-Market Research Update #2 (Monday, Pre-Open)
 
-**Market Context:**
-- S&P 500 closed at 7,420 on June 18, near ATH of 7,616.20 (set June 2). Markets reopening after 3-day weekend (Juneteenth + Sat/Sun).
-- 10-year Treasury yield at 4.42-4.46%, lowest since May. Iran deal softened inflation outlook.
-- Fed held rates at 3.50-3.75% (unanimous 12-0). Hawkish lean: 9 of 18 policymakers predict at least one rate hike by end of 2026. New Chair Warsh emphasized price stability.
-- Supreme Court struck down IEEPA tariffs, but alternative statutes may keep tariffs in place. Limited market impact so far.
+**Market Snapshot (Pre-Market):**
+- S&P 500 futures: -0.05% | Nasdaq 100: -0.13% | Dow: +0.05% | Russell 2000: -0.10%
+- Prediction markets: 56% probability of lower open, 44% higher
+- Thin pre-market liquidity — low confidence in directional signal
+- 81% probability of Fed rate cuts in 2026 per prediction markets (medium-term tailwind)
 
-**Key Earnings This Week:**
-| Company | Ticker | Date | Expected EPS | Expected Revenue | Relevance |
-|---------|--------|------|-------------|-----------------|-----------|
-| FedEx | FDX | Tue 6/23 (AMC) | $5.91 | $24.18B | Economic bellwether, freight spin-off update |
-| Micron | MU | Wed 6/24 | $19.82 | $34.8B | CRITICAL — HBM/AI memory demand validates our semiconductor thesis |
+**Overnight/Weekend Developments:**
+- No major overnight events specifically impacting AVGO, NVDA, or META
+- Futures essentially flat — no panic, no euphoria
+- No new Fed commentary over the weekend
+- No geopolitical shocks or tariff developments since June 18
 
-**Micron Deep Dive (Major Catalyst for Holdings):**
-- Q2 2026 results were blowout: EPS $12.20 vs $9.31 expected, revenue $23.86B vs $20.07B expected
-- Q3 expected to be even stronger: EPS $19.82, revenue $34.8B (276% YoY growth)
-- HBM capacity sold out through 2026 under binding contracts
-- Gross margin guidance at 81%. HBM market projected $62B in 2026 (100% YoY growth)
-- Shipping HBM4 36GB 12H for NVIDIA Vera Rubin platform
-- A strong MU beat would validate AVGO/NVDA thesis and likely lift both stocks
+**Holdings Check — Orders Confirmed Pending:**
+All 3 buy orders verified in Alpaca at 08:00 UTC with status "new", ready to fill at 9:30 ET open:
+- AVGO: 12 shares (market buy) — Order ID 1bb19803
+- NVDA: 23 shares (market buy) — Order ID 81fad987
+- META: 8 shares (market buy) — Order ID afaae9fd
 
-**Price Snapshots (June 18 close):**
-| Stock | Close | 1-Day Chg | 2-Day Trend | Signal |
-|-------|-------|-----------|-------------|--------|
-| AVGO | $411.07 | +4.62% | Strong up | HOLDING (order pending) |
-| NVDA | $210.38 | +2.78% | Strong up | HOLDING (order pending) |
-| META | $577.29 | +1.78% | Up | HOLDING (order pending) |
-| AMD | $537.13 | +4.87% | Strong up | WATCH — Citi PT $575 |
-| GOOGL | $367.93 | +1.12% | Up | WATCH — Cloud +63% YoY |
-| MU | $1,132.59 | +8.49% | Very strong up | WATCH — earnings Wed |
-| INTC | $133.80 | +10.51% | Explosive | WATCH — up 225% YTD, turnaround |
-| MSFT | $379.08 | +0.01% | Flat | NEUTRAL — needs catalyst |
+**Updated Price Data (June 18 close — last trading day):**
+| Stock | Close | Prev Close (6/17) | 1-Day Chg | After-Hours Last | Signal |
+|-------|-------|--------------------|-----------|------------------|--------|
+| AVGO | $411.07 | $392.91 | +4.62% | $411.98 | BUY FILLING TODAY |
+| NVDA | $210.38 | $204.70 | +2.78% | $209.97 | BUY FILLING TODAY |
+| META | $577.29 | $567.22 | +1.78% | $577.29 | BUY FILLING TODAY |
+| GOOGL | $367.93 | $363.86 | +1.12% | $367.04 | WATCH — next week |
+| MU | $1,132.59 | $1,043.95 | +8.49% | $1,139.94 | WATCH — earnings Wed |
+| AMD | $537.13 | $512.19 | +4.87% | $536.59 | WATCH — next week |
 
-**Analyst Activity (June 2026):**
-- Intel (INTC): Major upgrade wave. Up 225% YTD. Apple partnership, Google cloud deal. Citi PT $130, Benchmark $140, Melius $150.
-- AMD: Citi raised PT to $575 from previous. Strong Buy consensus from 35 analysts.
-- GOOGL: Strong Buy from 63 analysts. 12-month PT $432.83 (+17.6% upside). Cloud revenue +63% YoY.
+**Key News Developments (New Since Last Entry):**
 
-**Macro Risks:**
-- Fed hawkishness: Rate hike possibility is a headwind for growth/tech
-- Iran situation: Deal softened oil/inflation fears, but conflict impact still in play (market dropped 9.1% in April)
-- Tariff uncertainty: Supreme Court ruling creates near-term policy ambiguity
+1. **AVGO (Broadcom):** Q2 FY2026 results (reported June 3): Revenue $22.2B (+48% YoY), AI semiconductor revenue $10.8B (+143% YoY). Six core custom chip customers confirmed: Anthropic, Google, Meta, OpenAI. Stock pulled back 20%+ from highs post-earnings but recovered to $411 by June 18. Analyst consensus: Strong Buy, avg PT ~$523.52. AI guidance was "unchanged" vs expectations of a raise — source of initial post-earnings weakness.
 
-**Trade Ideas for Next Week (3/3 positions used this week):**
+2. **NVDA (Nvidia):** Multiple bank upgrades in June with price targets raised after expanded Blackwell shipment guidance. Earlier selloff (June 5, -6.2%) triggered by hot jobs report and Fed rate hike fears has fully recovered. NVDA upgrade cycle has been "the loudest of the month."
 
-### 1. GOOGL (Alphabet) — $367.93
-- **Thesis:** Cloud revenue surging +63% YoY. AI search monetization improving. Q1 revenue +21.8%. Strong Buy consensus with $432.83 target (+17.6% upside). Diversified revenue base provides stability vs pure semis.
+3. **META (Meta Platforms):** Reports emerged that Meta is considering a ~$64.2B equity raise to fund AI infrastructure (similar to Alphabet's $84.75B offering). Meta spokesperson called it "pure speculation." Stock fell 5% initially on the news but recovered. META's AI capex could reach $145B in 2026. Dilution risk is a watch item but not yet confirmed.
+
+4. **Micron (MU) — Wednesday June 24 CRITICAL CATALYST:**
+   - Consensus: EPS $19.72-$19.95, Revenue $34.5-$34.66B
+   - Own guidance: Revenue $33.5B at ~81% gross margins
+   - Analyst sentiment: Strong Buy (27 analysts, 0 sell ratings)
+   - RBC PT $1,200 (raised June 15), Cantor PT $1,500 (most aggressive)
+   - HBM sold out through 2026 under binding contracts
+   - Key focus: HBM4 allocations for Vera Rubin Ultra 2027, gross margin trajectory
+   - A beat validates our AVGO/NVDA thesis; a miss would pressure both
+
+5. **FedEx (FDX) — Tuesday June 23:**
+   - Consensus: EPS $5.91, Revenue $24.18B (some estimates at $6.41)
+   - Freight spin-off completed June 1 (FDXF ticker on NYSE)
+   - FedEx retained 19.9% stake, distributed 80.1% to stockholders
+   - Key focus: Network 2.0 savings, FY2027 guidance, economic demand signals
+   - Economic bellwether — weak results would signal broader slowdown risk
+
+**Macro Environment Update:**
+- Fed held rates 3.50-3.75% (12-0 unanimous). 9/18 policymakers project ≥1 hike in 2026.
+- 10Y yield at 4.42-4.46%, lowest since May — Iran deal softened inflation outlook
+- Prediction markets: 81% probability of rate cuts in 2026 — conflicting with hawkish dot plot
+- Supreme Court IEEPA tariff ruling — limited market impact so far
+- AI capex theme intact: $571B projected in 2026, Big Five infra spend +36% YoY
+
+**Trade Ideas for Next Week (Refined — 3/3 positions used this week):**
+
+### 1. GOOGL (Alphabet) — $367.93 | Priority: HIGH
+- **Thesis:** Cloud revenue surging +63% YoY. AI search monetization improving. Strong Buy consensus (63 analysts), avg PT $432.83 (+17.6% upside). Diversified revenue base. Completed $84.75B equity raise to fund AI — capital position strong.
 - **Entry:** ~$365-370 range (current level)
 - **Position size:** 13 shares (~$4,783, 4.8% of portfolio)
-- **Risk:** MODERATE. Fed hawkishness pressures growth. Regulatory overhang on ad business.
-- **Trigger:** Continued tech momentum + positive MU earnings reaction
+- **Risk:** MODERATE. Fed hawkishness pressures growth. Regulatory overhang on ad/search.
+- **Trigger:** Tech momentum holds through this week + positive MU earnings reaction
 
-### 2. MU (Micron) — $1,132.59 (POST-EARNINGS ONLY)
-- **Thesis:** AI memory boom. HBM sold out through 2026. If Q3 beats, confirms structural demand tailwind for entire AI stack. 276% YoY revenue growth expected.
-- **Entry:** Only AFTER June 24 earnings. Wait for reaction. If beats and holds above $1,100, consider entry.
+### 2. MU (Micron) — $1,132.59 | Priority: HIGH (Post-Earnings Only)
+- **Thesis:** AI/HBM memory boom. Sold out through 2026. If Q3 beats consensus ($19.72 EPS / $34.5B rev), confirms structural demand for entire AI stack. 81% gross margins. RBC PT $1,200, Cantor PT $1,500.
+- **Entry:** ONLY after June 24 earnings. If beats and holds above $1,100, buy Friday/Monday.
 - **Position size:** 4 shares (~$4,530, 4.5% of portfolio)
-- **Risk:** HIGH pre-earnings, MODERATE post-beat. At these multiples, any guidance miss triggers sharp drawdown.
-- **Trigger:** Earnings beat + positive guidance + price holds above $1,100
+- **Risk:** HIGH pre-earnings, MODERATE post-beat. Guidance miss at these valuations = sharp drawdown.
+- **Trigger:** Earnings beat + positive guidance + price holds above $1,100 post-reaction
 
-### 3. AMD (Advanced Micro Devices) — $537.13
-- **Thesis:** AI accelerator market share gains. MI300X enterprise adoption growing. Citi PT $575. Strong Buy consensus. Complementary to NVDA position.
+### 3. AMD (Advanced Micro Devices) — $537.13 | Priority: MEDIUM
+- **Thesis:** AI accelerator market share gains vs NVDA. MI300X enterprise adoption growing. Citi PT $575. Strong Buy consensus (35 analysts). Complementary to NVDA position.
 - **Entry:** ~$530-540 range
 - **Position size:** 9 shares (~$4,834, 4.8% of portfolio)
-- **Risk:** MODERATE-HIGH. Volatile. Must show continued market share gains vs NVDA.
-- **Trigger:** MU earnings validates semi demand + sector holds above June 18 levels
+- **Risk:** MODERATE-HIGH. Volatile. Must demonstrate continued share gains.
+- **Trigger:** MU earnings validates semi demand + AMD holds above $530
 
 **Action Items:**
-- [x] Pre-market research completed
-- [ ] CRITICAL: Place 10% trailing stops on AVGO (12), NVDA (23), META (8) once Monday fills confirmed
-- [ ] Monitor Micron earnings Wednesday June 24 — key catalyst for holdings
+- [x] Pre-market research completed (2x — initial + update)
+- [ ] **CRITICAL**: Place 10% trailing stops on AVGO (12), NVDA (23), META (8) once fills confirmed at open
+- [ ] Monitor Micron earnings Wednesday June 24 — biggest catalyst for holdings
 - [ ] Monitor FedEx earnings Tuesday June 23 — economic bellwether signal
-- [ ] Evaluate GOOGL, MU (post-earnings), AMD for next week entries
+- [ ] Evaluate GOOGL, MU (post-earnings), AMD for next week entries (earliest June 29)
 - [ ] Watch Fed commentary for rate hike signals
+- [ ] Track META equity raise developments — dilution risk if confirmed
 
 ---
 
