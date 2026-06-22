@@ -17,12 +17,13 @@ Monday open looks modestly bearish: S&P futures -0.05%, Nasdaq -0.13%. Predictio
 - **Neutral:** Industrials, Consumer Discretionary
 - **Underweight:** Financials, Energy, Healthcare (showing near-term weakness)
 
-## Current Positioning
-- 3 positions filling today at open: AVGO (12), NVDA (23), META (8)
+## Current Positioning (as of 2026-06-22 08:33 ET)
+- 3 buy orders confirmed pending, filling at 9:30 ET open: AVGO (12), NVDA (23), META (8)
+- Pre-market prices flat vs last close — no concerns
 - ~14.4% of portfolio to be deployed, ~85.6% cash
 - Conservative initial deployment — room to add up to 7 more positions (max 10 total)
 - 3/3 new positions used for this week — next entries earliest Monday June 29
-- IMMEDIATE PRIORITY: Place 10% trailing stops on all 3 once fills confirmed
+- **IMMEDIATE PRIORITY (midday routine): Place 10% trailing stops on all 3 once fills confirmed**
 
 ## Key Catalysts This Week
 1. **Mon June 22:** Orders fill at open. MUST place trailing stops immediately after confirmation.
