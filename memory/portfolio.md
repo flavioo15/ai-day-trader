@@ -1,40 +1,27 @@
 # Portfolio
 
-**Last Updated:** 2026-06-21 (market open routine)
+**Last Updated:** 2026-06-22 (midday check)
 
 ## Summary
-- **Cash:** $100,000.00
-- **Holdings Value:** $0.00 (3 buy orders pending for Monday open)
-- **Total Portfolio Value:** $100,000.00
-- **Daily P/L:** $0.00 (0.00%)
-- **Total P/L:** $0.00 (0.00%)
-
-## Pending Orders (will fill Monday June 22 at open)
-
-| Ticker | Shares | Est. Price | Est. Value | Order ID |
-|--------|--------|------------|------------|----------|
-| AVGO | 12 | ~$411.07 | ~$4,933 | 1bb19803-a609-4756-a3fd-f2122e6604bc |
-| NVDA | 23 | ~$210.38 | ~$4,839 | 81fad987-f279-4fa3-bde9-d506c527df2a |
-| META | 8 | ~$577.29 | ~$4,618 | afaae9fd-e39f-4caf-9776-0cc1232e647f |
-
-**Estimated total deployed:** ~$14,390 (14.4% of portfolio)
+- **Cash:** $85,691.62
+- **Holdings Value:** $14,051.71
+- **Total Portfolio Value:** $99,743.33
+- **Daily P/L:** -$256.67 (-0.26%)
+- **Total P/L:** -$256.67 (-0.26%)
 
 ## Current Holdings
 
 | Ticker | Shares | Entry Price | Entry Date | Current Price | P/L % | Trailing Stop |
 |--------|--------|-------------|------------|---------------|-------|---------------|
-| — | — | — | — | — | — | — |
+| AVGO | 12 | $403.09 | 2026-06-22 | $395.40 | -1.91% | 10% (stop $355.73, ID: 13812cb2) |
+| NVDA | 23 | $213.73 | 2026-06-22 | $209.25 | -2.10% | 10% (stop $188.31, ID: 1e3c9814) |
+| META | 8 | $569.44 | 2026-06-22 | $561.80 | -1.34% | 10% (stop $505.82, ID: 73d8eb21) |
 
 ## New Positions This Week
-3 of 3 max (pending fill)
-
-## CRITICAL: Next Routine Actions
-- **MUST place 10% trailing stop orders** on AVGO (12), NVDA (23), META (8) once buy orders fill
-- Trailing stops could not be placed now — Alpaca rejects sell orders while buy is pending
-- The midday or EOD routine on Monday MUST check fills and place stops immediately
+3 of 3 max (all filled today)
 
 ## Notes
-- **2026-06-21 (market open):** Placed 3 market buy orders for Monday open: AVGO (12 shares), NVDA (23 shares), META (8 shares). All accepted by Alpaca. Trailing stops deferred until fills confirmed. First trades for this portfolio — focused on AI/tech sector momentum leaders with strong fundamentals.
-- **2026-06-21 (midday):** Midday check completed. Account confirmed at $100,000 cash, no open positions, no open orders. Markets closed (Sunday).
-- **2026-06-21:** EOD routine confirmed API connectivity restored. Account verified at $100,000 cash, no open positions, no open orders.
-- **2026-06-20:** End-of-day routine ran but could NOT reach Alpaca API or Telegram API — blocked by network egress policy. No trades placed.
+- **2026-06-22 (midday):** All 3 buy orders filled at open. AVGO filled at $403.09, NVDA at $213.73, META at $569.44. Placed 10% trailing stops on all 3 positions (GTC). All positions slightly red — broad tech selloff today (AVGO -3.88%, META -2.67%, NVDA -0.68% intraday). No risk thresholds breached. Portfolio down -0.26% on the day.
+- **2026-06-21 (market open):** Placed 3 market buy orders for Monday open: AVGO (12 shares), NVDA (23 shares), META (8 shares).
+- **2026-06-21 (midday):** Midday check completed. Account confirmed at $100,000 cash, no open positions. Markets closed (Sunday).
+- **2026-06-20:** End-of-day routine ran but could NOT reach Alpaca API — blocked by network egress policy.
