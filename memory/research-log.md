@@ -1,5 +1,88 @@
 # Research Log
 
+## 2026-06-23 — Pre-Market Research (Tuesday)
+
+**Market Snapshot (Pre-Market):**
+- S&P 500 futures: +0.98% | Nasdaq 100: +1.64% — indicating rebound from Monday selloff
+- Semiconductor sector still under pressure from AVGO Q3 AI revenue guidance miss ($16B vs $17.2B whisper)
+- PHLX chip index dropped 10% on June 5 — worst since March 2020 — and hasn't fully recovered
+- Broader AI chip complex remains volatile; profit-taking after extended rally
+
+**Portfolio Status (Pre-Market via Alpaca):**
+| Ticker | Entry | Current | P/L % | From 7% Cut | Status |
+|--------|-------|---------|-------|-------------|--------|
+| AVGO | $403.09 | $378.04 | **-6.21%** | $3.17 buffer | **DANGER — approaching -7% cut** |
+| NVDA | $213.73 | $202.60 | -5.21% | $3.83 buffer | Watch closely |
+| META | $569.44 | $559.64 | -1.72% | Fine | Healthiest position |
+
+- Portfolio Value: $99,365.01 (-0.64% total, -0.34% today)
+- Cash: $85,691.61
+- All trailing stops still active and untriggered
+- Daily loss cap: NOT breached (-0.34% vs -3% limit)
+
+**CRITICAL ALERT: AVGO at -6.21% from entry.** Cut price is $374.87 (7% below $403.09). Only $3.17 / 0.79% buffer remaining. If AVGO opens lower or continues declining, the midday routine MUST cut this position. No exceptions per trading rules.
+
+**Today's Key Events:**
+1. **FedEx (FDX) Q4 FY2026 earnings — AFTER CLOSE TODAY**
+   - Consensus: EPS $5.91-$6.41, Revenue $24.18B (up 8% YoY)
+   - Last report to include Freight unit (FDXF spun off June 1)
+   - U.S. domestic package revenue was +10% in Q3 (best since FY22), but freight revenue -5%
+   - Economic bellwether: weak results signal broader slowdown risk
+   - Fed held rates at 3.50-3.75%, signaled possible hike — any FDX weakness amplifies concern
+
+2. **Micron (MU) Q3 earnings — TOMORROW (June 24) AFTER CLOSE**
+   - Consensus: EPS $19.95-$20.05, Revenue $34.66-$35B (276% YoY growth)
+   - HBM capacity fully booked through 2026 and into early 2027
+   - HBM4 production ramp at 2x speed of HBM3
+   - Key watch: gross margin sustainability (targeting 80%+), HBM4 allocations for Vera Rubin Ultra
+   - Strong Buy: 27 analysts, 0 sell. RBC PT $1,200, Cantor PT $1,500
+   - CRITICAL: Beat validates our AVGO/NVDA thesis; miss could break it
+
+**Holdings-Specific News:**
+- **AVGO:** JPMorgan says "aggressive buy" despite selloff. But concerns persist: Q3 AI semi revenue guide $16B vs $17.2B whisper, gross margins dropping to 74% from 77.1% (product mix shift to lower-margin custom AI accelerators). Google diversifying suppliers — AVGO's TPU revenue share projected to fall from 95% (2026) to 65% (2028).
+- **NVDA:** Multiple bank upgrades continue ("loudest of the month"). Forward P/E at 25.4x is reasonable for the growth profile. Still sitting 26% below 52-week high of $236.26.
+- **META:** Equity raise speculation ($64.2B) remains unconfirmed. Meta called it "pure speculation." Working with AVGO on custom AI chips (ASICs) to diversify away from NVDA GPUs.
+
+**Sector Dynamics:**
+- Semi sector had sharp selloff June 17: AMD -7.3%, INTC -8.5%, MU -6.2%, AVGO -4.4%, NVDA -2.4%
+- Intel (+225% YTD) leading all semis in 2026 — turnaround story with Apple deal, Google cloud
+- AMD at 84.4x forward P/E after +130% YTD — extended but showing AI accelerator share gains
+- AI capex theme intact: $571B projected in 2026, Big Five infra spend +36% YoY
+
+**Trade Ideas for Next Week (June 29+ — 3/3 positions used this week):**
+
+### 1. MU (Micron) — Priority: HIGH (Post-Earnings Only)
+- **Thesis:** HBM supercycle play. If Q3 beats ($19.95 EPS / $34.66B rev) and guides up, confirms structural AI memory demand. 80%+ gross margins on HBM. Fully booked through 2026.
+- **Entry:** ONLY after June 24 earnings. Buy if beats AND holds above $1,100 post-reaction.
+- **Position size:** 4 shares (~$4,520, ~4.5% of portfolio)
+- **Risk:** HIGH pre-earnings. Moderate post-beat. Guidance miss at these valuations = sharp drawdown.
+- **Stop:** 10% trailing immediately after entry.
+
+### 2. GOOGL (Alphabet) — Priority: HIGH
+- **Thesis:** Cloud +63% YoY, AI search monetization improving. Completed $84.75B equity raise — capital position strong. Strong Buy consensus (63 analysts), avg PT $432.83 (+17.6% upside). Diversified revenue.
+- **Entry:** ~$365-370 range if tech stabilizes this week
+- **Position size:** 13 shares (~$4,771, ~4.8% of portfolio)
+- **Risk:** MODERATE. Fed hawkishness, regulatory overhang on search.
+- **Stop:** 10% trailing.
+
+### 3. AMD (Advanced Micro Devices) — Priority: MEDIUM-LOW (Downgraded)
+- **Thesis:** AI accelerator share gains via MI300X. Citi PT $575. 35 analysts Strong Buy.
+- **Concern:** Forward P/E at 84.4x is very rich. +130% YTD = extended. More volatile than GOOGL/MU.
+- **Entry:** Only if MU beats AND AMD pulls back to ~$500-510 range
+- **Position size:** 9 shares (~$4,590, ~4.6% of portfolio)
+- **Risk:** MODERATE-HIGH. Expensive valuation, volatile.
+- **Stop:** 10% trailing.
+
+**Action Items for Today:**
+- [ ] **CRITICAL: Monitor AVGO at midday. If at or below $374.87 (-7% from entry), CUT immediately.**
+- [ ] Monitor NVDA — watch for further deterioration toward -7% ($198.77)
+- [ ] Watch FedEx earnings after close — demand signals for economy
+- [ ] Prepare for Micron earnings Wednesday — biggest near-term catalyst
+- [ ] Futures suggest rebound — if holds through open, could relieve pressure on positions
+- [ ] No new trades this week (3/3 used)
+
+---
+
 ## 2026-06-22 — Pre-Market Research Update #2 (Monday, Pre-Open)
 
 **Market Snapshot (Pre-Market):**

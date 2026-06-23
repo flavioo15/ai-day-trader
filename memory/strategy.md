@@ -1,57 +1,60 @@
 # Trading Strategy
 
-**Last Updated:** 2026-06-22 (pre-market research, pre-open)
+**Last Updated:** 2026-06-23 (pre-market research, Tuesday)
 
 ## Current Market Thesis
-AI/tech sector continues to lead. S&P 500 near ATH at 7,420 (high of 7,616 on June 2). Hyperscaler AI capex projected at $571B in 2026. The Big Five (MSFT, GOOGL, META, AMZN, ORCL) plan combined infra spend up 36% YoY. HBM memory market doubling to $62B. AI infrastructure buildout is the dominant multi-quarter theme.
+AI/tech sector in correction mode after extended rally. PHLX chip index dropped 10% on June 5 (worst since March 2020). Semis continue under pressure from AVGO Q3 AI revenue guide miss ($16B vs $17.2B whisper) and profit-taking. However, AI capex theme intact: $571B projected in 2026, Big Five infra spend +36% YoY. HBM memory market doubling to $62B.
 
-Monday open looks modestly bearish: S&P futures -0.05%, Nasdaq -0.13%. Prediction markets show 56% probability of lower open. Not alarming — thin liquidity, no overnight shocks.
+Tuesday pre-market: S&P futures +0.98%, Nasdaq +1.64% — potential bounce. But our positions continued sliding yesterday (Day 2 of declines).
 
-**Key risks:**
-1. Fed hawkish shift — 9 of 18 policymakers project ≥1 rate hike in 2026. Prediction markets disagree (81% probability of cuts). This divergence itself is a risk.
-2. META equity raise — reports of potential ~$64.2B offering. If confirmed, creates near-term dilution pressure on our META position. Meta called it "pure speculation."
-3. Micron earnings miss — a disappointment Wednesday would pressure our entire semiconductor-heavy portfolio (AVGO, NVDA).
+**Key risks (updated):**
+1. **AVGO at -6.21% from entry — approaching -7% hard stop.** If hits $374.87, must cut immediately. No exceptions.
+2. NVDA at -5.21% from entry — next on the danger list if selloff continues.
+3. Micron earnings Wednesday — a miss would devastate our semiconductor-heavy portfolio.
+4. Fed hawkish stance — 9/18 policymakers project ≥1 hike in 2026. Higher rates = growth stock pressure.
+5. AVGO structural concern: Google diversifying away from Broadcom for TPU silicon. Revenue share projected to fall from 95% → 65% by 2028.
+6. META equity raise speculation still unresolved.
 
 ## Sector Preferences
-- **Overweight:** Technology, Semiconductors, Communication Services (AI-driven)
+- **Overweight:** Technology, Semiconductors, Communication Services (AI-driven) — but with TIGHT risk management given correction
 - **Neutral:** Industrials, Consumer Discretionary
-- **Underweight:** Financials, Energy, Healthcare (showing near-term weakness)
+- **Underweight:** Financials, Energy, Healthcare
 
 ## Current Positioning
-- 3 positions filling today at open: AVGO (12), NVDA (23), META (8)
-- ~14.4% of portfolio to be deployed, ~85.6% cash
-- Conservative initial deployment — room to add up to 7 more positions (max 10 total)
-- 3/3 new positions used for this week — next entries earliest Monday June 29
-- IMMEDIATE PRIORITY: Place 10% trailing stops on all 3 once fills confirmed
+- 3 open positions: AVGO (12), NVDA (23), META (8)
+- ~13.7% deployed, ~86.3% cash ($85,692)
+- Portfolio: $99,365.01 (-0.64% total)
+- 3/3 new positions used this week — next entries earliest Monday June 29
+- All 10% trailing stops active and untriggered
+- **AVGO is the weakest link — may need to cut this week**
 
 ## Key Catalysts This Week
-1. **Mon June 22:** Orders fill at open. MUST place trailing stops immediately after confirmation.
-2. **Tue June 23 (AMC):** FedEx Q4 earnings — EPS est $5.91, rev $24.18B. Freight spin-off completed June 1 (FDXF). Economic bellwether — watch for demand signals.
-3. **Wed June 24:** Micron Q3 earnings — CRITICAL. Consensus EPS $19.72-$19.95, rev $34.5-$34.66B. Own guidance $33.5B at 81% margins. Strong Buy (27 analysts, 0 sell). Beat validates our AVGO/NVDA thesis.
-4. **Late June:** GDP and PCE data releases — inflation signals affecting Fed rate path.
+1. **Tue June 23 (AMC):** FedEx Q4 earnings — EPS est $5.91-$6.41, rev $24.18B. Last report with freight unit. Economic bellwether. Domestic package +10% was strong in Q3 but freight -5%.
+2. **Wed June 24 (AMC):** Micron Q3 earnings — CRITICAL. EPS est $19.95-$20.05, rev $34.66-$35B (276% YoY). HBM sold out through 2026. Beat = thesis validation. Miss = trouble for AVGO/NVDA.
+3. **Late June:** GDP and PCE data — inflation signals affecting Fed rate path.
+4. **Daily:** Monitor AVGO vs $374.87 cut threshold.
 
 ## Signals Being Watched
-- **Micron earnings (June 24)** — #1 near-term catalyst. RBC PT $1,200, Cantor PT $1,500. HBM4 Vera Rubin commentary is key.
-- **META equity raise confirmation** — would pressure our META position if real dilution announced
-- Federal Reserve commentary — hawkish lean vs market pricing of cuts
-- AI capex commentary from hyperscalers
-- NVDA bank upgrade cycle — "loudest of the month" per analysts
-- Iran deal impact on oil/inflation
-- Supreme Court tariff ruling fallout
-- Sector rotation patterns — INTC turnaround (+225% YTD) broadening semiconductor interest
+- **AVGO price vs $374.87** — #1 priority. Cut at -7% is mandatory.
+- **Micron earnings (June 24)** — #1 catalyst. HBM4 allocations and gross margin key.
+- **FedEx earnings (June 23)** — economic demand signal.
+- NVDA price vs $198.77 — secondary cut threshold to watch.
+- Fed commentary — hawkish lean vs market pricing of cuts.
+- META equity raise confirmation — dilution risk if real.
+- INTC turnaround (+225% YTD) broadening semi sector interest.
 
 ## Risk Appetite
-Conservative — capital preservation is priority #1, growth is #2. Maintaining heavy cash allocation (~85%). Will consider adding 1-2 positions next week if:
-1. Current positions hold above entry prices through the week
-2. Micron earnings validate semiconductor demand thesis (Wednesday)
-3. No Fed-related selloff materializes
-4. META equity raise rumors don't escalate
+DEFENSIVE. Capital preservation is the #1 priority. The semiconductor correction is testing our positions. Maintaining heavy cash (~86%). Will NOT add new positions next week UNLESS:
+1. AVGO holds above -7% cut threshold (or is cut and replaced)
+2. Micron earnings validate semiconductor demand (Wednesday)
+3. Portfolio stabilizes — no further daily losses exceeding -1%
+4. Sector rotation shows signs of bottoming
 
-## Active Watchlist
-| Stock | Price (6/18) | Thesis | Action Trigger | Priority |
-|-------|-------------|--------|----------------|----------|
-| GOOGL | $367.93 | Cloud +63% YoY, AI search, PT $432.83 (+17.6%). Completed $84.75B equity raise. | Tech momentum holds + MU beats, consider June 29 | HIGH |
-| MU | $1,132.59 | HBM boom, sold out through 2026, 81% GM. RBC PT $1,200, Cantor $1,500 | POST-EARNINGS ONLY — buy if beats + holds $1,100 | HIGH (after Wed 6/24) |
-| AMD | $537.13 | AI accelerator gains, MI300X adoption, Citi PT $575, 35 analysts Strong Buy | MU validates demand + AMD holds $530 | MEDIUM |
-| MSFT | $379.08 | Azure + Copilot AI monetization | Needs catalyst, flat price action | LOW |
-| INTC | $133.80 | Turnaround: Apple deal, Google cloud, +225% YTD | Too extended, watch for pullback to ~$120 | LOW |
+## Active Watchlist (Updated)
+| Stock | Last Price | Thesis | Action Trigger | Priority |
+|-------|-----------|--------|----------------|----------|
+| MU | ~$1,130 | HBM boom, sold out through 2026, 80%+ GM. RBC PT $1,200, Cantor $1,500. HBM4 at 2x ramp speed. | POST-EARNINGS ONLY — buy if beats + holds $1,100. June 29+. | HIGH |
+| GOOGL | ~$367 | Cloud +63% YoY, AI search, PT $432.83 (+17.6%). $84.75B equity raise done. Diversified. | Tech stabilizes + MU beats. June 29+. | HIGH |
+| AMD | ~$537 | AI accelerator gains, MI300X. Citi PT $575. 35 analysts Strong Buy. | MU validates + AMD pulls back to ~$500-510. **Downgraded** — 84.4x fwd P/E too rich. | MEDIUM-LOW |
+| MSFT | ~$379 | Azure + Copilot AI. | Needs catalyst. Flat price action. | LOW |
+| INTC | ~$134 | Apple deal, Google cloud, +225% YTD. | Too extended. Watch for pullback to ~$120. | LOW |
