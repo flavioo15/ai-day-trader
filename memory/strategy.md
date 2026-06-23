@@ -1,6 +1,6 @@
 # Trading Strategy
 
-**Last Updated:** 2026-06-23 (market open routine, Tuesday)
+**Last Updated:** 2026-06-23 (midday check, Tuesday)
 
 ## Current Market Thesis
 AI/tech sector in correction mode after extended rally. PHLX chip index dropped 10% on June 5 (worst since March 2020). Semis continue under pressure from AVGO Q3 AI revenue guide miss ($16B vs $17.2B whisper) and profit-taking. However, AI capex theme intact: $571B projected in 2026, Big Five infra spend +36% YoY. HBM memory market doubling to $62B.
@@ -8,8 +8,8 @@ AI/tech sector in correction mode after extended rally. PHLX chip index dropped 
 Tuesday pre-market: S&P futures +0.98%, Nasdaq +1.64% — potential bounce. But our positions continued sliding yesterday (Day 2 of declines).
 
 **Key risks (updated):**
-1. **AVGO CUT** — exited at -6.93% (sell order pending, fills at 9:30 AM ET). Structural concerns confirmed.
-2. NVDA at -5.03% from entry — next on the danger list if selloff continues. Cut threshold: $198.77.
+1. **AVGO CUT** — sold at open for $381.83 avg. Realized loss -$255.06 (-5.27%). Position closed.
+2. **NVDA at -5.31% from entry** — down -3% today. Only $3.62 buffer to -7% cut ($198.77). HIGH ALERT.
 3. Micron earnings Wednesday — a miss would devastate our remaining semiconductor position (NVDA).
 4. Fed hawkish stance — 9/18 policymakers project ≥1 hike in 2026. Higher rates = growth stock pressure.
 5. META equity raise speculation still unresolved.
@@ -20,13 +20,13 @@ Tuesday pre-market: S&P futures +0.98%, Nasdaq +1.64% — potential bounce. But 
 - **Underweight:** Financials, Energy, Healthcare
 
 ## Current Positioning
-- 2 open positions: NVDA (23), META (8) — AVGO cut on June 23
-- AVGO sell order pending (fills at 9:30 AM ET June 23)
-- After AVGO sale: ~9.2% deployed, ~90.8% cash (~$90,194)
-- Portfolio: $99,325.55 (-0.67% total)
+- 2 open positions: NVDA (23), META (8) — AVGO cut at open June 23
+- ~9.2% deployed, ~90.8% cash ($90,274)
+- Portfolio: $99,441.48 (-0.56% total)
 - 3/3 new positions used this week — next entries earliest Monday June 29
-- NVDA and META trailing stops active and untriggered
-- **NVDA at -5.03% — monitoring but not yet at -7% cut ($198.77)**
+- NVDA trailing stop at $188.98 (active), META trailing stop at $514.98 (active)
+- **NVDA at -5.31% — HIGH ALERT, only $3.62 above -7% cut ($198.77). Trailing stop at $188.98 does NOT enforce -7% rule.**
+- AVGO realized loss: -$255.06 (-5.27%)
 
 ## Key Catalysts This Week
 1. **Tue June 23 (AMC):** FedEx Q4 earnings — EPS est $5.91-$6.41, rev $24.18B. Last report with freight unit. Economic bellwether. Domestic package +10% was strong in Q3 but freight -5%.
@@ -35,12 +35,12 @@ Tuesday pre-market: S&P futures +0.98%, Nasdaq +1.64% — potential bounce. But 
 4. **Daily:** Monitor NVDA vs $198.77 cut threshold.
 
 ## Signals Being Watched
-- **NVDA price vs $198.77** — #1 position risk. Cut at -7% is mandatory.
-- **Micron earnings (June 24)** — #1 catalyst. HBM4 allocations and gross margin key.
-- **FedEx earnings (June 23)** — economic demand signal.
+- **NVDA price vs $198.77** — #1 priority. Cut at -7% is MANDATORY. Only $3.62 buffer remaining. DOWN -3% TODAY.
+- **Micron earnings (June 24)** — #1 catalyst. Beat = NVDA thesis validated. Miss = likely cut NVDA.
+- **FedEx earnings (June 23 AMC)** — economic demand signal. Results coming tonight.
+- META price vs $529.58 — -7% cut threshold. Currently healthy (-0.94%).
 - Fed commentary — hawkish lean vs market pricing of cuts.
 - META equity raise confirmation — dilution risk if real.
-- INTC turnaround (+225% YTD) broadening semi sector interest.
 
 ## Risk Appetite
 DEFENSIVE. Capital preservation is the #1 priority. The semiconductor correction is testing our positions. Maintaining heavy cash (~91%). Will NOT add new positions next week UNLESS:
