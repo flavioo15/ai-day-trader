@@ -1,5 +1,32 @@
 # Lessons Learned
 
+## 2026-06-23 — End of Day 2: First Loss Realized (AVGO Cut)
+**What Happened:**
+- AVGO cut by midday routine at avg $381.83 (-5.27%, -$255.06 realized loss)
+- Trailing stop canceled first, then market sell placed — filled in partial fills over ~6 minutes
+- NVDA dropped -3.78% today, now at -6.07% from entry — only $1.99 (0.99%) above -7% hard cut
+- META relatively resilient at -0.21% today (-1.19% from entry)
+- Portfolio: $99,392.99 (-0.31% today, -0.61% total)
+- Cash: $90,273.63 (90.8% of portfolio)
+
+**What Worked:**
+- Cutting AVGO before hitting -7% hard stop was disciplined execution
+- Having the -7% rule prevented a larger loss — AVGO had structural headwinds (Google diversification, guide miss)
+- Cash-heavy portfolio (90.8%) limits total drawdown despite 2 losing days
+
+**What Didn't:**
+- AVGO held only 1 trading day — violated the 5-day minimum hold rule (though cutting at -7% threshold is an exception)
+- Entered AVGO on strongest momentum day (+4.62%) — this was a mean-reversion trap, not trend continuation
+- All 3 positions entered same day in same sector (tech/semi) — correlated drawdown
+
+**Key Lesson:**
+Strongest single-day momentum often signals exhaustion, not acceleration. AVGO's +4.62% on June 18 was followed by a Q3 guide miss reality check. Better to enter on modest pullbacks within an uptrend than to chase single-day spikes. Also: when company-specific headwinds exist (Google diversification), positive momentum alone isn't enough.
+
+**CRITICAL ALERT for Tomorrow:**
+- NVDA at $200.76, -7% cut threshold at $198.77. Only $1.99 buffer (0.99%).
+- If NVDA opens down >1%, midday routine MUST cut immediately.
+- Micron earnings tomorrow after close — a beat could save NVDA; a miss could trigger the cut.
+
 ## 2026-06-22 — End of Day 1 Recap
 **What Happened:**
 - First full trading day complete. All 3 positions (AVGO, NVDA, META) in the red.
