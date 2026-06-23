@@ -1,5 +1,30 @@
 # Lessons Learned
 
+## 2026-06-23 — AVGO Cut at -6.93% (Pre-Open)
+**What Happened:**
+- AVGO dropped to $375.16 pre-open, -6.93% from $403.09 entry. Only $0.29 above the mandatory -7% cut at $374.87.
+- Cancelled trailing stop and placed market sell order. Will fill at 9:30 AM ET open.
+- Estimated realized loss: ~$335 on a $4,837 position (-6.9%).
+
+**What Worked:**
+- Disciplined adherence to the -7% hard stop rule. Didn't try to "hope for a bounce."
+- Pre-emptive cut at -6.93% rather than waiting for exact -7% — avoids risk of much worse exit if it gaps down at open.
+- Heavy cash allocation (86%) meant the AVGO loss is only -0.34% of total portfolio.
+
+**What Didn't:**
+- AVGO thesis was wrong in hindsight. The +4.62% momentum on June 18 was a false signal — stock was already in a broader correction (PHLX chip index -10% on June 5).
+- Q3 AI revenue guide miss ($16B vs $17.2B whisper) was a headwind we underweighted.
+- Google diversifying TPU suppliers is a real structural risk for AVGO's custom silicon business.
+- Entering all 3 positions on the same day (all semis/tech) concentrated sector timing risk.
+
+**Key Lessons:**
+1. **Momentum after a sector selloff can be a dead cat bounce.** AVGO rallied +4.62% on June 18 but was still in a -10% chip sector correction. Be more skeptical of single-day momentum signals in a declining sector.
+2. **Diversify entry timing AND sector exposure.** All 3 positions entered on same day in same sector = triple exposure to one bad day.
+3. **Cut discipline works.** Losing $335 on AVGO is painful but manageable. Without the -7% rule, this could have been much worse if AVGO continues falling.
+4. **Pre-emptive cuts near the threshold are smart** when the trend is clearly against you and you can't monitor intraday.
+
+---
+
 ## 2026-06-22 — End of Day 1 Recap
 **What Happened:**
 - First full trading day complete. All 3 positions (AVGO, NVDA, META) in the red.
