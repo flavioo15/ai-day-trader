@@ -1,5 +1,109 @@
 # Research Log
 
+## 2026-06-24 — Pre-Market Research (Wednesday)
+
+**Market Snapshot (Pre-Market):**
+- **Tuesday June 23 was a bloodbath:** S&P 500 -1.44%, Nasdaq Composite -2.21%, Dow -0.09%
+- PHLX Semiconductor Index: **-7.9%** — worst single-day move in months
+- S&P 500 Information Technology sector: -3.7%
+- MU (Micron) plunged **13%** ahead of today's earnings
+- Samsung and SK Hynix fell as much as 12% — global semi rout
+- **Catalyst:** Growing concern that hyperscaler AI spending won't generate sufficient ROI. Alphabet Q1 FCF -47% YoY to $10.12B; Amazon trailing FCF collapsed -95% to $1.2B. AVGO's Q3 AI revenue guide miss ($16B vs $17.2B whisper) triggered $1.3T semiconductor market cap wipeout earlier in June.
+- Wednesday pre-market: Futures slightly positive. Some bounce attempt. NVDA +0.63% pre-market.
+
+**Portfolio Status (Live from Alpaca — Pre-Market):**
+| Ticker | Entry | Current | P/L % | From -7% Cut | Trailing Stop | Status |
+|--------|-------|---------|-------|--------------|---------------|--------|
+| NVDA | $213.73 | $201.30 | **-5.81%** | $2.53 buffer | $188.98 (10%, hwm $209.98) | DANGER — 1.25% from hard cut |
+| META | $569.44 | $562.28 | -1.26% | $32.51 buffer | $514.98 (10%, hwm $572.20) | Stable |
+
+- Portfolio Value: $99,401.83 (-0.60% total)
+- Cash: $90,273.61 (90.8%)
+- NVDA ticked up slightly from yesterday's close of $200.04 — marginal relief
+- Both trailing stops active and untriggered
+- Daily loss cap: NOT breached
+
+**CRITICAL: NVDA -7% hard cut at $198.77.** Only $2.53 / 1.25% buffer. Micron earnings tonight will likely determine this position's fate. If MU beats → semi relief rally could save NVDA. If MU misses → NVDA likely gaps through cut threshold tomorrow morning. Midday routine MUST monitor this closely.
+
+**Today's Key Events:**
+
+1. **Micron (MU) Q3 Earnings — AFTER CLOSE TODAY (THE pivotal event)**
+   - Consensus: EPS $19.82-$20.05, Revenue $34.8-$35.0B (268-276% YoY growth)
+   - MU already down 13% yesterday — expectations being repriced lower
+   - HBM capacity fully booked through 2026 into early 2027. HBM4 ramp at 2x speed of HBM3.
+   - Key metrics: gross margin sustainability (targeting 80%+), HBM4 allocations, fiscal 2026 full-year guidance
+   - Strong Buy: 27 analysts, 0 sell. RBC PT $1,200, Cantor PT $1,500.
+   - **Binary outcome for our portfolio:** Beat validates NVDA thesis and likely triggers relief rally. Miss could break semiconductor narrative and trigger NVDA cut.
+
+2. **Fed Bank Stress Test Results — TODAY**
+   - 32 large US banks evaluated. Severe scenario: 10% unemployment, 30% home price decline, 39% CRE drop.
+   - Results won't affect capital requirements until 2027. Mostly informational.
+
+3. **May New Home Sales Data — TODAY**
+   - Housing market mixed: J.P. Morgan sees 0% house price growth in 2026.
+   - Relevance: broader economic demand signal.
+
+4. **Other Earnings Today:** Paychex (PAYX), Jefferies Financial (JEF)
+
+**Yesterday's Key Result — FedEx (FDX) Q4 FY2026:**
+- **Beat:** EPS $6.31 vs $5.92 est, Revenue $25.0B vs $24.0B est. Full-year rev $94.7B (+8% YoY).
+- **BUT stock fell 6% after hours** ($316.83 → $297.70) on weak forward guidance: CY2026 EPS guide $16.90-$18.10, cost pressures from Freight spin-off.
+- **Read-through:** Economic demand is present (top-line beat) but margins under pressure. Mixed signal — not recessionary, but not booming either.
+
+**Major Development — GOOGL Joining Dow Jones:**
+- Alphabet will replace Verizon in the DJIA effective **Monday June 29**
+- Creates passive index fund buying flow — structural positive catalyst
+- GOOGL trades at ~7x VZ's share price, making it a much more impactful Dow component
+- This is a strong catalyst for our GOOGL watchlist position
+
+**Holdings-Specific News:**
+- **NVDA:** Part of the broad semi rout. No NVDA-specific negative catalyst — this is sector-wide selling from AI spending ROI concerns. Multiple bank upgrades still in place. Forward P/E at ~25x remains reasonable for growth profile. The question is whether the market reprices the entire AI infrastructure thesis.
+- **META:** Remarkably resilient through the selloff. 64 analysts Strong Buy, avg PT $827.32 (+47% upside). Instagram expanding to TV (longer-form video). Investing $900M in Cred, naming its founder as WhatsApp chief. P/E 20.45x. META's diversified ad revenue protects it vs pure semi plays.
+
+**Sector Dynamics:**
+- **AI Spending Narrative Shifting:** The market is no longer asking "who benefits from AI" but "is anyone making money from AI?" This is a meaningful sentiment shift from 2025's pure-capex euphoria.
+- Semi sector in full correction. PHLX chip index -7.9% in a single day (June 23). MU -13%.
+- AI capex theme is being challenged: $571B projected spend in 2026, but investors now question returns.
+- Intel (+225% YTD) was the 2026 semi success story but also got caught in the downdraft.
+- **Key insight:** The selloff is macro-narrative driven (AI ROI doubt), not company-fundamental driven. If MU beats tonight with strong margins and guidance, it directly contradicts the "AI spending is wasted" narrative and could trigger a sector-wide reversal.
+
+**Trade Ideas for Next Week (June 29+ — 3/3 positions used this week):**
+
+### 1. GOOGL (Alphabet) — Priority: **HIGHEST** (Upgraded)
+- **Thesis:** Dow Jones inclusion June 29 creates structural passive buying demand. Cloud +63% YoY. 64 analysts Strong Buy, avg PT $432.83 (+17.6% upside at recent prices). Despite FCF concerns ($10.12B Q1 vs $19B YoY), diversified revenue base (Search, YouTube, Cloud) provides cushion that pure-semi plays lack. Completed $84.75B equity raise — balance sheet fortified.
+- **Catalyst:** Dow inclusion June 29 = passive index buying. Most Dow index funds rebalance at/before the effective date.
+- **Entry:** Current selloff has likely pushed GOOGL below $360. Wait for stabilization post-MU earnings. Target $350-365 range.
+- **Position size:** 13-14 shares (~$4,700-$5,000, ~4.7-5.0% of portfolio)
+- **Risk:** MODERATE. AI spending ROI narrative could continue pressuring, but Dow inclusion provides floor.
+- **Stop:** 10% trailing immediately.
+
+### 2. MU (Micron) — Priority: HIGH (Post-Earnings Only — TONIGHT)
+- **Thesis:** HBM supercycle play. If Q3 beats consensus and guides up, it directly refutes the "AI spending is wasted" narrative and validates demand for the entire AI infrastructure stack. MU's 13% plunge yesterday may have already priced in a lot of risk — creating a better entry if results are strong.
+- **Entry:** ONLY after tonight's earnings. If beats AND holds above $950 post-reaction (vs ~$1,000 pre-selloff level), buy on Friday/Monday.
+- **Position size:** 4-5 shares (~$4,000-$5,000, ~4.0-5.0% of portfolio)
+- **Risk:** HIGH pre-earnings. Moderate post-beat. A miss at these valuations after 13% drop = further carnage.
+- **Stop:** 10% trailing immediately.
+
+### 3. Sector Diversification Play — Priority: MEDIUM
+- **Thesis:** Our portfolio has been 100% tech/semi. The AI spending ROI narrative shift suggests diversifying into quality names outside the semi complex. Consider:
+  - **COST (Costco):** Consumer staples leader, steady comps, defensive growth. Would reduce portfolio's correlation to AI narrative.
+  - **UNH (UnitedHealth):** Healthcare leader, aging demographics tailwind. Provides sector diversification.
+  - **GE Aerospace (GE):** Aerospace/defense demand cycle. Strong order book, engine services revenue.
+- **Entry:** Research further during pre-market Thursday after MU results are known.
+- **Position size:** ~$4,500-$5,000 (4.5-5.0% of portfolio)
+- **Risk:** LOW-MODERATE. These are quality defensive names.
+- **Stop:** 10% trailing.
+
+**Action Items for Today:**
+- [ ] **CRITICAL: Midday routine must check NVDA vs $198.77 hard cut.** If at or below, CUT immediately.
+- [ ] Monitor MU earnings after close — biggest catalyst for portfolio and next week's strategy
+- [ ] Watch for Fed stress test results — unlikely to move markets but track for financials positioning
+- [ ] No new trades this week (3/3 used). All action items are monitoring + research.
+- [ ] If MU beats: prepare GOOGL buy order for June 29+, consider MU entry
+- [ ] If MU misses: prepare for likely NVDA cut Thursday morning, reassess entire semi thesis
+
+---
+
 ## 2026-06-23 — Pre-Market Research (Tuesday)
 
 **Market Snapshot (Pre-Market):**
