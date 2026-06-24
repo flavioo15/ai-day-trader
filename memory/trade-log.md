@@ -14,10 +14,11 @@
 **Target:** Hold for swing (5-20 trading days). Tighten stop to 7% if up >5%.
 **Risk:** Valuation compression if AI capex guidance disappoints. VMware integration hiccups.
 
-### NVDA (Nvidia) — Entered 2026-06-21
+### NVDA (Nvidia) — Entered 2026-06-22, PENDING CUT 2026-06-25
 **Thesis:** Nvidia remains the dominant AI infrastructure provider with unmatched GPU performance and ecosystem lock-in. Hyperscaler capex continues to accelerate for AI training and inference workloads. The stock showed +2.78% momentum and has been a consistent beat-and-raise story. Data center segment drives the vast majority of revenue growth.
 **Target:** Hold for swing (5-20 trading days). Tighten stop to 7% if up >5%.
 **Risk:** High valuation sensitivity to any growth deceleration. Supply constraints or customer diversification to custom silicon.
+**Status (2026-06-24 EOD):** BREACHED -7% hard cut. Closed at $197.15 vs cut price $198.77. Must sell at market open June 25. Unrealized loss: -$381.34 (-7.76%).
 
 ### META (Meta Platforms) — Entered 2026-06-21
 **Thesis:** Meta's ad engine continues to deliver strong revenue growth driven by AI-powered ad targeting and recommendation improvements. Cost discipline after the "year of efficiency" has dramatically improved margins. AI investment in Llama models creates optionality. The stock showed solid +1.78% momentum with high institutional quality.

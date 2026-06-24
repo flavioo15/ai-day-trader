@@ -1,6 +1,6 @@
 # Trading Strategy
 
-**Last Updated:** 2026-06-23 (midday check, Tuesday)
+**Last Updated:** 2026-06-24 (end of day, Wednesday)
 
 ## Current Market Thesis
 AI/tech sector in correction mode after extended rally. PHLX chip index dropped 10% on June 5 (worst since March 2020). Semis continue under pressure from AVGO Q3 AI revenue guide miss ($16B vs $17.2B whisper) and profit-taking. However, AI capex theme intact: $571B projected in 2026, Big Five infra spend +36% YoY. HBM memory market doubling to $62B.
@@ -20,13 +20,14 @@ Tuesday pre-market: S&P futures +0.98%, Nasdaq +1.64% — potential bounce. But 
 - **Underweight:** Financials, Energy, Healthcare
 
 ## Current Positioning
-- 2 open positions: NVDA (23), META (8) — AVGO cut at open June 23
-- ~9.2% deployed, ~90.8% cash ($90,274)
-- Portfolio: $99,441.48 (-0.56% total)
+- 2 open positions: NVDA (23 — **MUST CUT TOMORROW OPEN**), META (8)
+- ~9.1% deployed, ~90.9% cash ($90,274)
+- Portfolio: $99,266.89 (-0.73% total)
 - 3/3 new positions used this week — next entries earliest Monday June 29
-- NVDA trailing stop at $188.98 (active), META trailing stop at $514.98 (active)
-- **NVDA at -5.31% — HIGH ALERT, only $3.62 above -7% cut ($198.77). Trailing stop at $188.98 does NOT enforce -7% rule.**
+- NVDA breached -7% hard cut at close ($197.15 < $198.77). Must sell at open June 25.
+- META trailing stop at $514.98 (active and untriggered)
 - AVGO realized loss: -$255.06 (-5.27%)
+- **After NVDA cut: portfolio will be ~95.4% cash + META only (~4.5% deployed)**
 
 ## Key Catalysts This Week
 1. **Tue June 23 (AMC):** FedEx Q4 earnings — EPS est $5.91-$6.41, rev $24.18B. Last report with freight unit. Economic bellwether. Domestic package +10% was strong in Q3 but freight -5%.

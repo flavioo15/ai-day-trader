@@ -1,5 +1,32 @@
 # Lessons Learned
 
+## 2026-06-24 — End of Day 3: NVDA Breaches -7% Cut Threshold
+**What Happened:**
+- NVDA closed at $197.15, below the -7% hard cut level of $198.77 (-7.76% from $213.73 entry)
+- META closed at $557.33 (-0.87% today, -2.13% from entry) — continues to be the resilient position
+- Portfolio: $99,266.89 (-0.11% today, -0.73% total from $100K)
+- Daily P/L: -$105.24. Third losing day out of three trading days.
+- Cash: $90,273.61 (90.9% of portfolio)
+- MU earnings tonight after close — the binary catalyst we've been waiting for
+
+**What Worked:**
+- META position sizing and selection continues to outperform. Diversified ad revenue is proving more resilient than pure semi plays during the AI ROI doubt narrative.
+- Heavy cash allocation (90.9%) is containing overall portfolio damage to -0.73% despite two positions being cut.
+- Documented the -7% cut threshold in advance — no ambiguity about the rule.
+
+**What Didn't:**
+- NVDA breached the -7% cut during today's session but no routine ran to execute the cut intraday. The morning bounce to ~$201 faded, and NVDA sold through the cut level. This is a process gap.
+- Both AVGO and NVDA are now losses from the same sector bet placed on the same day. Concentrated sector timing risk is the #1 lesson.
+
+**Key Lesson:**
+When a position is within 1-2% of a hard stop, the morning routine should place a contingent sell order (stop-limit or stop-market at the cut price) rather than relying on midday monitoring. The gap between routines is a vulnerability.
+
+**CRITICAL ACTION for Tomorrow (June 25):**
+- Morning routine MUST cancel NVDA's trailing stop and place market sell at open.
+- Cut is mandatory regardless of MU earnings outcome or pre-market price.
+
+---
+
 ## 2026-06-24 — Midday Check: Discipline Holding
 **What Happened:**
 - NVDA at $200.82, -6.04% from entry. Buffer to -7% hard cut ($198.77) = $2.05 (1.02%). Close but NOT triggered.
