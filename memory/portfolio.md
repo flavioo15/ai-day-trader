@@ -1,22 +1,22 @@
 # Portfolio
 
-**Last Updated:** 2026-06-23 (midday check)
+**Last Updated:** 2026-06-24 (midday check)
 
 ## Summary
-- **Cash:** $90,273.63
-- **Holdings Value:** $9,167.85
-- **Total Portfolio Value:** $99,441.48
-- **Daily P/L:** -$265.44 (-0.27%)
-- **Total P/L:** -$558.52 (-0.56%)
+- **Cash:** $90,273.61
+- **Holdings Value:** $9,123.05
+- **Total Portfolio Value:** $99,396.66
+- **Daily P/L:** +$24.53 (+0.025%)
+- **Total P/L:** -$603.34 (-0.60%)
 
 ## Current Holdings
 
 | Ticker | Shares | Entry Price | Entry Date | Current Price | P/L $ | P/L % | Trailing Stop |
 |--------|--------|-------------|------------|---------------|-------|-------|---------------|
-| NVDA | 23 | $213.73 | 2026-06-22 | $202.39 | -$260.82 | -5.31% | 10% (stop $188.98, hwm $209.98, ID: 1e3c9814) |
-| META | 8 | $569.44 | 2026-06-22 | $564.07 | -$42.95 | -0.94% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) |
+| NVDA | 23 | $213.73 | 2026-06-22 | $200.82 | -$296.93 | -6.04% | 10% (stop $188.98, hwm $209.98, ID: 1e3c9814) |
+| META | 8 | $569.44 | 2026-06-22 | $562.98 | -$51.67 | -1.13% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) |
 
-**Total Unrealized P/L:** -$303.77
+**Total Unrealized P/L:** -$348.60
 
 ## Closed Positions
 
@@ -32,10 +32,12 @@
 ## Daily Performance
 | Date | Portfolio Value | Daily P/L | Daily P/L % | Notes |
 |------|----------------|-----------|-------------|-------|
-| 2026-06-23 | $99,441.48 | -$265.44 | -0.27% | Day 2 (midday). AVGO cut at open (-$255 realized). NVDA -3% today — HIGH ALERT. |
+| 2026-06-24 | $99,396.66 | +$24.53 | +0.025% | Day 3 (midday). NVDA $200.82 (-6.04%), META $562.98 (-1.13%). Slight green. MU earnings tonight. |
+| 2026-06-23 | $99,372.13 | -$334.79 | -0.34% | Day 2. AVGO cut at open (-$255 realized). NVDA -3.78% today. Semis crushed. |
 | 2026-06-22 | $99,747.43 | -$252.57 | -0.25% | Day 1. All 3 positions opened. Broad tech selloff. |
 
 ## Notes
+- **2026-06-24 (midday):** NVDA at $200.82 (-6.04% from entry). Buffer to -7% hard cut ($198.77) = $2.05 (1.02%) — TIGHT but NOT triggered. META flat at $562.98 (-1.13%). No action taken: no positions at -7%, no winners at +5%. Daily loss cap clear (+0.025% today). Both trailing stops active and untriggered. MU earnings TONIGHT after close are the decisive catalyst. Portfolio 90.8% cash.
 - **2026-06-23 (midday):** AVGO sell order (placed pre-market) filled at open — avg $381.83, realized loss -$255.06 (-5.27%). NVDA dropped -3% today to $202.39, now -5.31% from entry. Only $3.62 (1.79%) buffer above -7% hard cut at $198.77. NVDA trailing stop at $188.98 does NOT enforce -7% rule — EOD routine MUST cut if below $198.77. META flat today at $564.07 (-0.94% from entry), healthiest position. Daily loss cap: -0.27%, well below -3% limit. FedEx earnings after close today. Micron earnings tomorrow — critical catalyst.
 - **2026-06-23 (market open):** AVGO at $375.16, -6.93% from entry — only $0.29 above mandatory -7% cut ($374.87). Cancelled trailing stop (ID: 13812cb2) and placed market sell order (ID: 24f5e1f2) for 12 shares.
 - **2026-06-22 (EOD):** First trading day complete. All 3 positions red but within normal range. AVGO worst intraday performer (-4.08% from prev close), META (-2.06%), NVDA (-0.97%). All trailing stops active and untriggered.

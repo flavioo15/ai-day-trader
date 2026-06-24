@@ -1,5 +1,17 @@
 # Lessons Learned
 
+## 2026-06-24 — Midday Check: Discipline Holding
+**What Happened:**
+- NVDA at $200.82, -6.04% from entry. Buffer to -7% hard cut ($198.77) = $2.05 (1.02%). Close but NOT triggered.
+- META at $562.98, -1.13%. Stable and healthy.
+- Both trailing stops active. Portfolio +0.025% today. No action required.
+- Resisted urge to pre-emptively cut NVDA ahead of MU earnings — rules say -7%, not "close to -7%."
+
+**Key Lesson:**
+Stick to the rules. The -7% cut is a hard threshold, not a judgment call. NVDA is uncomfortably close but the rule exists to prevent emotional selling. If MU beats tonight, a pre-emptive cut would have been a costly mistake. If MU misses, the -7% rule will trigger tomorrow and the loss is only marginally worse. The rule works either way.
+
+---
+
 ## 2026-06-23 — AVGO Cut Confirmed + NVDA High Alert (Midday)
 **What Happened:**
 - AVGO sell order (placed pre-market at -6.93%) filled at open: avg $381.83, realized loss -$255.06 (-5.27% from $403.09 entry).
