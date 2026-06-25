@@ -1,5 +1,115 @@
 # Research Log
 
+## 2026-06-25 — Pre-Market Research (Thursday)
+
+**Market Snapshot (Pre-Market):**
+- **MU CRUSHED Q3 earnings last night — BEST CASE SCENARIO for portfolio**
+- Nasdaq futures +2% on Micron results
+- Broad chip sector rally: MU +12.6-13.1%, QCOM +12.7%, SanDisk +10.2%, WDC +10.2%, AMD +3.4%, INTC +3.4%
+- SOXX ETF recovering toward 52-week high
+- Market sentiment shifting: AI spending ROI narrative directly refuted by MU's record quarter
+
+**Portfolio Status (Live from Alpaca — Pre-Market):**
+| Ticker | Entry | Current | P/L % | From -7% Cut | Trailing Stop | Status |
+|--------|-------|---------|-------|--------------|---------------|--------|
+| NVDA | $213.73 | $201.75 | **-5.61%** | $2.98 buffer (1.48%) | $188.98 (10%, hwm $209.98) | RECOVERING — survived $199.00 close yesterday |
+| META | $569.44 | $556.54 | -2.27% | $26.96 buffer (4.83%) | $514.98 (10%, hwm $572.20) | Stable but slightly weaker |
+
+- Portfolio Value: $99,366.17 (-0.63% total)
+- Cash: $90,273.61 (90.8%)
+- **NVDA SURVIVED THE -7% CUT.** Yesterday's close was $199.00 — only $0.23 above the $198.77 hard cut threshold. MU's beat triggered a relief bounce to $201.75 (+1.38% pre-market).
+- META slightly weaker at -2.27% (was -1.13% on June 24). Not alarming but monitoring.
+- Both trailing stops active and untriggered.
+- Daily loss cap: NOT breached.
+
+**CRITICAL EVENT: Micron (MU) Q3 FY2026 Earnings — AFTER CLOSE June 24:**
+
+| Metric | Result | Consensus | Beat % |
+|--------|--------|-----------|--------|
+| Revenue | **$41.46B** | $35.69B | +16.2% |
+| EPS | **$25.11** | $20.49 | +22.6% |
+| Gross Margin | **84.9%** (record) | ~81% | +390bps |
+| Rev YoY Growth | +346% | +276% | Massive |
+| Rev QoQ Growth | +74% | — | Accelerating |
+
+**Q4 Guidance (vs consensus):**
+| Metric | Guidance | Consensus | Beat % |
+|--------|----------|-----------|--------|
+| Revenue | **$50B ±$1B** | $42.9B | +16.5% |
+| EPS | **~$31 ±$1** | ~$25 | +24% |
+| Gross Margin | **~86%** | ~83% | Expanding |
+
+**Key Highlights from MU Report:**
+- Data center sales climbed **7x YoY** to $11.5B — explosive AI-driven demand
+- **16 strategic customer agreements** representing **$100B in minimum contracted revenue**
+- HBM capacity fully booked through 2026 into early 2027
+- HBM4 production ramping at 2x speed of HBM3
+- Stock surged **+13.1% after hours** to $1,185.90 (near 52-week high of $1,213.56)
+
+**What This Means for Our Portfolio:**
+1. **NVDA thesis VALIDATED.** MU's results prove AI infrastructure demand is real and accelerating, not wasted. NVDA directly benefits as the GPU supplier to the same hyperscalers driving MU's demand.
+2. **AI spending ROI narrative WEAKENED.** The dominant bearish narrative of the past 2 weeks ("is anyone making money from AI?") is directly contradicted by MU's record margins, record revenue, and $100B in contracted revenue.
+3. **Semi sector correction likely bottoming.** The PHLX Semi -7.9% on June 23 may have been the capitulation. MU's beat + broad chip rally suggests the worst may be over.
+4. **NVDA buffer to -7% cut EXPANDED.** From $0.23 yesterday to $2.98 today. Still tight but no longer on the edge.
+
+**GOOGL Dow Jones Inclusion Update:**
+- Confirmed: GOOGL Class A replaces Verizon effective **Monday June 29, 2026**
+- Catalyst was Honeywell spin-off triggering Dow reconstitution
+- GOOGL down ~11.5% over past month — creates better entry
+- Analysts note inclusion won't drive standalone rerating since GOOGL widely held, but passive index fund rebalancing creates structural buying flow
+- 64 analysts Strong Buy, avg PT $432.83
+
+**Other Market News:**
+- Fed bank stress test results released June 24 — informational, no immediate market impact
+- GDP and PCE data expected later this week — inflation/rate path signals
+- FedEx beat on revenue ($25B vs $24B) but fell 6% on weak forward guidance — mixed economic signal (demand present, margins pressured)
+
+**Today's Earnings (June 25):**
+- 33 companies reporting — no major names directly affecting our holdings
+- Paychex (PAYX), Jefferies (JEF) among notables
+- No portfolio-relevant earnings today
+
+**Sector Dynamics:**
+- Semi sector in broad relief rally post-MU. This is the first positive catalyst since the AVGO guide miss triggered the June selloff.
+- AI capex theme REINFORCED: MU's $100B contracted revenue proves hyperscalers are committed, not pulling back.
+- Intel (+225% YTD), AMD (+130% YTD) both up ~3.4% after hours on MU sympathy.
+- The market is now testing whether MU's beat is enough to restore conviction in the AI chip cycle. Today's regular session trading will be the real test.
+
+**Trade Ideas for Next Week (June 29+ — 3/3 positions used this week):**
+
+### 1. GOOGL (Alphabet) — Priority: **HIGHEST**
+- **Thesis:** Dow inclusion June 29 creates structural passive buying demand. Cloud +63% YoY. Down ~11.5% over past month = better entry than June 18's $367.93. MU's beat reduces AI spending ROI overhang. 64 analysts Strong Buy, avg PT $432.83. Diversified revenue base (Search, YouTube, Cloud) cushions sector volatility.
+- **Catalyst:** Dow inclusion June 29 = passive index fund rebalancing. Most rebalancing occurs at or before effective date.
+- **Entry:** Target $345-355 range (down from $367 on June 18, current levels after selloff)
+- **Position size:** 14 shares (~$4,900, ~4.9% of portfolio)
+- **Risk:** MODERATE. AI spending narrative easing but not fully resolved. Regulatory overhang on search/ads.
+- **Stop:** 10% trailing immediately.
+
+### 2. MU (Micron) — Priority: **HIGH** (Post-Earnings Entry)
+- **Thesis:** Massive Q3 beat validates AI memory demand thesis. Revenue +16% above consensus, EPS +22% above, record 84.9% gross margins. Q4 guidance $50B revenue (17% above consensus). $100B contracted revenue from 16 strategic customers. HBM supercycle confirmed and accelerating.
+- **Entry:** After post-earnings digestion. If holds above $1,150 through Friday. After-hours at $1,186.
+- **Position size:** 4 shares (~$4,700, ~4.7% of portfolio)
+- **Risk:** MODERATE post-beat. Stock near 52-week high ($1,213.56). Post-earnings momentum could fade. But fundamentals are strongest in company history.
+- **Stop:** 10% trailing immediately.
+
+### 3. COST (Costco) — Priority: **MEDIUM** (Diversification)
+- **Thesis:** Portfolio is 100% tech/semi. Even with MU validating AI demand, single-sector concentration is a risk. Costco provides consumer staples exposure with steady comps, defensive growth, and strong balance sheet. Would reduce portfolio correlation to AI narrative swings.
+- **Entry:** Research price and fundamentals further. Target entry if tech shows any renewed weakness.
+- **Position size:** ~$4,500-$5,000 (4.5-5.0% of portfolio)
+- **Risk:** LOW-MODERATE. Quality defensive name. Lower upside potential but stabilizes portfolio.
+- **Stop:** 10% trailing.
+
+**Action Items for Today:**
+- [ ] **Midday routine: Monitor NVDA closely.** Buffer improved but still tight at 1.48% from -7% cut. MU-driven bounce should help but watch for intraday fade.
+- [ ] Watch MU's regular session trading — does the +13% after-hours hold? This determines semi sector conviction.
+- [ ] Monitor META — slightly weaker trend (-2.27% from entry). No alarm but watch for acceleration.
+- [ ] No new trades this week (3/3 used). All action is monitoring + research.
+- [ ] If MU holds gains through today: Prepare GOOGL buy order for June 29 (Dow inclusion date).
+- [ ] If MU gains fade significantly: Reassess semi thesis — one earnings beat may not be enough.
+- [ ] Track GDP/PCE data expected this week — macro signals for rate path.
+
+---
+
 ## 2026-06-24 — Pre-Market Research (Wednesday)
 
 **Market Snapshot (Pre-Market):**
