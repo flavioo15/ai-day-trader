@@ -1,68 +1,56 @@
 # Lessons Learned
 
-## 2026-06-24 — End of Day 3: NVDA Breaches -7% Cut Threshold
+## 2026-06-25 — Midday: Second Loss Realized (NVDA Hard Cut)
 **What Happened:**
-- NVDA closed at $197.15, below the -7% hard cut level of $198.77 (-7.76% from $213.73 entry)
-- META closed at $557.33 (-0.87% today, -2.13% from entry) — continues to be the resilient position
-- Portfolio: $99,266.89 (-0.11% today, -0.73% total from $100K)
-- Daily P/L: -$105.24. Third losing day out of three trading days.
-- Cash: $90,273.61 (90.9% of portfolio)
-- MU earnings tonight after close — the binary catalyst we've been waiting for
+- NVDA breached -7% hard cut threshold ($198.77). Current price $195.80, down -8.39% from $213.73 entry.
+- Canceled trailing stop (ID: 1e3c9814), placed market sell — filled 23 shares at $195.93 avg.
+- Realized loss: -$409.39 (-8.33%). Position held 3 trading days.
+- META also weakening: -3.55% from entry (was -2.27% yesterday, -1.13% on June 24).
+- Portfolio: $99,173.93 (-0.83% total). Cash: $94,780.01 (95.6%).
+- Total realized losses: -$664.45 (AVGO -$255.06 + NVDA -$409.39).
 
 **What Worked:**
-- META position sizing and selection continues to outperform. Diversified ad revenue is proving more resilient than pure semi plays during the AI ROI doubt narrative.
-- Heavy cash allocation (90.9%) is containing overall portfolio damage to -0.73% despite two positions being cut.
-- Documented the -7% cut threshold in advance — no ambiguity about the rule.
+- -7% hard cut rule executed without hesitation — no "hoping for a bounce" or delaying.
+- Portfolio is 95.6% cash, limiting total damage to -0.83% despite 2 of 3 initial positions being cut as losers.
+- Risk management preserved capital: could have been much worse without position sizing limits.
 
 **What Didn't:**
-- NVDA breached the -7% cut during today's session but no routine ran to execute the cut intraday. The morning bounce to ~$201 faded, and NVDA sold through the cut level. This is a process gap.
-- Both AVGO and NVDA are now losses from the same sector bet placed on the same day. Concentrated sector timing risk is the #1 lesson.
-
-**Key Lesson:**
-When a position is within 1-2% of a hard stop, the morning routine should place a contingent sell order (stop-limit or stop-market at the cut price) rather than relying on midday monitoring. The gap between routines is a vulnerability.
-
-**CRITICAL ACTION for Tomorrow (June 25):**
-- Morning routine MUST cancel NVDA's trailing stop and place market sell at open.
-- Cut is mandatory regardless of MU earnings outcome or pre-market price.
-
----
-
-## 2026-06-24 — Midday Check: Discipline Holding
-**What Happened:**
-- NVDA at $200.82, -6.04% from entry. Buffer to -7% hard cut ($198.77) = $2.05 (1.02%). Close but NOT triggered.
-- META at $562.98, -1.13%. Stable and healthy.
-- Both trailing stops active. Portfolio +0.025% today. No action required.
-- Resisted urge to pre-emptively cut NVDA ahead of MU earnings — rules say -7%, not "close to -7%."
-
-**Key Lesson:**
-Stick to the rules. The -7% cut is a hard threshold, not a judgment call. NVDA is uncomfortably close but the rule exists to prevent emotional selling. If MU beats tonight, a pre-emptive cut would have been a costly mistake. If MU misses, the -7% rule will trigger tomorrow and the loss is only marginally worse. The rule works either way.
-
----
-
-## 2026-06-23 — AVGO Cut Confirmed + NVDA High Alert (Midday)
-**What Happened:**
-- AVGO sell order (placed pre-market at -6.93%) filled at open: avg $381.83, realized loss -$255.06 (-5.27% from $403.09 entry).
-- NVDA dropped -3% today to $202.39 (-5.31% from entry). Only $3.62 above -7% hard cut at $198.77.
-- META stable at $564.07 (-0.94%), healthiest position.
-- Portfolio: $99,441.48 (-0.56% total). Cash: $90,274 (90.8%).
-
-**What Worked:**
-- Pre-market cut discipline limited AVGO loss to -5.27% realized (better than the -6.93% pre-market price — stock actually bounced slightly at open).
-- Heavy cash allocation (90.8%) keeps portfolio-level damage minimal.
-- Conservative position sizing means the -$255 AVGO loss is only -0.26% of total portfolio.
-
-**What Didn't:**
-- AVGO thesis was wrong in hindsight — +4.62% momentum on June 18 was a false signal in a declining sector.
-- The 10% trailing stop ($357.98) was far below the -7% hard cut ($374.87) — the stop would never have enforced the rule. Need a mechanism to enforce -7% cut automatically.
-- NVDA's trailing stop ($188.98) has the same gap — won't enforce -7% cut at $198.77.
+- MU's record earnings beat (revenue +16%, EPS +22%, 84.9% GM) was supposed to be THE catalyst to save NVDA. It bounced NVDA to $201.75 pre-market but couldn't hold it — faded -1.61% during the regular session.
+- Entered all 3 positions (AVGO, NVDA, META) at the same time in the same sector during what turned out to be the start of a multi-day AI/semi correction. 2 of 3 cut as losers.
+- NVDA survived by $0.23 on June 24 — the position was already effectively dead but the narrow survival created false hope.
 
 **Key Lessons:**
-1. **The 10% trailing stop and -7% hard cut create a gap.** For positions that never rally above entry, the trailing stop is too loose. Consider starting with 7% trailing stop and widening to 10% only after +5% gain, or placing a separate stop-loss at -7%.
-2. **Momentum after a sector selloff can be a dead cat bounce.** Be skeptical of single-day signals in a declining sector.
-3. **Cut discipline works.** -$255 is painful but manageable. Without the rule, AVGO could have been much worse.
-4. **Pre-emptive cuts near threshold are smart** when trend is clearly against you and you can't monitor intraday.
+1. **Even the best catalyst can't overcome a persistent downtrend near your cut level.** MU delivered a near-perfect earnings report and NVDA still fell. Once a position is trending toward -7% with only thin buffer remaining, the probability-weighted outcome favors cutting. Don't wait for a miracle catalyst.
+2. **"Survived by $0.23" is not a victory — it's a warning.** When a position barely avoids the hard cut, the base case is the cut happens on a subsequent session. Consider cutting voluntarily when buffer is <1.5% rather than riding the razor's edge.
+3. **Sector correlation is the biggest portfolio risk.** All 3 initial positions were in tech/semi. 2 of 3 hit the cut. This is not bad luck — it's concentrated sector exposure amplifying a single narrative shift (AI spending ROI doubt).
+4. **Next entries MUST diversify across sectors.** At least one of the next 2-3 positions should be outside tech (COST, UNH, or similar defensive name).
 
----
+## 2026-06-23 — End of Day 2: First Loss Realized (AVGO Cut)
+**What Happened:**
+- AVGO cut by midday routine at avg $381.83 (-5.27%, -$255.06 realized loss)
+- Trailing stop canceled first, then market sell placed — filled in partial fills over ~6 minutes
+- NVDA dropped -3.78% today, now at -6.07% from entry — only $1.99 (0.99%) above -7% hard cut
+- META relatively resilient at -0.21% today (-1.19% from entry)
+- Portfolio: $99,392.99 (-0.31% today, -0.61% total)
+- Cash: $90,273.63 (90.8% of portfolio)
+
+**What Worked:**
+- Cutting AVGO before hitting -7% hard stop was disciplined execution
+- Having the -7% rule prevented a larger loss — AVGO had structural headwinds (Google diversification, guide miss)
+- Cash-heavy portfolio (90.8%) limits total drawdown despite 2 losing days
+
+**What Didn't:**
+- AVGO held only 1 trading day — violated the 5-day minimum hold rule (though cutting at -7% threshold is an exception)
+- Entered AVGO on strongest momentum day (+4.62%) — this was a mean-reversion trap, not trend continuation
+- All 3 positions entered same day in same sector (tech/semi) — correlated drawdown
+
+**Key Lesson:**
+Strongest single-day momentum often signals exhaustion, not acceleration. AVGO's +4.62% on June 18 was followed by a Q3 guide miss reality check. Better to enter on modest pullbacks within an uptrend than to chase single-day spikes. Also: when company-specific headwinds exist (Google diversification), positive momentum alone isn't enough.
+
+**CRITICAL ALERT for Tomorrow:**
+- NVDA at $200.76, -7% cut threshold at $198.77. Only $1.99 buffer (0.99%).
+- If NVDA opens down >1%, midday routine MUST cut immediately.
+- Micron earnings tomorrow after close — a beat could save NVDA; a miss could trigger the cut.
 
 ## 2026-06-22 — End of Day 1 Recap
 **What Happened:**
