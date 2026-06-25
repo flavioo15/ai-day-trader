@@ -114,9 +114,6 @@ Staggering entries across 2-3 days would reduce timing risk. All 3 positions ent
 - Alpaca API connectivity confirmed working. Account data fetched successfully.
 - Network egress issue from 2026-06-20 appears resolved.
 
-**What Worked:**
-- Environment variables passed directly in the session worked for API authentication.
-
 ## 2026-06-20 — Network Egress Blocking API Access
 **What Happened:**
 - End-of-day routine could not reach `paper-api.alpaca.markets` or `api.telegram.org` — both blocked by the cloud environment's network egress policy.

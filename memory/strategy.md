@@ -30,7 +30,7 @@ The "AI spending ROI" debate continues. MU proved demand is real for memory, but
 
 ## Key Catalysts This Week / Next Week
 1. **Wed June 24 (AMC) — DONE:** Micron Q3 earnings — **MASSIVE BEAT.** Rev $41.5B (+16% above consensus), EPS $25.11 (+22% above), record 84.9% GM. Q4 guide $50B rev. Stock +13% AH. AI demand VALIDATED.
-2. **Thu June 25 — DONE:** MU regular session — need to check if +13% AH held. NVDA cut at -8.33%.
+2. **Thu June 25 — DONE:** MU regular session — NVDA cut at -8.33% despite MU bounce.
 3. **Fri June 26:** GDP/PCE data expected — inflation/rate path signals. End of trading week.
 4. **Mon June 29:** GOOGL enters Dow Jones, replacing Verizon. Passive index fund rebalancing creates buying flow. **PRIMARY BUY TARGET.**
 5. **Late June/Early July:** Broader macro data, Fed commentary, potential rate decisions.

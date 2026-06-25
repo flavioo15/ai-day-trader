@@ -39,9 +39,9 @@
 
 ## Notes
 - **2026-06-25 (EOD):** NVDA cut by midday routine at $195.93 (-8.33% from entry). Despite MU's record earnings beat, NVDA continued sliding — opened weak and never recovered. Trailing stop (ID: 1e3c9814) canceled, market sell filled at 12:05 PM ET. NVDA closed even lower at $194.52, validating the cut. META also weak, down -2.05% today to $546.24 (-4.07% from entry). Buffer to -7% META cut ($529.58) is $16.66 (3.14%). Only 1 position remains. Cash at 95.6% of portfolio. SPY closed at $733.40.
-- **2026-06-24 (market open):** NVDA showing slight bounce from $200.04 close to $201.38. Buffer to -7% cut ($198.77) is $2.61 / 1.30% — still tight. META stable at -1.13%. No new trades possible (3/3 this week). MU earnings tonight are THE catalyst. Daily loss cap NOT breached. Both trailing stops active. Midday routine must monitor NVDA closely.
-- **2026-06-24 (pre-market):** Tuesday was brutal: Nasdaq -2.21%, PHLX Semi -7.9%, MU -13%. NVDA closed at $200.04 (below yesterday's memory snapshot of $200.76). Pre-market NVDA at $201.30 (+0.63%), META at $562.28 (flat). NVDA buffer to -7% cut: $2.53 (1.25%). MU earnings tonight = binary event. GOOGL joining Dow June 29. FedEx beat but fell 6% AH on guidance. Portfolio value $99,401.83 (-0.60% total).
-- **2026-06-23 (EOD):** AVGO position cut by midday routine — trailing stop canceled, market sell filled at avg $381.83 (-5.27% loss, -$255.06 realized). NVDA now at -6.07% from entry, CRITICAL: only $1.99 (0.99%) above -7% hard cut at $198.77. META holding up best at -1.19%. Cash now 90.8% of portfolio.
+- **2026-06-24 (market open):** NVDA showing slight bounce from $200.04 close to $201.38. Buffer to -7% cut ($198.77) is $2.61 / 1.30% — still tight. META stable at -1.13%. No new trades possible (3/3 this week). MU earnings tonight are THE catalyst.
+- **2026-06-24 (pre-market):** Tuesday was brutal: Nasdaq -2.21%, PHLX Semi -7.9%, MU -13%. NVDA closed at $200.04. Pre-market NVDA at $201.30 (+0.63%), META at $562.28 (flat). MU earnings tonight = binary event. GOOGL joining Dow June 29.
+- **2026-06-23 (EOD):** AVGO position cut by midday routine at avg $381.83 (-5.27% loss, -$255.06 realized). NVDA at -6.07% from entry, only $1.99 above -7% hard cut.
 - **2026-06-22 (EOD):** First trading day complete. All 3 positions red but within normal range. All trailing stops active.
 - **2026-06-22 (midday):** All 3 buy orders filled at open. Trailing stops placed on all positions.
 - **2026-06-21:** Placed 3 market buy orders for Monday open: AVGO (12), NVDA (23), META (8).

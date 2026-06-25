@@ -73,11 +73,11 @@ EOF
 
   get_bars)
     # Usage: get_bars <symbol> <timeframe> <start> <end>
-    local symbol="${2:?symbol required}"
-    local timeframe="${3:-1Day}"
-    local start="${4:-$(date -d '7 days ago' +%Y-%m-%d 2>/dev/null || date -v-7d +%Y-%m-%d)}"
-    local end="${5:-$(date +%Y-%m-%d)}"
-    alpaca GET "/v2/stocks/${symbol}/bars?timeframe=${timeframe}&start=${start}&end=${end}"
+    _symbol="${2:?symbol required}"
+    _timeframe="${3:-1Day}"
+    _start="${4:-$(date -d '7 days ago' +%Y-%m-%d 2>/dev/null || date -v-7d +%Y-%m-%d)}"
+    _end="${5:-$(date +%Y-%m-%d)}"
+    alpaca GET "/v2/stocks/${_symbol}/bars?timeframe=${_timeframe}&start=${_start}&end=${_end}"
     ;;
 
   get_snapshot)
