@@ -1,30 +1,30 @@
 # Portfolio
 
-**Last Updated:** 2026-06-25 (midday check)
+**Last Updated:** 2026-06-26 (market open)
 
 ## Summary
-- **Cash:** $94,780.01
-- **Holdings Value:** $4,393.92
-- **Total Portfolio Value:** $99,173.93
-- **Daily P/L:** -$138.04 (-0.14%)
-- **Total P/L:** -$826.07 (-0.83%)
+- **Cash:** $94,779.99
+- **Holdings Value:** $4,363.20
+- **Total Portfolio Value:** $99,143.19
+- **Daily P/L (June 26, at open):** +$20.24 (+0.47%)
+- **Total P/L:** -$856.81 (-0.86%)
 
 ## Current Holdings
 
 | Ticker | Shares | Entry Price | Entry Date | Current Price | P/L $ | P/L % | Trailing Stop |
 |--------|--------|-------------|------------|---------------|-------|-------|---------------|
-| META | 8 | $569.44 | 2026-06-22 | $549.24 | -$161.59 | -3.55% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) |
+| META | 8 | $569.44 | 2026-06-22 | $545.40 | -$192.31 | -4.22% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) |
 
-**Total Unrealized P/L:** -$161.59
+**Total Unrealized P/L:** -$192.31
 
 ## Closed Positions
 
 | Ticker | Shares | Entry Price | Entry Date | Exit Price | Exit Date | P/L $ | P/L % | Reason |
 |--------|--------|-------------|------------|------------|-----------|-------|-------|--------|
 | AVGO | 12 | $403.09 | 2026-06-22 | $381.83 | 2026-06-23 | -$255.06 | -5.27% | Cut by midday routine approaching -7% threshold |
-| NVDA | 23 | $213.73 | 2026-06-22 | $195.93 | 2026-06-25 | -$409.39 | -8.33% | Hard cut at -7% rule — breached $198.77 threshold |
+| NVDA | 23 | $213.73 | 2026-06-22 | $195.93 | 2026-06-25 | -$409.40 | -8.33% | Cut by midday routine — broke -7% hard stop ($198.77). Sold at $195.93, closed at $194.52. |
 
-**Total Realized P/L:** -$664.45
+**Total Realized P/L:** -$664.46
 
 ## New Positions This Week
 3 of 3 max (all filled June 22; AVGO closed June 23, NVDA closed June 25)
@@ -34,14 +34,17 @@
 |------|----------------|-----------|-------------|-------|
 | 2026-06-22 | $99,706.92 | -$293.08 | -0.29% | Day 1. All 3 positions opened. Broad tech selloff. |
 | 2026-06-23 | $99,372.13 | -$334.79 | -0.34% | Day 2. AVGO cut at -5.27%. NVDA -3.78% today. Semis crushed. |
-| 2026-06-24 | $99,409.38 | +$37.25 | +0.04% | Day 3. NVDA +0.67%, META +0.14%. Slight relief bounce. MU earnings tonight. |
-| 2026-06-25 | $99,173.93 | -$138.04 | -0.14% | Day 4. NVDA cut at -8.33% (breached -7% rule). MU beat didn't save NVDA. META only holding. |
+| 2026-06-24 | $99,311.97 | -$60.16 | -0.06% | Day 3. NVDA barely held above -7% cut at $199.00. MU beat AH. |
+| 2026-06-25 | $99,124.47 | -$26.34 | -0.03% | Day 4. NVDA cut at -8.33%. META closed at $542.81 (-4.68% from entry). Mega-cap tech rout: AAPL -6.1%, MSFT -3.5%, AMZN -3.1%, META -2.7%. |
+| 2026-06-26 | $99,143.19* | +$20.24* | +0.02%* | Day 5. *Early reading at open. META at $545.40 (+0.47% from prev close). First green tick in 5 days. |
 
 ## Notes
-- **2026-06-25 (midday):** NVDA breached -7% hard cut at $195.80 (threshold was $198.77). Canceled trailing stop and sold 23 shares at $195.93 avg. Realized loss: -$409.39 (-8.33%). Despite MU's record Q3 beat (revenue +16% above consensus, EPS +22% above), NVDA dropped another -1.61% today. The post-MU rally was short-lived — NVDA bounced to $201.75 pre-market yesterday but couldn't hold it. META also weakening (-3.55% from entry, was -2.27% yesterday). Portfolio now 95.6% cash with only META remaining. Daily loss cap NOT breached. META trailing stop active. Next new positions earliest Monday June 29.
-- **2026-06-24 (market open):** NVDA showing slight bounce from $200.04 close to $201.38. Buffer to -7% cut ($198.77) is $2.61 / 1.30% — still tight. META stable at -1.13%. No new trades possible (3/3 this week). MU earnings tonight are THE catalyst. Daily loss cap NOT breached. Both trailing stops active. Midday routine must monitor NVDA closely.
-- **2026-06-24 (pre-market):** Tuesday was brutal: Nasdaq -2.21%, PHLX Semi -7.9%, MU -13%. NVDA closed at $200.04 (below yesterday's memory snapshot of $200.76). Pre-market NVDA at $201.30 (+0.63%), META at $562.28 (flat). NVDA buffer to -7% cut: $2.53 (1.25%). MU earnings tonight = binary event. GOOGL joining Dow June 29. FedEx beat but fell 6% AH on guidance. Portfolio value $99,401.83 (-0.60% total).
-- **2026-06-23 (EOD):** AVGO position cut by midday routine — trailing stop canceled, market sell filled at avg $381.83 (-5.27% loss, -$255.06 realized). NVDA now at -6.07% from entry, CRITICAL: only $1.99 (0.99%) above -7% hard cut at $198.77. META holding up best at -1.19%. Cash now 90.8% of portfolio. FedEx earnings after close today — economic bellwether. Micron earnings tomorrow — make or break for NVDA.
+- **2026-06-26 (market open):** META at $545.40, up +0.47% from yesterday's close of $542.87. First positive daily move since we opened the position. Buffer to -7% cut ($529.58) improved slightly to $15.82 (2.90%) from yesterday's $13.48 (2.44%). HWM unchanged at $572.20. No new trades possible today (3/3 weekly limit). Position resets to 0/3 on Monday June 29. Midday routine MUST continue monitoring META vs $529.58. GDP 2.1% / PCE 4.6% data already priced in. GOOGL Dow inclusion Monday is our primary next trade.
+- **2026-06-26 (pre-market):** Nasdaq futures -0.89%, 4th consecutive down day for tech. META at $543.06 pre-market, buffer to -7% cut ($529.58) only $13.48 (2.44%). GDP final 2.1%, PCE 4.6% — sticky inflation supports Fed hawkish stance. GOOGL at $343.54, below our target range. MU held at $1,215 after +16% earnings surge. Today is critical for META — if tech selling continues, could approach -7% threshold. Midday routine MUST monitor closely.
+- **2026-06-25 (EOD):** NVDA cut by midday routine at $195.93 (-8.33% from entry). Despite MU's record earnings beat, NVDA continued sliding — opened weak and never recovered. Trailing stop (ID: 1e3c9814) canceled, market sell filled at 12:05 PM ET. NVDA closed even lower at $194.52, validating the cut. META closed at $542.81 (-4.68% from entry, -2.68% on day). Mega-cap tech sold off hard: AAPL -6.1%, MSFT -3.5%, AMZN -3.1%. Buffer to -7% META cut narrowed to $13.23 (2.44%). META hit intraday low of $540.21 — only $10.63 from cut. SPY closed at $733.33.
+- **2026-06-24 (market open):** NVDA showing slight bounce from $200.04 close to $201.38. Buffer to -7% cut ($198.77) is $2.61 / 1.30% — still tight. META stable at -1.13%. No new trades possible (3/3 this week). MU earnings tonight are THE catalyst.
+- **2026-06-24 (pre-market):** Tuesday was brutal: Nasdaq -2.21%, PHLX Semi -7.9%, MU -13%. NVDA closed at $200.04. Pre-market NVDA at $201.30 (+0.63%), META at $562.28 (flat). MU earnings tonight = binary event. GOOGL joining Dow June 29.
+- **2026-06-23 (EOD):** AVGO position cut by midday routine at avg $381.83 (-5.27% loss, -$255.06 realized). NVDA at -6.07% from entry, only $1.99 above -7% hard cut.
 - **2026-06-22 (EOD):** First trading day complete. All 3 positions red but within normal range. All trailing stops active.
 - **2026-06-22 (midday):** All 3 buy orders filled at open. Trailing stops placed on all positions.
 - **2026-06-21:** Placed 3 market buy orders for Monday open: AVGO (12), NVDA (23), META (8).
