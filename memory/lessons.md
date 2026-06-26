@@ -1,5 +1,39 @@
 # Lessons Learned
 
+## 2026-06-26 — End of Day (Day 5 / Week 1 Complete)
+
+**What Happened:**
+- META closed at $550.19, up +1.35% on the day from $542.87 — first green close this week
+- Midday high was $555.83 (+2.39%) but META gave back gains in the afternoon, closing at $550.19
+- Portfolio: $99,180.79 (+$57.84, +0.06% on day, -0.82% total)
+- Buffer to -7% cut: $20.61 (3.74%) — improved from 2.44% pre-market but below midday's 4.72%
+- META has satisfied the 5-day minimum hold requirement
+- Week 1 final: 3 positions opened, 2 cut for losses (AVGO -$255.06, NVDA -$409.40), 1 surviving (META, -$154.03 unrealized)
+- Total realized losses: -$664.46; Total unrealized: -$154.03; Combined: -$818.49
+
+**Week 1 Summary:**
+- Started with $100,000 on June 22. Ended at $99,180.79 (-0.82%)
+- All 3 positions entered on Day 1 in tech/semi — maximum correlation, maximum timing risk
+- AVGO cut Day 2 (-5.27%), NVDA cut Day 4 (-8.33%), META surviving at -3.38%
+- Best day: Day 5 (+0.06%); Worst day: Day 2 (-0.34%)
+- Cash: 95.6% — conservative positioning limited total drawdown
+
+**Key Lessons from Week 1:**
+1. **Stagger entries across 2-3 days.** All 3 positions entered Day 1 amplified timing risk. Will deploy max 2 on first day going forward.
+2. **Diversify by sector, not just by name.** AVGO/NVDA/META were all tech — correlated drawdown was inevitable.
+3. **The -7% hard cut works.** Both AVGO and NVDA fell further after being cut. Discipline saved ~$150-200 in additional losses.
+4. **Strongest momentum ≠ best entry.** AVGO had the highest 1-day momentum (+4.62%) and was the first cut. Don't chase single-day spikes.
+5. **95%+ cash is okay.** Being mostly cash limited Week 1 drawdown to -0.82% despite 2 losing trades.
+6. **Intraday gains can evaporate.** META was +2.39% at midday but closed at only +1.35%. Don't celebrate midday snapshots.
+
+**Plan for Week 2 (June 29+):**
+- Position limit resets to 0/3
+- GOOGL #1 priority (Dow inclusion Monday June 29)
+- MU #2 priority (post-earnings validation)
+- COST #3 option (sector diversification)
+- Max 2 positions Day 1, stagger the 3rd
+- Keep 80%+ cash until portfolio posts positive weekly P/L
+
 ## 2026-06-26 — Midday Check (Day 5): META Bounces, No Action Needed
 
 **What Happened:**
