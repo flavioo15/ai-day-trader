@@ -22,13 +22,14 @@ The Nasdaq is in its 4th consecutive down day. Futures show -0.89% for Friday �
 - **Underweight:** Financials, Energy, Healthcare, GPU/Infrastructure Semis (NVDA/AVGO — 2 losses already)
 - **SHIFT from last update:** DOWNGRADING mega-cap tech platforms to neutral. The market is punishing AI spenders (META, AAPL, MSFT, AMZN) while rewarding AI suppliers (MU, AMAT). This rotation could persist until next earnings cycle. GOOGL is an exception due to Dow inclusion catalyst.
 
-## Current Positioning
-- 1 open position: META (8 shares)
-- ~4.4% deployed, ~95.6% cash ($94,780)
-- Portfolio: $99,124.47 (-0.88% total)
+## Current Positioning (Updated Midday June 26)
+- 1 open position: META (8 shares, current $555.83, -2.39% from entry)
+- ~4.5% deployed, ~95.5% cash ($94,780)
+- Portfolio: $99,226.63 (-0.77% total, +0.10% today)
 - 3/3 new positions used this week — next entries Monday June 29 (0/3 available)
 - META 10% trailing stop active (ID: 73d8eb21, stop $514.98, hwm $572.20)
-- **META buffer to -7% cut: $13.48 (2.44%) — WATCH CLOSELY**
+- **META buffer to -7% cut: $26.25 (4.72%) — IMPROVED from 2.44% pre-market**
+- META today: +2.39% bounce from $542.87 close — first green day this week
 
 ## Key Catalysts This Week / Next Week
 1. **Fri June 26 (TODAY):** GDP/PCE data released (2.1% GDP, 4.6% PCE, 4.4% core). End of trading week. META's make-or-break day — can it hold above $530?

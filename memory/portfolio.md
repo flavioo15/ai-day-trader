@@ -1,21 +1,21 @@
 # Portfolio
 
-**Last Updated:** 2026-06-26 (pre-market)
+**Last Updated:** 2026-06-26 (midday)
 
 ## Summary
 - **Cash:** $94,779.99
-- **Holdings Value:** $4,344.48
-- **Total Portfolio Value:** $99,124.47
-- **Daily P/L (June 25):** -$26.34 (-0.03%)
-- **Total P/L:** -$875.53 (-0.88%)
+- **Holdings Value:** $4,446.64
+- **Total Portfolio Value:** $99,226.63
+- **Daily P/L (June 26):** +$103.68 (+0.10%)
+- **Total P/L:** -$773.37 (-0.77%)
 
 ## Current Holdings
 
 | Ticker | Shares | Entry Price | Entry Date | Current Price | P/L $ | P/L % | Trailing Stop |
 |--------|--------|-------------|------------|---------------|-------|-------|---------------|
-| META | 8 | $569.44 | 2026-06-22 | $543.06 | -$211.03 | -4.63% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) |
+| META | 8 | $569.44 | 2026-06-22 | $555.83 | -$108.87 | -2.39% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) |
 
-**Total Unrealized P/L:** -$211.03
+**Total Unrealized P/L:** -$108.87
 
 ## Closed Positions
 
@@ -36,8 +36,10 @@
 | 2026-06-23 | $99,372.13 | -$334.79 | -0.34% | Day 2. AVGO cut at -5.27%. NVDA -3.78% today. Semis crushed. |
 | 2026-06-24 | $99,311.97 | -$60.16 | -0.06% | Day 3. NVDA barely held above -7% cut at $199.00. MU beat AH. |
 | 2026-06-25 | $99,124.47 | -$26.34 | -0.03% | Day 4. NVDA cut at -8.33%. META closed at $542.81 (-4.68% from entry). Mega-cap tech rout: AAPL -6.1%, MSFT -3.5%, AMZN -3.1%, META -2.7%. |
+| 2026-06-26 | $99,226.63* | +$103.68 | +0.10% | Day 5 (midday). META bouncing +2.39% today ($555.83). First green day this week. Buffer to -7% cut expanded to 4.72%. *Midday snapshot. |
 
 ## Notes
+- **2026-06-26 (midday):** META bouncing strongly — $555.83, up +2.39% on the day from $542.87 close. Buffer to -7% cut expanded from 2.44% (pre-market) to 4.72%. Portfolio up +0.10% today — first green day this week. No risk actions needed. All checks passed: META well above -7% cut, not near +5% for stop tightening, daily loss cap not breached. Trailing stop active (ID: 73d8eb21, stop $514.98, hwm $572.20). META entering Day 5 of hold — minimum hold period satisfied after today.
 - **2026-06-26 (pre-market):** Nasdaq futures -0.89%, 4th consecutive down day for tech. META at $543.06 pre-market, buffer to -7% cut ($529.58) only $13.48 (2.44%). GDP final 2.1%, PCE 4.6% — sticky inflation supports Fed hawkish stance. GOOGL at $343.54, below our target range. MU held at $1,215 after +16% earnings surge. Today is critical for META — if tech selling continues, could approach -7% threshold. Midday routine MUST monitor closely.
 - **2026-06-25 (EOD):** NVDA cut by midday routine at $195.93 (-8.33% from entry). Despite MU's record earnings beat, NVDA continued sliding — opened weak and never recovered. Trailing stop (ID: 1e3c9814) canceled, market sell filled at 12:05 PM ET. NVDA closed even lower at $194.52, validating the cut. META closed at $542.81 (-4.68% from entry, -2.68% on day). Mega-cap tech sold off hard: AAPL -6.1%, MSFT -3.5%, AMZN -3.1%. Buffer to -7% META cut narrowed to $13.23 (2.44%). META hit intraday low of $540.21 — only $10.63 from cut. SPY closed at $733.33.
 - **2026-06-24 (market open):** NVDA showing slight bounce from $200.04 close to $201.38. Buffer to -7% cut ($198.77) is $2.61 / 1.30% — still tight. META stable at -1.13%. No new trades possible (3/3 this week). MU earnings tonight are THE catalyst.

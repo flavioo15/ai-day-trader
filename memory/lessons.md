@@ -1,5 +1,23 @@
 # Lessons Learned
 
+## 2026-06-26 — Midday Check (Day 5): META Bounces, No Action Needed
+
+**What Happened:**
+- META bouncing +2.39% today ($555.83 vs $542.87 close) — first green day this week
+- Portfolio up +0.10% to $99,226.63 — first positive daily P/L since inception
+- Buffer to -7% cut expanded from 2.44% (pre-market) to 4.72% ($26.25)
+- No risk actions triggered: META well above -7%, not near +5% for stop tightening, no daily loss cap breach
+- META entering Day 5 of hold — minimum 5-day hold requirement satisfied after today
+- Trailing stop active and untriggered (ID: 73d8eb21, stop $514.98, hwm $572.20)
+
+**What Worked:**
+- Discipline in holding META through the scary decline (entry -4.68% yesterday, now -2.39%)
+- Pre-market research correctly identified this as a broad tech rotation, not META-specific weakness
+- The -7% hard cut wasn't triggered, and patience was rewarded with a bounce
+
+**Key Lesson:**
+Not every decline requires action. The pre-market looked dire (Nasdaq futures -0.89%, buffer only 2.44%), but META bounced +2.39% during the session. The system worked: trailing stop provided floor protection while allowing recovery room. The discipline is in BOTH cutting losers AND holding through recoverable dips.
+
 ## 2026-06-25 — End of Day 4: NVDA Cut, Portfolio Down to 1 Position
 
 **What Happened:**
