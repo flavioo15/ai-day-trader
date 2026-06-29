@@ -1,79 +1,107 @@
 # Trading Strategy
 
-**Last Updated:** 2026-06-26 (pre-market)
+**Last Updated:** 2026-06-29 (pre-market research — Week 2 Day 1)
 
 ## Current Market Thesis
-The market is in a clear **mega-cap tech rotation**. Thursday's session (June 25) was the clearest signal yet: MU surged +16% on record earnings but AAPL (-6.1%), MSFT (-3.5%), AMZN (-3.1%), META (-2.7%), and NVDA (-1.6%) all sold off. Investors are rewarding AI SUPPLIERS (memory, equipment) while punishing AI SPENDERS (mega-cap platforms).
+The market is in a **tech rotation + macro data gauntlet** regime. Week 1 saw the S&P 500 fall -2.33%, with mega-cap tech hit hardest. Week 2 opens with two new headwinds:
 
-GDP revised up to 2.1% shows the economy is resilient, but PCE inflation at 4.6% (core 4.4%) remains sticky. This supports the Fed's hawkish stance — 9/18 policymakers project ≥1 hike in 2026. Higher-for-longer rates compress growth multiples, which explains the mega-cap tech pressure.
+1. **AI talent exodus from Google** — Nobel laureate John Jumper (AlphaFold creator) leaving DeepMind for Anthropic. GOOGL fell -5%+ on its Dow inclusion day. Investors questioning Google's ability to compete in the AI race.
+2. **MU post-earnings profit-taking** — despite record Q3 ($41.5B rev, $25.11 EPS), MU gave back -7.54% on Friday to $1,123.84. Broke our $1,150 entry threshold.
 
-The Nasdaq is in its 4th consecutive down day. Futures show -0.89% for Friday — tech weakness likely continues. This is not a crash but a grinding rotation that particularly hurts high-multiple growth stocks.
+Positives:
+- **Iran/Strait of Hormuz easing** — oil prices falling (WTI <$70, Brent $73.50). Geopolitical risk declining.
+- **JPMorgan raised S&P 500 target to 7,800** (+5% from current). "Blue Sky" scenario.
+- **META recovering** — two consecutive green days, buffer to -7% cut improved to 5.07%.
+- **Sticky inflation already priced in** — PCE 4.6% and GDP 2.1% are known. No new macro shocks (yet).
 
-**Key risks:**
-1. **META at -4.68% from entry — buffer to -7% cut ($529.58) is only $13.48 (2.44%).** Trend is steadily negative across all 5 trading days. Could hit cut today or early next week.
-2. Sticky inflation (PCE 4.6%) reinforces "higher for longer" — headwind for all growth/tech
-3. Mega-cap rotation continues — META's -2.7% on Thursday was NOT stock-specific, it was group-wide
-4. Nasdaq 4-day losing streak with futures -0.89% — momentum is against tech
-5. Two realized losses (-$664.46) plus META unrealized (-$211) = -$875 total impact
+**Key risks this week:**
+1. Heavy data: JOLTS (Tue), ISM Manufacturing (Wed), Jobs Report (Thu — early release)
+2. Hot jobs report (>200K) would reinforce "higher for longer" and pressure growth stocks
+3. Holiday-shortened week = lower volume = potential for outsized moves
+4. GOOGL AI talent exodus narrative may spread to other mega-cap tech
 
 ## Sector Preferences
-- **Overweight:** Memory/Semi-Equipment (MU validated — market rewarding this subsector), Communication Services (GOOGL — Dow inclusion + Berkshire $10B)
-- **Neutral:** Consumer Staples (COST for diversification), Mega-cap Tech Platforms (DOWNGRADED from overweight — rotation against them is real)
-- **Underweight:** Financials, Energy, Healthcare, GPU/Infrastructure Semis (NVDA/AVGO — 2 losses already)
-- **SHIFT from last update:** DOWNGRADING mega-cap tech platforms to neutral. The market is punishing AI spenders (META, AAPL, MSFT, AMZN) while rewarding AI suppliers (MU, AMAT). This rotation could persist until next earnings cycle. GOOGL is an exception due to Dow inclusion catalyst.
+- **Overweight:** Consumer Staples (COST — portfolio diversification needed), GOOGL (IF stabilizes — long-term value at $310-325 is compelling)
+- **Neutral:** Memory/Semi-Equipment (MU — still bullish fundamentals but needs support confirmation)
+- **Underweight:** GPU/Infrastructure Semis (NVDA/AVGO — 2 losses already), Mega-cap Tech Platforms (rotation ongoing)
 
 ## Current Positioning
-- 1 open position: META (8 shares)
-- ~4.4% deployed, ~95.6% cash ($94,780)
-- Portfolio: $99,143.19 (-0.86% total)
-- 3/3 new positions used this week — next entries Monday June 29 (0/3 available)
+- 1 open position: META (8 shares, current $565.24, -0.74% from entry)
+- ~4.6% deployed, ~95.4% cash ($94,780)
+- Portfolio: $99,301.31 (-0.70% total)
 - META 10% trailing stop active (ID: 73d8eb21, stop $514.98, hwm $572.20)
-- **META buffer to -7% cut: $15.82 (2.90%) — slightly improved from yesterday's $13.48**
+- META buffer to -7% cut: $35.66 (6.29%) — best since entry, steadily improving
+- **Position limit: 0/3 (reset for Week 2)**
 
-## Key Catalysts This Week / Next Week
-1. **Fri June 26 (TODAY):** GDP/PCE data released (2.1% GDP, 4.6% PCE, 4.4% core). End of trading week. META's make-or-break day — can it hold above $530?
-2. **Mon June 29:** GOOGL enters Dow Jones, replacing Verizon. Passive index fund rebalancing creates buying flow. **PRIMARY BUY TARGET.**
-3. **Mon June 29:** New weekly position limit resets — 0/3 new positions, can add up to 3.
-4. **Late June/Early July:** Broader macro data, Fed commentary, potential rate decisions.
+## Week 2 Deployment Plan (June 29+ — REVISED)
 
-## Signals Being Watched
-- **META price vs $529.58** — -7% hard cut. Buffer at $13.48 (2.44%). CRITICAL.
-- **META trailing stop at $514.98** — 10% from hwm $572.20. Wider safety net.
-- **META intraday low pattern** — hit $540.21 yesterday. If breaks below $540 again, very close to cut.
-- **GOOGL Monday open** — does Dow inclusion trigger visible buying? Target $340-345 entry.
-- **MU holding post-earnings** — closed $1,215.46, AH $1,201. Need to hold $1,150+ through Friday.
-- **Nasdaq momentum** — 4 consecutive down days. A 5th would be unusual and signal deeper correction.
-- **PCE market reaction** — 4.6% inflation could trigger further growth selling if market focuses on rate implications.
+### DEFENSIVE SIGNALS TRIGGERED:
+Two of three "stay defensive" conditions from Week 1 plan fired:
+1. ✓ GOOGL gapped down despite Dow inclusion (fell -5%+)
+2. ✓ MU gave back gains below $1,150 ($1,123.84)
+3. ✗ META did NOT hit -7% cut — actually recovering
+
+**Response: NO BUYS MONDAY. Wait for data. Deploy selectively Tue-Thu.**
+
+### Priority 1: COST (Costco) — Buy Tuesday/Wednesday
+- **Thesis:** Portfolio needs non-tech diversification. Week 1 proved 100% tech concentration is dangerous. COST stable through all the tech volatility. Consumer staples leader with steady growth. Nike earnings Tuesday may preview consumer spending trends.
+- **Entry:** $945-955 range (last close $950.40)
+- **Position size:** 5 shares × ~$950 = ~$4,750 (4.79%)
+- **Stop:** 10% trailing immediately
+- **Decision criteria:** Buy if JOLTS/Consumer Confidence data Tuesday doesn't show collapsing demand. Buy regardless of tech direction — this is a diversification play.
+
+### Priority 2: GOOGL (Alphabet) — Buy Wednesday/Thursday IF stabilizes
+- **Thesis:** At ~$319-325 post-drop, GOOGL trades at massive discount to consensus PT of $413 (~25-30% upside). Jumper departure is talent loss, not revenue/profit loss. Search, YouTube, Cloud fundamentals unchanged. Cloud +63% YoY. Dow inclusion passive buying is ongoing (not one-day). Berkshire's $10B endorsement stands.
+- **Entry:** $310-325 range (wherever stabilization occurs)
+- **Position size:** 15 shares × ~$320 = ~$4,800 (4.84%)
+- **Stop:** 10% trailing immediately
+- **Decision criteria:** Must show 1 green day or support at a level before entering. Don't catch the falling knife. If still falling Wednesday, wait until Thursday or skip.
+
+### Priority 3: MU (Micron) — CONDITIONAL, defer to next week if needed
+- **Thesis:** Record Q3 earnings validated. $50B Q4 guide. $100B contracted HBM revenue. Fundamentals strongest in company history. Post-earnings profit-taking (-7.54%) is normal after a +16% day.
+- **Entry:** $1,100-1,140 if holds above $1,100
+- **Position size:** 4 shares × ~$1,120 = ~$4,480 (4.52%)
+- **Stop:** 10% trailing immediately
+- **Decision criteria:** Must hold $1,100 through Tuesday. If breaks $1,100, wait until next week. Jobs report Thursday is a risk event — consider buying AFTER jobs data if MU holds.
+
+### Deployment Rules
+1. **No buys Monday** — let market digest GOOGL drop + weekend gap
+2. **COST is the Tuesday/Wednesday buy** — diversification is strategy, not dependent on tech
+3. **Max 2 new positions before jobs report Thursday**
+4. **GOOGL only if shows stabilization** — 1 green candle or support bounce required
+5. **MU only if holds $1,100** — don't try to catch a -7.54% pullback mid-fall
+6. **Keep at least 80% cash** until portfolio posts a positive week
+7. **If jobs report Thursday >200K:** halt all buys, reassess Monday
+
+### META Management
+- Current: $557.85 (-2.04% from $569.44 entry)
+- -7% cut: $529.58 (buffer $28.27 / 5.07%)
+- **If META crosses above $580 (>+1.9%):** tighten trailing stop from 10% to 7%
+- **If META breaks below $540:** go to high alert, prepare for potential cut
+- Hold otherwise — two consecutive green days suggest the worst may be over
 
 ## Risk Appetite
-**CAUTIOUS.** Unchanged from June 25.
+**CAUTIOUS WITH SELECTIVE OPPORTUNISM.**
 
-Two of three initial positions cut for losses. META approaching -7% cut. Mega-cap tech in active rotation. Inflation sticky. But the silver lining: 95.6% cash means we're barely exposed. The portfolio is effectively a cash position with a small META bet.
+Week 1 validated our risk management (both cuts correct). GOOGL and MU defensive triggers mean we're not blindly deploying. But META's recovery and JPMorgan's bullish S&P target suggest the selloff may be maturing. COST provides a safe way to add exposure without concentrated tech risk.
 
-**Deployment plan for next week (June 29+):**
-1. **GOOGL is the #1 buy** — Dow inclusion June 29 + Berkshire $10B + oversold RSI. Entry $340-345 (BELOW our original target = better value). 14 shares (~$4,800, ~4.8%).
-2. **MU is the #2 buy** — Record earnings validated. Entry $1,180-1,220 if holds. 4 shares (~$4,800, ~4.8%).
-3. **COST is the #3 option** — Diversification play. $941.89 entry. 5 shares (~$4,710, ~4.8%).
-4. **Max 2 new positions on Day 1** — stagger entries across 2-3 days (Week 1 lesson).
-5. **Keep at least 80% cash** until portfolio posts positive weekly P/L.
-6. If META is cut, redeploy half the proceeds into a non-tech name (COST).
+Target: 10-15% deployed by end of Week 2 (2-3 positions at ~5% each), with 85%+ cash.
 
-Conditions to deploy:
-- META stabilizes (doesn't hit -7% cut before Monday)
-- GOOGL shows Dow inclusion buying pressure
-- GDP/PCE data doesn't shock markets
-- MU holds above $1,150
+## Signals Being Watched
+- META price vs $529.58 — -7% hard cut. Buffer at $28.27 (5.07%).
+- META trailing stop at $514.98 — 10% from hwm $572.20.
+- GOOGL stabilization — where does it find support after -5% drop?
+- MU holding above $1,100 — post-earnings conviction test.
+- JOLTS (Tue) — labor market demand signal.
+- ISM Manufacturing (Wed) — factory activity.
+- Jobs report (Thu) — BIGGEST event of week. Hot print = bad for growth.
+- Nike earnings (Tue after close) — consumer demand signal.
 
-Conditions to stay defensive:
-- META hits -7% cut — signals tech weakness is deepening
-- PCE 4.6% triggers a growth selloff
-- GOOGL gaps down despite Dow inclusion
-- MU gives back post-earnings gains
-- Nasdaq extends losing streak to 5+ days
-
-## Active Watchlist (Updated June 26)
+## Active Watchlist
 | Stock | Last Price | Thesis | Action Trigger | Priority |
 |-------|-----------|--------|----------------|----------|
-| GOOGL | $343.54 | Dow inclusion June 29 + Berkshire $10B. RSI 36.98 near oversold. Cloud +63% YoY. Below our target range = better entry. | Buy Monday June 29 at open or limit $340-345. | **HIGHEST** |
-| MU | $1,215.46 | Record Q3 beat validates HBM supercycle. New 52-week high. Q4 guide $50B. Deutsche Bank PT $1,550. | Buy Tue/Wed if holds $1,150+ through Friday. | **HIGH** |
-| COST | $941.89 | Consumer staples leader. Defensive growth. Portfolio diversification. Cheaper than expected at $942 vs $1,050 estimate. | Buy if tech continues weakening or META is cut. | **MEDIUM** |
+| COST | $950.40 | Non-tech diversification. Stable through volatility. | Buy Tue/Wed if consumer data OK. | **HIGHEST** |
+| GOOGL | ~$319-325* | Dow inclusion + massive discount after -5% drop. | Buy Wed/Thu IF stabilizes above $310. | **HIGH** |
+| MU | $1,123.84 | Record earnings. Post-earnings pullback = potential entry. | Buy Thu IF holds $1,100+ and jobs OK. | **MEDIUM** |
+
+*Estimated after reported -5%+ Monday drop from $335.79 Friday close.
