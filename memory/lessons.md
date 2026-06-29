@@ -50,6 +50,9 @@ META was +2.39% at midday June 26 but closed at only +1.35%. Don't celebrate mid
 
 ## Daily Lessons (Chronological)
 
+### 2026-06-29 — End of Day (Week 2 Day 1)
+META surged +2.84% to $565.87 — best single-day gain since entry. Portfolio +$124.92 (+0.13%). 4th consecutive green day. Defensive stance (no buys) was correct — let the single position recover without adding risk into a data-heavy week. Unrealized loss narrowed from -$67.59 to -$28.55. Buffer to -7% cut expanded to 6.44%. Lesson: patience and discipline after a rough Week 1 is paying off. Letting winners run while staying defensive on new entries preserves capital and lets existing positions heal.
+
 ### 2026-06-26 — End of Day (Day 5 / Week 1 Complete)
 META closed at $550.19, up +1.35% — first green close this week. Portfolio $99,180.79 (+$57.84). Week 1 complete: -$819.21 (-0.82%). Lesson: patience with a surviving position through a brutal week can pay off. META has satisfied the 5-day hold minimum.
 
