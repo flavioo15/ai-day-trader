@@ -1,5 +1,144 @@
 # Research Log
 
+## 2026-06-29 — Pre-Market Research (Monday — Week 2 Day 1)
+
+**Market Snapshot (Pre-Market):**
+- **S&P 500 futures:** -0.34%, **Nasdaq 100 futures:** -0.19%, **Dow futures:** +0.29%
+- **SPY Friday close:** $729.35 (Week 1: $746.75 → $729.35, -2.33%)
+- **Holiday-shortened week** — markets CLOSED Friday July 3 for July 4th (America's 250th). Lower volumes expected, potential for wilder swings.
+- **JPMorgan raised S&P 500 target to 7,800** from 7,200 — bullish "Blue Sky" scenario (+5% from current levels)
+- Position limit RESET: 0/3 new positions available for Week 2
+
+**Portfolio Status (Live from Alpaca):**
+| Ticker | Entry | Current | P/L % | From -7% Cut | Trailing Stop | Status |
+|--------|-------|---------|-------|--------------|---------------|--------|
+| META | $569.44 | $557.85 | **-2.04%** | $28.27 buffer (5.07%) | $514.98 (10%, hwm $572.20) | **RECOVERING — best level in 4 days** |
+
+- Portfolio Value: $99,242.79 (-0.76% total)
+- Cash: $94,779.99 (95.5%)
+- META +1.38% today ($557.85 vs $550.25 Friday close) — second consecutive green day
+- META buffer to -7% cut IMPROVED: 5.07% (up from 3.39% at end of Week 1)
+- Trailing stop active (ID: 73d8eb21, untriggered)
+- Daily loss cap: NOT breached
+
+**CRITICAL DEVELOPMENT — GOOGL -5%+ ON DOW INCLUSION DAY:**
+Google DeepMind VP John Jumper (2024 Nobel Prize chemistry, AlphaFold creator) announced departure for Anthropic. After nearly 9 years at DeepMind, this is part of a broader AI talent exodus from Google that has rattled investors. Fortune article (June 23): "As top talent leaves Google DeepMind, some question if the lab can remain at the forefront of AI development."
+
+GOOGL price action:
+- Friday June 26 close: $335.79 (down -2.26% from Thursday)
+- Monday pre-market: $341.75 (-0.57%)
+- Monday session: FELL -5%+ (estimated close ~$319-325)
+- Intraday opened at $342.65, hit high $346.36, but collapsed
+- Our plan was to buy at $340-345 — **the Dow inclusion catalyst was overwhelmed by the talent exodus narrative**
+
+This triggers one of our "stay defensive" conditions: "GOOGL gaps down Monday despite Dow inclusion."
+
+**MU POST-EARNINGS PROFIT-TAKING — BROKE $1,150 THRESHOLD:**
+- Thursday June 25 close (earnings day): $1,215.46 (+15.98%)
+- Friday June 26 close: $1,123.84 (**-7.54%** — gave back nearly half the earnings gain)
+- Intraday range: $1,121.51 - $1,198.54 (huge volatility)
+- After-hours: $1,129.73
+- Erste Group upgraded MU from Hold → Buy
+- 43 analysts "Strong Buy," avg PT $1,410.45 (+23% upside)
+- **BROKE below our $1,150 entry threshold** — second "stay defensive" trigger
+
+**Iran/Strait of Hormuz — EASING:**
+- Trump-Pezeshkian MOU signed June 17 to end war and unblock strait
+- Israel-Hezbollah ceasefire announced June 19 (fragile — Israeli strikes in Lebanon continued)
+- Iran re-closed strait briefly citing Israeli violations, then situation improved
+- June 27: US Navy (JMIC) widened route through Strait near Oman — challenging Iran's control
+- Oil prices FALLING: WTI below $70/barrel, Brent $73.50 (-4.4% to -4.6%)
+- **Net effect: Geopolitical risk DECLINING — positive for markets**
+
+**Economic Calendar This Week (DATA-HEAVY):**
+| Day | Date | Event | Expected | Significance |
+|-----|------|-------|----------|-------------|
+| Mon | 6/29 | GOOGL Dow inclusion (pre-open) | — | Structural passive buying begins |
+| Tue | 6/30 | JOLTS Job Openings (May) | — | Labor market demand signal |
+| Tue | 6/30 | Consumer Confidence (June) | — | Spending outlook |
+| Tue | 6/30 | Nike (NKE) Q4 earnings (after close) | EPS $0.11, Rev $10.85B (-3%) | Consumer demand bellwether |
+| Wed | 7/1 | ISM Manufacturing PMI (June) | 53.7 (vs 54.0 May) | Factory activity gauge |
+| Wed | 7/1 | ADP Employment (June) | — | Private payrolls preview |
+| Thu | 7/2 | June Jobs Report (EARLY release) | 172K nonfarm payrolls | BIGGEST event of week |
+| Thu | 7/2 | Unemployment Rate, Avg Hourly Earnings | — | Wage inflation signal |
+| Fri | 7/3 | MARKETS CLOSED | — | Independence Day (250th) |
+
+**COST (Costco) Update:**
+- Friday close: $950.40 (up +0.90% from $941.89 Thursday)
+- Stable through all the tech volatility — 52-week range $844-$1,096
+- Market cap: $426B
+- Rising in priority as diversification play given GOOGL/MU defensive triggers
+
+**META-Specific Update:**
+- Current at $557.85 — recovering from last week's $540 lows
+- 58 Buy / 6 Hold / 0 Sell — consensus Strong Buy
+- Median PT: $827.32 (+48% upside from current)
+- Two consecutive green days breaking the Week 1 downtrend
+- -7% buffer improved to 5.07% (was 3.39% Thursday) — significantly more comfortable
+- Fundamentals: 33% ad growth, 3.56B DAP, Llama models, AI capex $125-145B
+
+**Analyst Upgrades/Downgrades (Relevant):**
+- **MU:** Erste Group upgraded Hold → Buy
+- **GOOGL:** No change — 54 analysts Moderate Buy, PT $413.13 (+20%+ upside)
+- **No downgrades on our holdings or targets**
+
+**WEEK 2 PLAN — REVISED BASED ON DEFENSIVE SIGNALS:**
+
+Two of three "stay defensive" conditions from Week 1 plan have triggered:
+1. ✓ GOOGL gapped down despite Dow inclusion (fell -5%+)
+2. ✓ MU gave back gains below $1,150 ($1,123.84)
+3. ✗ META did NOT hit -7% cut — actually recovering (+1.38% today)
+
+**Mixed signal: META's recovery is bullish, but GOOGL/MU weakness suggests tech headwinds persist.**
+
+### Trade Idea 1: GOOGL (Alphabet) — WAIT FOR STABILIZATION
+- **Original plan:** Buy Monday at $340-345
+- **Revised:** WAIT. The -5% Jumper-driven drop changes the setup.
+- **New entry target:** $310-325 range (wherever it stabilizes post-drop)
+- Position size: 15 shares × ~$320 = ~$4,800 (4.84%)
+- The Dow inclusion passive buying continues over weeks, not just Day 1
+- Jumper departure is talent loss, not revenue loss — Search/YouTube/Cloud fundamentals unchanged
+- **Decision point: Tuesday/Wednesday — does GOOGL find support above $310?**
+- Risk: MODERATE-HIGH. AI talent exodus narrative is real and ongoing.
+
+### Trade Idea 2: MU (Micron) — NEEDS $1,100 SUPPORT
+- **Original plan:** Buy Tue/Wed at $1,180-1,220 if holds $1,150+
+- **Revised:** Wait for $1,100 support confirmation. The -7.54% Friday drop was harsh.
+- **New entry target:** $1,100-1,140 if holds above $1,100
+- Position size: 4 shares × ~$1,120 = ~$4,480 (4.52%)
+- Fundamentals UNCHANGED (record Q3, $50B Q4 guide, $100B contracted HBM revenue)
+- Post-earnings profit-taking after +16% day is normal
+- **Decision point: Wednesday/Thursday after ISM and before jobs report**
+- Risk: MODERATE. Volatility high but fundamentals strongest in company history.
+
+### Trade Idea 3: COST (Costco) — UPGRADED TO CO-PRIORITY
+- **Original plan:** Conditional backup
+- **Revised:** With both GOOGL and MU triggering defensive signals, COST rises in priority
+- **Entry:** $945-955 range (current ~$950)
+- Position size: 5 shares × $950 = $4,750 (4.79%)
+- Non-tech diversification exactly what portfolio needs after Week 1's 0/2 win rate on tech
+- Nike earnings Tuesday could signal consumer spending trends relevant to COST
+- **Decision point: Tuesday after JOLTS/Consumer Confidence. If tech still weak, buy COST Wednesday.**
+- Risk: LOW-MODERATE. Defensive quality name.
+
+### Revised Deployment Rules for Week 2:
+1. **NO BUYS TODAY (Monday)** — both primary targets triggered defensive conditions. Wait for data.
+2. **Max 1 new position before jobs report (Thursday)** — don't size up into data risk
+3. **Earliest buy: Tuesday for COST, Wednesday for GOOGL/MU** — stagger per Week 1 lessons
+4. **Keep 80%+ cash** until GOOGL or MU stabilizes
+5. **If META recovers above -1.5% from entry ($561+):** tighten trailing stop from 10% to 7%
+6. **If jobs report Thursday is hot (>200K):** stay fully defensive — inflation/rate hike fears intensify
+
+**Action Items for Today:**
+- [ ] Monitor META — buffer improved to 5.07%, watch for continued recovery toward $560+
+- [ ] Watch GOOGL intraday — where does it find support after the -5% drop?
+- [ ] Track MU — does it hold above $1,100?
+- [ ] No new trades today (defensive stance — wait for data)
+- [ ] Watch for Nike earnings preview/guidance commentary Tuesday
+- [ ] Evaluate COST entry for Tuesday/Wednesday if tech remains weak
+
+---
+
 ## 2026-06-26 — Pre-Market Research (Friday)
 
 **Market Snapshot (Pre-Market):**
