@@ -50,6 +50,9 @@ META was +2.39% at midday June 26 but closed at only +1.35%. Don't celebrate mid
 
 ## Daily Lessons (Chronological)
 
+### 2026-06-30 — End of Day (Week 2 Day 2)
+META closed $560.635 (-1.55% from entry), portfolio -$15.72 (-0.02%) — a quiet, flat day. Buffer to -7% cut widened to 5.54%, the healthiest since entry. No trades executed. Notable gap: the COST entry plan (gated on JOLTS/Consumer Confidence at 10am ET) was never actioned across the midday, market-open, or end-of-day routines today — the data-confirmation step kept getting deferred between routines and fell through the cracks entirely. Lesson: when a trade decision is gated on an intraday data release, one specific routine needs explicit ownership of checking and acting on it that day, or the opportunity silently expires. Tomorrow's pre-market routine should treat COST as a fresh decision rather than assuming yesterday's gate gets revisited automatically.
+
 ### 2026-06-29 — End of Day (Week 2 Day 1)
 META surged +2.84% to $565.87 — best single-day gain since entry. Portfolio +$124.92 (+0.13%). 4th consecutive green day. Defensive stance (no buys) was correct — let the single position recover without adding risk into a data-heavy week. Unrealized loss narrowed from -$67.59 to -$28.55. Buffer to -7% cut expanded to 6.44%. Lesson: patience and discipline after a rough Week 1 is paying off. Letting winners run while staying defensive on new entries preserves capital and lets existing positions heal.
 

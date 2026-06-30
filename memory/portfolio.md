@@ -1,13 +1,13 @@
 # Portfolio
 
-**Last Updated:** 2026-06-30 (midday check — live Alpaca data)
+**Last Updated:** 2026-06-30 (end of day — live Alpaca data)
 
 ## Summary
 - **Cash:** $94,779.99
-- **Holdings Value:** $4,457.92
-- **Total Portfolio Value:** $99,237.91
-- **Total P/L:** -$762.09 (-0.76%)
-- **Today's P/L:** -$42.88 (-0.04%)
+- **Holdings Value:** $4,485.08
+- **Total Portfolio Value:** $99,265.07
+- **Total P/L:** -$734.93 (-0.73%)
+- **Today's P/L:** -$15.72 (-0.02%)
 - **S&P 500 Week 1:** -2.33% (SPY $746.75 → $729.35)
 - **vs S&P 500:** Week 2 comparison pending live SPY data
 
@@ -15,9 +15,9 @@
 
 | Ticker | Shares | Entry Price | Entry Date | Current Price | P/L $ | P/L % | Trailing Stop |
 |--------|--------|-------------|------------|---------------|-------|-------|---------------|
-| META | 8 | $569.44 | 2026-06-22 | $557.24 | -$97.59 | -2.14% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) |
+| META | 8 | $569.44 | 2026-06-22 | $560.635 | -$70.43 | -1.55% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) |
 
-**Total Unrealized P/L:** -$97.59
+**Total Unrealized P/L:** -$70.43
 
 ## Closed Positions
 
@@ -40,8 +40,10 @@
 | 2026-06-25 | $99,124.47 | -$26.34 | -0.03% | Day 4. NVDA cut at -8.33%. Mega-cap tech rout. |
 | 2026-06-26 | $99,164.48 | +$41.53 | +0.04% | Day 5. META +0.96%. First green close. Week 1 complete. |
 | 2026-06-29 | $99,306.91 | +$124.92 | +0.13% | Week 2 Day 1. META +2.84% ($565.87). 4th consecutive green day. Best single-day gain. No new trades (defensive stance). |
+| 2026-06-30 | $99,265.07 | -$15.72 | -0.02% | Week 2 Day 2. META $560.635, -1.55% from entry, -0.35% today. No new trades — COST entry deferred again (JOLTS/Consumer Confidence gate not actioned this session). Position limit unchanged at 0/3 for Week 2. |
 
 ## Notes
+- **2026-06-30 (end of day):** Week 2 Day 2 close. Portfolio $99,265.07 (-0.73% total, -$15.72 today). META closed $560.635, -1.55% from entry ($569.44), buffer to -7% hard cut ($529.58) is $31.06 (5.54%) — healthy, widest buffer since entry. Trailing stop confirmed active and untriggered (ID 73d8eb21, stop $514.98, hwm $572.20, order status "new"). Daily loss cap not breached (-0.02% vs -3% limit). NO TRADES executed today — confirmed via get_orders (only the standing META trailing-stop order on file, no fills). The planned COST entry (gated on JOLTS Job Openings + Consumer Confidence at 10am ET) was never actioned in any routine today — still 0/3 new positions used for Week 2. Carry forward to tomorrow's pre-market routine: evaluate COST entry with fresh data, and re-confirm GOOGL/MU triggers per strategy.md.
 - **2026-06-30 (midday check):** Week 2 Day 2. NO ACTIONS TAKEN. META $557.24, -2.14% from entry (cost basis $569.44), -0.95% today. -7% hard cut is $529.58 — buffer $27.66 (4.96%), healthy. No tightening trigger (position is down, not up >5%). Daily P/L -$42.88 (-0.04%), nowhere near the -3% daily loss cap. Trailing stop confirmed active and untriggered (ID 73d8eb21, stop $514.98, hwm $572.20). COST entry decision (gated on JOLTS/Consumer Confidence at 10am ET) is out of scope for this risk-only midday routine — deferred to the next research/market-open pass. Position limit unchanged at 0/3 for Week 2.
 - **2026-06-30 (market open):** Week 2 Day 2. NO TRADES at open. META $559.10 (-1.82% from entry, -0.62% today), buffer to -7% cut still healthy. Per Tuesday's research/strategy plan, COST entry is explicitly gated on JOLTS Job Openings + Consumer Confidence data due 10:00am ET — this routine ran without live market-clock/data confirmation that those releases have posted, so no COST order was placed. GOOGL remains a no-chase (held at $353+, well above the $335-345 re-entry target). MU still below its $1,150 confirmation threshold. Position limit unchanged at 0/3 for Week 2. Re-evaluate COST after 10am ET data is confirmed available (e.g., in the midday routine).
 - **2026-06-29 (end of day):** Week 2 Day 1. NO TRADES — defensive stance held. META surged +2.84% ($550.25->$565.87), best single-day gain since entry. Buffer to -7% cut now 6.44% ($36.29). 4th consecutive green day. Unrealized loss narrowed from -$67.59 to -$28.55. Portfolio +$124.92 today. COST buy remains Tuesday/Wednesday plan. Watching JOLTS/Consumer Confidence Tuesday.
