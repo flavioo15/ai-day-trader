@@ -1,5 +1,74 @@
 # Research Log
 
+## 2026-06-30 — Pre-Market Research (Tuesday — Week 2 Day 2)
+
+**CORRECTION TO MONDAY'S THESIS — GOOGL DID NOT GAP DOWN, IT RALLIED:**
+Monday's pre-market note flagged a GOOGL -5%+ drop on the DeepMind talent-exodus narrative as a "defensive trigger." That was wrong by end of day. GOOGL actually **closed up ~4-5%** on its Dow Jones debut, finishing at **$353.65** (intraday range $339.42-$354.35) — the talent-exodus narrative was overwhelmed by Dow-inclusion passive buying flow + the Berkshire $10B endorsement. Whatever intraday weakness happened reversed hard into the close.
+
+Broader Monday close: Dow 52,182.74 (+0.59%, first close above 52,000), S&P 500 7,440.43 (+1.18%), Nasdaq Composite 25,820.14 (+2.07%). Tesla +8.5%, Amazon +3.2%, Meta +2.2%. Sentiment also helped by easing Iran tensions (peace talks resuming Tuesday per Trump).
+
+**Portfolio Status (Live from Alpaca — Pre-Market):**
+| Ticker | Entry | Current | P/L % | Trailing Stop | Status |
+|--------|-------|---------|-------|---------------|--------|
+| META | $569.44 | $562.90 | -1.15% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) | Flat overnight (lastday $562.60) |
+
+- Portfolio Value: $99,283.19 (-0.72% total)
+- Cash: $94,779.99 (95.5%)
+- Daily loss cap: NOT breached
+- Position limit: 0/3 new positions used this week
+
+**Watchlist Update:**
+| Ticker | Last Price (6/29 close) | vs. Plan Entry | Status |
+|--------|--------------------------|-----------------|--------|
+| COST | $952.54 | In range ($945-955) | On track — Tuesday/Wednesday buy candidate per plan |
+| GOOGL | $353.65 (+4-5% Monday) | Well above the $310-325 "post-drop discount" target | Thesis validated, but chasing a +5% day risks repeating the AVGO momentum-trap lesson from Week 1 |
+| MU | $1,145.28 (+1.14%) | $4.72 below the $1,150 threshold | Still just short — watch today's action |
+
+**Today's Economic Calendar (Tuesday 6/30):**
+- **JOLTS Job Openings (May)** — 10:00am ET. April was 7.6M openings. This is the data point our COST decision criteria explicitly waits on ("buy if JOLTS/Consumer Confidence doesn't show collapsing demand").
+- **Consumer Confidence (June)** — 10:00am ET, same window.
+- **Nike (NKE) Q4 FY2026 earnings — after close.** Consensus: EPS $0.11 (-21.4% YoY), revenue $10.9B (-2% YoY). Greater China revenue could be down ~20%. Market is watching whether CEO Elliott Hill's "Win Now" turnaround is gaining traction — useful read-through for consumer/retail sentiment ahead of a possible COST entry.
+- Reminder: ISM Manufacturing PMI Wednesday, June Jobs Report Thursday (early release, biggest event of the week), markets CLOSED Friday for July 4th.
+
+**Trade Idea 1: COST (Costco) — PRIMARY CANDIDATE TODAY**
+- Thesis unchanged: portfolio needs non-tech diversification after Week 1's 0/2 tech win rate. COST stable through all the volatility, defensive quality, 22 of 24 analysts rate Buy, avg PT $1,082.94 (+13.7% upside from $952.54).
+- Entry: $945-955 (last close $952.54, squarely in range)
+- Position size: 5 shares × ~$952 = ~$4,760 (4.79% of portfolio)
+- Risk: LOW-MODERATE
+- **Decision point: wait for JOLTS/Consumer Confidence at 10am ET. If demand data doesn't show a sharp deterioration, this is a clean buy at market open.**
+
+**Trade Idea 2: GOOGL (Alphabet) — THESIS VALIDATED, BUT WATCH FOR A CHASE TRAP**
+- Thesis: Dow-inclusion buying flow is real and likely persists beyond Day 1 (index funds don't all rebalance in a single session). Berkshire's $10B stake stands. Cloud +32% YoY. Jumper/Shazeer departures are talent losses, not revenue losses.
+- Caution: entry is now $353.65, far above the $310-325 "post-selloff discount" level the Week 2 plan was built around — that discount thesis is dead since GOOGL never traded there. Lesson #4 from Week 1 (AVGO) was explicit: "Strongest single-day momentum is often a trap... chasing momentum spikes = buying the exhaustion." A name up 4-5% in one session is exactly that pattern.
+- Revised entry target: wait for a pullback/consolidation toward $335-345 (still well above the old discount target but below Monday's spike) rather than chasing the close.
+- Position size if entered: 13 shares × ~$340 = ~$4,420 (4.45% of portfolio)
+- Risk: MODERATE — good fundamental catalyst, but poor technical entry point today.
+- **Decision point: do NOT buy GOOGL today. Watch Tuesday/Wednesday price action for a pullback before entering, per Week 1's momentum-chasing lesson.**
+
+**Trade Idea 3: MU (Micron) — STILL WAITING ON $1,150**
+- Thesis unchanged: record Q3 beat, $50B Q4 guide, $100B contracted HBM revenue, and a newly reported strategic agreement with Anthropic (multiyear AI memory/storage supply deal + Micron investment in Anthropic's Series H) reinforces the demand story further.
+- Current $1,145.28 is $4.72 (0.4%) below the $1,150 threshold — essentially a coin flip today.
+- Entry: $1,100-1,140 if it breaks back above $1,150 with conviction; otherwise keep waiting.
+- Position size: 4 shares × ~$1,120 = ~$4,480 (4.52% of portfolio)
+- Risk: MODERATE
+- **Decision point: Wednesday/Thursday, after ISM, before the jobs report — no action today.**
+
+**Revised Plan for Today (Tuesday 6/30):**
+1. COST is the lead candidate for the market-open routine, contingent on JOLTS/Consumer Confidence not showing a demand collapse.
+2. GOOGL stays on the watchlist but should NOT be chased at $353+ — wait for a pullback.
+3. MU stays in "wait and watch" mode just below its $1,150 trigger.
+4. Max 1 new position today (COST) to stay disciplined ahead of Thursday's jobs report.
+5. No major overnight news affecting META — no notification sent.
+
+**Action Items for Today:**
+- [ ] Market-open routine: evaluate COST entry after JOLTS/Consumer Confidence data lands at 10am ET
+- [ ] Do NOT chase GOOGL at current levels — watch for pullback to $335-345
+- [ ] Track MU vs. $1,150 threshold through the session
+- [ ] Watch Nike earnings after close for consumer-spending read-through ahead of COST
+- [ ] Monitor META — flat overnight, buffer to -7% cut still healthy
+
+---
+
 ## 2026-06-29 — Pre-Market Research (Monday — Week 2 Day 1)
 
 **Market Snapshot (Pre-Market):**
