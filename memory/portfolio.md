@@ -1,23 +1,23 @@
 # Portfolio
 
-**Last Updated:** 2026-06-29 (end of day — live Alpaca data)
+**Last Updated:** 2026-06-30 (market open — live Alpaca data)
 
 ## Summary
 - **Cash:** $94,779.99
-- **Holdings Value:** $4,526.96
-- **Total Portfolio Value:** $99,306.91
-- **Total P/L:** -$693.09 (-0.69%)
-- **Today's P/L:** +$124.92 (+0.13%)
+- **Holdings Value:** $4,472.80
+- **Total Portfolio Value:** $99,252.79
+- **Total P/L:** -$747.21 (-0.75%)
+- **Today's P/L:** -$28.00 (-0.03%)
 - **S&P 500 Week 1:** -2.33% (SPY $746.75 → $729.35)
-- **vs S&P 500:** +1.64% outperformance
+- **vs S&P 500:** Week 2 comparison pending live SPY data
 
 ## Current Holdings
 
 | Ticker | Shares | Entry Price | Entry Date | Current Price | P/L $ | P/L % | Trailing Stop |
 |--------|--------|-------------|------------|---------------|-------|-------|---------------|
-| META | 8 | $569.44 | 2026-06-22 | $565.87 | -$28.55 | -0.63% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) |
+| META | 8 | $569.44 | 2026-06-22 | $559.10 | -$82.71 | -1.82% | 10% (stop $514.98, hwm $572.20, ID: 73d8eb21) |
 
-**Total Unrealized P/L:** -$28.55
+**Total Unrealized P/L:** -$82.71
 
 ## Closed Positions
 
@@ -42,6 +42,7 @@
 | 2026-06-29 | $99,306.91 | +$124.92 | +0.13% | Week 2 Day 1. META +2.84% ($565.87). 4th consecutive green day. Best single-day gain. No new trades (defensive stance). |
 
 ## Notes
+- **2026-06-30 (market open):** Week 2 Day 2. NO TRADES at open. META $559.10 (-1.82% from entry, -0.62% today), buffer to -7% cut still healthy. Per Tuesday's research/strategy plan, COST entry is explicitly gated on JOLTS Job Openings + Consumer Confidence data due 10:00am ET — this routine ran without live market-clock/data confirmation that those releases have posted, so no COST order was placed. GOOGL remains a no-chase (held at $353+, well above the $335-345 re-entry target). MU still below its $1,150 confirmation threshold. Position limit unchanged at 0/3 for Week 2. Re-evaluate COST after 10am ET data is confirmed available (e.g., in the midday routine).
 - **2026-06-29 (end of day):** Week 2 Day 1. NO TRADES — defensive stance held. META surged +2.84% ($550.25->$565.87), best single-day gain since entry. Buffer to -7% cut now 6.44% ($36.29). 4th consecutive green day. Unrealized loss narrowed from -$67.59 to -$28.55. Portfolio +$124.92 today. COST buy remains Tuesday/Wednesday plan. Watching JOLTS/Consumer Confidence Tuesday.
 - **2026-06-29 (market open):** Week 2 Day 1. NO TRADES — both GOOGL (-5%+ on DeepMind talent exodus) and MU ($1,130, below $1,150 threshold) triggered defensive conditions from Week 1 plan. META recovering well: $560.99 (-1.48% from entry, buffer to -7% cut now 5.61%). Third consecutive green day. COST stable at $950 — Tuesday/Wednesday buy candidate. Portfolio +$85.92 today. Watching JOLTS/Consumer Confidence Tuesday for COST entry decision.
 - **2026-06-26 (weekly review):** Week 1 complete. Portfolio -0.84% vs S&P -2.33%. Outperformed by +1.49pp but mostly due to 95.6% cash allocation, not stock-picking skill. 0/2 win rate on closed trades. META surviving at -3.75%, buffer to -7% cut is $18.48 (3.39%). Position limit resets to 0/3 for Week 2. Top buys: GOOGL (Monday, Dow inclusion), MU (Tue/Wed, post-earnings). Max 2 positions Day 1.
