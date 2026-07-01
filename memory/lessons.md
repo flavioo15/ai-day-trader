@@ -50,6 +50,9 @@ META was +2.39% at midday June 26 but closed at only +1.35%. Don't celebrate mid
 
 ## Daily Lessons (Chronological)
 
+### 2026-07-01 — Midday Check (Week 2 Day 3)
+Two key midday actions completed: (1) MU fill confirmed at $1,079.62 — better than the $1,110–$1,140 planned zone because MU opened down sharply from yesterday's $1,154.29 close. (2) 10% trailing stop placed on MU (ID: 700011ff, stop $944.03). META surging to $620.35 (+8.94% from entry) — 7% stop auto-adjusted to $584.30 (hwm $628.28). MU is down -2.50% from entry and -8.80% from yesterday's session close, but still 4.5% above the -7% cut threshold ($1,004.05). Portfolio is +$350.10 today (+0.35%). Lesson: The midday stop placement rule is critical — MU went unprotected for the first few hours of trading. Always: buy at open → confirm fill → place stop at midday. The 10% stop provides mechanical protection even when positions move against you intraday. Never end a midday routine without confirming all open positions have trailing stops.
+
 ### 2026-07-01 — Market Open (Week 2 Day 3)
 META surged to $605.88 pre-market (+6.40% from entry $569.44) — first time the position is solidly in the green. This triggered the >5% stop-tightening rule: canceled 10% stop, placed 7% stop. New floor: $558.61 (vs old $514.98). The tightening locks in a meaningful profit floor while still giving META room to run. MU entered at ~$1,116 (4 shares, day order, fills at open) — squarely in the $1,110–$1,140 planned zone. Lesson: Having a clear pre-planned entry zone and executing it when prices land there (rather than hesitating or waiting for a "better" price) is the right discipline. COST deferred — one new position per day ahead of the Thursday Jobs Report is the correct risk management approach.
 
