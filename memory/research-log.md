@@ -1,5 +1,79 @@
 # Research Log
 
+## 2026-07-01 — Pre-Market Research (Wednesday — Week 2 Day 3)
+
+**TUESDAY RECAP — STRONG CLOSE, MU BREAKS THRESHOLD:**
+Tuesday June 30 was a convincing bull day. S&P 500 +0.79% → 7,449.36; Nasdaq +1.52% → 26,213.72; Dow +0.26% → 52,319.20. Chipmakers led the charge: NVDA +2.6%, AMD +7.7%, Intel +6%. Q2 2026 total return: S&P +14%, Nasdaq +20%, Dow +12% — best quarter since the post-pandemic recovery in 2020.
+
+**Critical update — MU broke the $1,150 trigger:**
+Micron Technology (MU) traded as high as **$1,168.68** on Tuesday June 30, decisively clearing the $1,150 entry threshold. This confirms the Q3 earnings/HBM thesis. Pre-market today (July 1): MU ~$1,150 (+0.44% pre-market). The planned entry range of $1,100–$1,140 is now live — any open-market dip into that zone is a buy signal.
+
+**Tuesday Economic Data — Goldilocks:**
+- **JOLTS (May):** 7.6M job openings (2-year high) vs. 6.975M expected — MASSIVE BEAT. Labor market healthy without overheating. ✅ Positive for consumer spending plays (COST).
+- **Consumer Confidence (June):** 91.2 vs. 94.0 expected — slight miss. University of Michigan Sentiment: 49.5 (recovering from record low but still 19% below year-ago). ⚠️ Weak but not collapsing.
+- **Nike Q4 FY2026:** Revenue $10.97B (beat), EPS **$0.72** (vs. $0.11 consensus — massive beat). Sports business driving recovery; Greater China still pressured. Net read: consumer is still spending, brands that execute will be rewarded.
+
+**Pre-Market Snapshot (July 1):**
+| Index | Futures |
+|-------|---------|
+| S&P 500 | -0.31% |
+| Dow Jones | -0.26% |
+| Nasdaq 100 | -0.60% |
+
+Mild broad pullback after Tuesday's rally — normal consolidation before ISM data.
+
+**Watchlist Status:**
+| Ticker | Last Close | Pre-Market | vs. Plan | Action |
+|--------|-----------|-----------|---------|--------|
+| MU | $1,145–$1,154 (range $1,124–$1,168) | ~$1,150 (+0.44%) | THRESHOLD CONFIRMED ✅ | **Enter on dip $1,110–$1,140** |
+| COST | ~$936–$947 | ~$950 (-0.27%) | In range $945–955 ✅ | **Enter after ISM (10am)** |
+| GOOGL | ~$357.37 | ~$353.38 (-0.08%) | Above $335–345 pullback zone ❌ | **Wait — no action** |
+| META | ~$562.60 | Unknown | -1.15% from entry ($569.44) | **Hold — trailing stop intact** |
+
+**Today's Economic Calendar:**
+- **ISM Manufacturing PMI (June)** — 10:00 AM ET. May reading: 54 (expansion, 4-year high). Consensus: ~53. A reading above 50 confirms manufacturing expansion; below 50 = contraction and could trigger broad selloff. This gates the COST entry decision for today.
+- **No other major data today.** Jobs report is Thursday (holiday-shortened week — early release).
+- **Markets CLOSED Friday, July 4th** — lower volume expected rest of week; outsized moves possible.
+
+**Trade Decisions for Today:**
+
+**Decision 1: MU (Micron) — BUY if dips to $1,110–$1,140 at open**
+- The $1,150 trigger fired Tuesday. Pre-market is holding $1,150 (+0.44%). A pullback to the $1,110–$1,140 range represents a clean entry with room to the trailing stop.
+- If it opens above $1,145 and holds there, a limit order at $1,130–$1,140 is prudent — wait for the dip rather than chasing the pre-market price.
+- **Position size:** 4 shares × ~$1,125 = ~$4,500 (4.5% of portfolio)
+- **Trailing stop:** 10% from entry immediately after fill
+- **Thesis:** HBM supply sold out through 2026, $50B Q4 guide, Anthropic supply/investment deal. Supply-constrained upcycle with strong earnings visibility.
+- **Risk:** Jobs report Thursday could bring macro pressure to all growth stocks. Size appropriately.
+
+**Decision 2: COST (Costco) — CONDITIONAL BUY if ISM ≥ 50 at 10am**
+- JOLTS massive beat (7.6M vs 6.975M) validates the employed-consumer thesis. Nike earnings beat confirms spend hasn't collapsed.
+- Consumer confidence miss (91.2 vs 94.0) is a mild negative but not disqualifying — COST specifically targets value-seeking consumers who may actually benefit from uncertainty (trade-down effect).
+- **Gate:** ISM Manufacturing PMI at 10am. If ≥ 50 (expansion), buy. If < 50, defer to post-jobs-report Friday (or next week).
+- **Position size:** 5 shares × ~$950 = ~$4,750 (4.75% of portfolio)
+- **Trailing stop:** 10% from entry immediately
+- **Thesis:** Non-tech diversification, defensive quality, 22/24 analysts Buy, avg PT $1,082 (+13.7%), sticky membership revenue.
+
+**Decision 3: GOOGL — NO ACTION**
+- Pre-market: $353.38, barely moved from Tuesday's $353.65 close. The planned pullback entry of $335–345 has not materialized.
+- Do NOT chase. Week 1 lesson (AVGO momentum trap) applies — a name that surged +5% in one session and held it is not a pullback-entry opportunity.
+- Re-evaluate next week if it consolidates or dips.
+
+**META Management:**
+- Current status: ~$562.60 close Tuesday (pre-market data unavailable)
+- Entry was $569.44; -7% cut is $529.58; buffer ~5.8%
+- Trailing stop: $514.98 (10% from hwm $572.20)
+- No overnight news affecting META. No action needed.
+- **Trigger to tighten stop:** If META trades above $580 (>+1.9% from entry), move trailing stop from 10% to 7%.
+
+**Position Limit Check:**
+- Week 2 positions opened: 0/3 (as of last memory update June 30 pre-market)
+- Note: Unknown if market-open routine placed COST on Tuesday. If COST was bought, only 1 more new position available this week. If not, 2 slots remain.
+- Today limit: **maximum 1 new position** (MU or COST, not both — too many unknowns before Thursday jobs report).
+
+**Priority for today:** MU first (clearer catalyst, threshold confirmed), then COST if ISM is supportive AND portfolio has remaining position slots.
+
+---
+
 ## 2026-06-30 — Pre-Market Research (Tuesday — Week 2 Day 2)
 
 **CORRECTION TO MONDAY'S THESIS — GOOGL DID NOT GAP DOWN, IT RALLIED:**
