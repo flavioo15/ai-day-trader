@@ -1,6 +1,6 @@
 # Trading Strategy
 
-**Last Updated:** 2026-07-01 (market open routine — 8:41 AM ET, Week 2 Day 3)
+**Last Updated:** 2026-07-01 (end of day routine — EOD, Week 2 Day 3)
 
 ## Current Market Thesis
 The market staged a powerful Q2 close — S&P 500 +14%, Nasdaq +20%, Dow +12% for Q2 2026 (best quarter since post-pandemic 2020). We are now entering the July 4th holiday-shortened week with a constructive macro backdrop, though the Jobs Report Thursday is the key risk event before markets close Friday.
@@ -26,10 +26,10 @@ The market staged a powerful Q2 close — S&P 500 +14%, Nasdaq +20%, Dow +12% fo
 
 ## Current Positioning
 - 2 open positions: META + MU (both confirmed, stops active)
-- META: 8 shares, entry $569.44, current $620.35 (+8.94%), **7% trailing stop** (ID: c760484c, stop $584.30, hwm $628.28) — auto-adjusted upward
-- MU: 4 shares, entry $1,079.62, current $1,052.66 (-2.50%), **10% trailing stop** (ID: 700011ff, stop $944.03, hwm $1,048.93) — placed midday 2026-07-01
+- META: 8 shares, entry $569.44, EOD $617.39 (+8.42%), **7% trailing stop** (ID: c760484c, stop $584.30, hwm $628.28)
+- MU: 4 shares, entry $1,079.62, EOD $1,054.66 (-2.31%), **10% trailing stop** (ID: 700011ff, stop $955.60, hwm $1,061.78) — auto-moved up EOD
 - ~9.2% deployed, ~90.8% cash
-- Portfolio value: $99,636.41 (+$350.10 today)
+- Portfolio value: $99,620.67 (+$334.36 today, +0.34%)
 - **Position limit: 1/3 used (Week 2)** — MU added today; 2 slots remain
 
 ## Week 2 Deployment Plan (July 1 — MARKET OPEN EXECUTION UPDATE)
@@ -52,10 +52,10 @@ The market staged a powerful Q2 close — S&P 500 +14%, Nasdaq +20%, Dow +12% fo
 - **If META breaks below $580:** monitor more closely (within $21.39 of new 7% stop)
 
 ### MU Management
-- Entry: $1,079.62 | -7% cut: $1,004.05 | **10% trailing stop** (ID: 700011ff, stop $944.03, hwm $1,048.93) — PLACED
+- Entry: $1,079.62 | -7% cut: $1,004.05 | **10% trailing stop** (ID: 700011ff, stop $955.60, hwm $1,061.78) — auto-updated EOD
 - Hold for 5+ trading days minimum (unless stop hit) — Day 1 today (2026-07-01)
 - Next tightening: if MU moves above +5% from entry (~$1,133.60), tighten stop to 7%
-- Current: $1,052.66 (-2.50%) — down from yesterday close but entry basis is better than expected
+- EOD: $1,054.66 (-2.31%) — down from yesterday close; 4.8% buffer above -7% cut ($1,004.05)
 
 ## Risk Appetite
 **CAUTIOUS WITH SELECTIVE OPPORTUNISM.**
