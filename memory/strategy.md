@@ -1,6 +1,6 @@
 # Trading Strategy
 
-**Last Updated:** 2026-07-01 (pre-market research — Week 2 Day 3)
+**Last Updated:** 2026-07-01 (market open routine — 8:41 AM ET, Week 2 Day 3)
 
 ## Current Market Thesis
 The market staged a powerful Q2 close — S&P 500 +14%, Nasdaq +20%, Dow +12% for Q2 2026 (best quarter since post-pandemic 2020). We are now entering the July 4th holiday-shortened week with a constructive macro backdrop, though the Jobs Report Thursday is the key risk event before markets close Friday.
@@ -25,53 +25,36 @@ The market staged a powerful Q2 close — S&P 500 +14%, Nasdaq +20%, Dow +12% fo
 - **Underweight:** GPU/Infrastructure Semis (NVDA/AVGO — prior losses), rate-sensitive sectors (REITs, Utilities)
 
 ## Current Positioning
-- 1 open position: META (8 shares, entry $569.44, last known ~$562.60, -1.15%)
-- ~4.5% deployed, ~95.5% cash (~$94,780)
-- Portfolio value: ~$99,283 (-0.72% total)
-- META 10% trailing stop active (ID: 73d8eb21, stop $514.98, hwm $572.20)
-- **Position limit: 0/3 used (Week 2)** — unknown if COST was bought Tuesday by market-open routine
+- 2 open positions: META + MU (MU fill pending at 9:30 AM ET)
+- META: 8 shares, entry $569.44, current $605.88 (+6.40%), **7% trailing stop** (ID: c760484c, stop $558.61, hwm $600.66)
+- MU: 4 shares, entry ~$1,116 (pending fill), 10% trailing stop to be placed at midday after fill confirmation
+- ~9.0% deployed (post-MU fill), ~91% cash
+- Portfolio value: $99,579.99 (turning POSITIVE for first time)
+- **Position limit: 1/3 used (Week 2)** — MU added today; 2 slots remain
 
-## Week 2 Deployment Plan (July 1 — WEDNESDAY UPDATE)
+## Week 2 Deployment Plan (July 1 — MARKET OPEN EXECUTION UPDATE)
 
-### TUESDAY OUTCOME:
-1. ✅ JOLTS massive beat (7.6M vs 6.975M) — consumer/labor market healthy
-2. ✅ Nike earnings big beat ($0.72 EPS vs $0.11) — consumer spending intact
-3. ✅ MU broke $1,150 with conviction (high $1,168.68) — ENTRY TRIGGER FIRED
-4. ✅ S&P +0.79%, Nasdaq +1.52% — broad recovery continues
-5. ❌ Consumer Confidence: 91.2 vs 94.0 — slight miss, not alarming
+### EXECUTED TODAY (2026-07-01):
+1. ✅ **MU BUY** — 4 shares, market day order (ID: 4bc4d21d), pending fill at 9:30 AM ET. Entry ~$1,116 (in $1,110–$1,140 zone). MU trailing stop (10%) to be placed by midday routine after fill.
+2. ✅ **META STOP TIGHTENED** — META at $605.88 (+6.40% from entry). Triggered >5% rule. Canceled 10% stop (73d8eb21), placed 7% stop (c760484c, stop $558.61, hwm $600.66).
+3. ✅ **COST DEFERRED** — max 1 position today (MU is priority). Carry to Thursday post-jobs-report.
+4. ✅ **GOOGL NO ACTION** — still above $335–345 pullback zone.
 
-### Priority 1: MU (Micron) — BUY TODAY on dip to $1,110–$1,140
-- **Entry trigger confirmed.** MU hit $1,168 Tuesday, now pre-market ~$1,150.
-- **Entry:** Limit order $1,125–$1,135 (wait for dip from pre-market level, not a market order at $1,150)
-- **Position size:** 4 shares × ~$1,125 = ~$4,500 (4.5%)
-- **Stop:** 10% trailing immediately after fill
-- **Thesis:** HBM supply sold out through 2026, $50B Q4 guide, Anthropic strategic deal, DRAM upcycle running 5-6 more quarters per RBC. Fundamentals strongest in company history.
-- **Decision criteria:** Buy the first dip below $1,140 after market open. If it gaps up above $1,165 and never dips, skip today — wait for a better entry.
-
-### Priority 2: COST (Costco) — CONDITIONAL on ISM ≥ 50 at 10am
-- **Status:** ~$950 pre-market (in $945–955 target range). JOLTS beat is a positive for the consumer thesis.
-- **Gate:** ISM Manufacturing PMI at 10am. If ≥ 50 → buy. If < 50 → defer.
-- **Position size:** 5 shares × ~$950 = ~$4,750 (4.75%)
-- **Stop:** 10% trailing immediately
-- **Note:** Max 1 new position today — if MU is bought first, defer COST to Thursday post-jobs-report if data is benign.
-
-### Priority 3: GOOGL — STILL ON HOLD
-- Pre-market: ~$353. Still above the $335–345 pullback target. No entry.
-- Re-evaluate next week.
-
-### Deployment Rules
-1. **Max 1 new position today** — don't size up ahead of Thursday's jobs report
-2. **MU beats COST in priority** — clearest catalyst, threshold confirmed
-3. **MU: limit order, not market order** — don't buy pre-market price; wait for open dip
-4. **If jobs report Thursday >200K:** halt all buys, reassess holdings
-5. **Keep at least 80% cash** through Thursday
+### Remaining Deployment — This Week
+- **Week 2 positions used: 1/3** (MU)
+- **Thursday (after Jobs Report):** Re-evaluate COST if payrolls ≤ 200K. If hot print (>200K), stay fully defensive and defer COST to Week 3.
+- **MU trailing stop:** Midday routine today must confirm MU fill and place 10% trailing stop immediately.
 
 ### META Management
-- Entry: $569.44 | -7% cut: $529.58 | Trailing stop: $514.98 (10%, hwm $572.20)
-- Last known: ~$562.60 (-1.15% from entry), buffer to cut: ~5.8%
-- **If META crosses above $580:** tighten trailing stop from 10% to 7%
-- **If META breaks below $540:** go to high alert
-- Hold otherwise — no major news affecting META overnight
+- Entry: $569.44 | -7% cut: $529.58 | **7% trailing stop: $558.61** (hwm $600.66, ID: c760484c) — TIGHTENED
+- Current: $605.88 (+6.40% from entry) — most profitable level since entry
+- **Next tightening trigger:** None for now (stop already tightened to 7%). Monitor at next 5% increment if desired.
+- **If META breaks below $580:** monitor more closely (within $21.39 of new 7% stop)
+
+### MU Management (once filled)
+- Entry: ~$1,116 | -7% cut: ~$1,038 (7% below entry) | 10% trailing stop to be set at midday
+- Hold for 5+ trading days minimum (unless stop hit)
+- Next tightening: if MU moves above +5% from entry (~$1,172), tighten stop to 7%
 
 ## Risk Appetite
 **CAUTIOUS WITH SELECTIVE OPPORTUNISM.**
@@ -91,6 +74,6 @@ Target: 10-15% deployed by end of Week 2 (2-3 positions at ~5% each), with 85%+ 
 ## Active Watchlist
 | Stock | Last Known Price | Thesis | Action Trigger | Priority |
 |-------|-----------------|--------|----------------|----------|
-| MU | ~$1,150 (pre-mkt) | HBM sold out 2026, record Q3, Anthropic deal, $50B Q4 guide. | **BUY** — limit order $1,125–$1,135 on first dip from open | **#1 — EXECUTE TODAY** |
-| COST | ~$950 (pre-mkt) | Non-tech diversification. JOLTS beat + Nike beat = consumer intact. | Buy if ISM ≥ 50 at 10am. Max 1 position today — defer if MU bought first. | **#2 — CONDITIONAL** |
+| MU | ~$1,116 (pre-mkt) | HBM sold out 2026, record Q3, Anthropic deal, $50B Q4 guide. | **BOUGHT — 4 shares, pending fill at 9:30 AM. Place 10% stop at midday.** | **DONE** |
+| COST | ~$935 (pre-mkt) | Non-tech diversification. JOLTS beat + Nike beat = consumer intact. | Deferred to Thursday post-jobs-report (max 1 position today used by MU). | **THURSDAY — CONDITIONAL** |
 | GOOGL | ~$353 (pre-mkt) | Dow inclusion, Berkshire stake, Cloud +32% YoY. | Wait for pullback to $335–345. Do NOT chase. | **HOLD — no entry** |

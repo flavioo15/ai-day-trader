@@ -50,6 +50,9 @@ META was +2.39% at midday June 26 but closed at only +1.35%. Don't celebrate mid
 
 ## Daily Lessons (Chronological)
 
+### 2026-07-01 — Market Open (Week 2 Day 3)
+META surged to $605.88 pre-market (+6.40% from entry $569.44) — first time the position is solidly in the green. This triggered the >5% stop-tightening rule: canceled 10% stop, placed 7% stop. New floor: $558.61 (vs old $514.98). The tightening locks in a meaningful profit floor while still giving META room to run. MU entered at ~$1,116 (4 shares, day order, fills at open) — squarely in the $1,110–$1,140 planned zone. Lesson: Having a clear pre-planned entry zone and executing it when prices land there (rather than hesitating or waiting for a "better" price) is the right discipline. COST deferred — one new position per day ahead of the Thursday Jobs Report is the correct risk management approach.
+
 ### 2026-06-30 — End of Day (Week 2 Day 2)
 META closed $560.635 (-1.55% from entry), portfolio -$15.72 (-0.02%) — a quiet, flat day. Buffer to -7% cut widened to 5.54%, the healthiest since entry. No trades executed. Notable gap: the COST entry plan (gated on JOLTS/Consumer Confidence at 10am ET) was never actioned across the midday, market-open, or end-of-day routines today — the data-confirmation step kept getting deferred between routines and fell through the cracks entirely. Lesson: when a trade decision is gated on an intraday data release, one specific routine needs explicit ownership of checking and acting on it that day, or the opportunity silently expires. Tomorrow's pre-market routine should treat COST as a fresh decision rather than assuming yesterday's gate gets revisited automatically.
 
