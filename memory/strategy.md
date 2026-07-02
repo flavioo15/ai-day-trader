@@ -1,89 +1,63 @@
 # Trading Strategy
 
-**Last Updated:** 2026-07-02 (market open routine — COST order placed, last trading day before July 4 holiday)
+**Last Updated:** 2026-07-02 (midday routine — MU cut, COST stop placed, META near stop)
 
 ## Current Market Thesis
-Q3 2026 off to a strong start (Q2: S&P +14%, Nasdaq +20%). June Jobs Report (July 2, 8:30 AM ET) came in benign: SPY pre-market +0.36% post-report, MU recovered +3.18%, consistent with payrolls well below 200K. COST gate opened.
+Q3 2026 has been challenging. MU cut at -8.88% — DRAM lawsuit thesis impairment + intraday reversal from morning pre-market recovery. Now 3 of 4 stock picks in this portfolio have been cut (AVGO, NVDA, MU). Only META and COST remain.
 
-META's AI cloud business (July 1 announcement) is a major sustained catalyst. MU recovered from the DRAM-lawsuit panic that pushed it to $1,008 pre-market yesterday — now at $1,065, well above the $1,004.05 hard cut. HBM thesis intact.
+META approaching its 7% trailing stop ($584.30) — close call as of midday July 2. COST working as expected, up +1.68% on Day 1. Non-tech diversification thesis playing out correctly.
 
-**COST added:** Non-tech diversification complete. Portfolio now has 3 sectors: mega-cap platform tech (META), memory semi (MU), consumer staples (COST).
+**Post-MU-cut state:**
+- Portfolio ~$99,156 est.
+- 2 open positions: META (large cap tech) + COST (consumer staples)
+- Markets CLOSED July 4 — next session Monday July 7
 
 **Key risks:**
-1. COST fill uncertainty — market order, fills at 9:30 AM ET open (midday routine to confirm and place 10% trailing stop)
-2. GOOGL still above $335-345 — no entry yet (1 Week 2 slot remains)
-3. Markets CLOSED Friday July 4 — today is the last trading day this week
-4. MU: DRAM lawsuit overhang remains, but stop protects downside. Buffer to cut now $61.16 (5.74%)
+1. META at $585.15, only $0.85 above 7% trailing stop ($584.30). May have fired during today's session.
+2. If META stop fired: portfolio would be 100% COST + cash (even more concentrated risk)
+3. Week 3 (July 7+) needs careful new position selection — 3/3 slots open for week
+4. Need to demonstrate stock-picking alpha, not just capital preservation
 
 ## Sector Preferences
-- **Overweight:** Consumer Staples (COST — new position, best entry price to date $920-935); Mega-cap AI platforms (META — +6.02% from entry, new AI cloud catalyst)
-- **Neutral:** Memory/Semi (MU — HBM thesis intact, DRAM lawsuit = risk, recovery today +3.18%)
-- **Underweight:** GPU/Infrastructure Semis (NVDA/AVGO — prior losses), GOOGL (above target entry zone)
+- **Overweight:** Consumer Staples (COST — Day 1, +1.68%, 10% stop active)
+- **Cautious:** Mega-cap AI platforms (META — close to 7% trailing stop, may have fired)
+- **Avoided:** Memory/Semi (MU cut -8.88%), GPU/Infrastructure (AVGO, NVDA — prior losses)
 
-## Current Positioning (Market Open July 2)
-- 2 confirmed positions: META + MU (stops active)
-- 1 PENDING: COST (order c22579e5, fills at 9:30 AM)
-- META: 8 shares, entry $569.44, current $603.75 (+6.02%), **7% trailing stop** (ID: c760484c, stop $584.30, hwm $628.28)
-- MU: 4 shares, entry $1,079.62, current $1,065.21 (-1.34%), **10% trailing stop** (ID: 700011ff, stop $959.93, hwm $1,066.59)
-- COST: 5 shares, estimated fill $920-935, **10% trailing stop PENDING** (midday routine to place after fill)
-- After COST fill: ~$85,840 cash, ~14% deployed
-- Portfolio value: $99,568.50 (pre-COST fill)
-- **Position limit: 2/3 used (Week 2)**
+## Current Positioning (Midday July 2)
+- META: 8 shares, entry $569.44, current $585.15 (+2.76%), **7% trailing stop** (ID: c760484c, stop $584.30, hwm $628.28) ⚠️ VERY CLOSE
+- COST: 5 shares, entry $930.376, current $945.975 (+1.68%), **10% trailing stop** (ID: 9f15edad, stop $851.769, hwm $946.41)
+- MU: **CLOSED** — cut at ~$983.78 (order 4b308900, pending fill confirmation)
+- Cash: ~$89,745 after MU exit
+- Portfolio value: ~$99,156 estimated
+- **Position limit: 2/3 used (Week 2)** — but MU is now closed
 
-## Week 2 Deployment — COMPLETED
+## Week 2 Status — COMPLETE (last trading day before July 4)
 
 ### DONE:
-1. ✅ **MU BUY** — 4 shares at $1,079.62 (2026-07-01). 10% trailing stop active (ID: 700011ff).
-2. ✅ **META STOP TIGHTENED** — 7% trailing stop (ID: c760484c, stop $584.30, hwm $628.28).
-3. ✅ **COST BUY ORDER PLACED** — 5 shares market buy (order c22579e5). Fills at 9:30 AM ET July 2. 10% trailing stop to be placed at midday after fill confirms.
-4. ✅ **MU NOT CUT** — MU recovered to $1,065.21 (+3.18% today), buffer to -7% cut = $61.16 (5.74%). NO action needed.
-
-### Midday Routine Actions Required (July 2):
-1. **Confirm COST fill price** — check position via get_position COST
-2. **Place 10% trailing stop on COST** — bash scripts/trade.sh place_trailing_stop COST 5 sell 10
-3. **Update portfolio.md with actual COST fill price and stop ID**
-4. **Monitor MU vs $1,004.05** — if at/below, cancel stop and sell immediately (still critical)
-5. **Check META** — no action expected, just confirm stop intact
-
-### META Management
-- Entry: $569.44 | -7% cut: $529.58 | **7% trailing stop** (ID: c760484c, stop $584.30, hwm $628.28)
-- Current: $603.75 (+6.02% from entry) — HEALTHY
-- AI cloud business = major new long-term catalyst
-- **No action needed.**
-
-### MU Management
-- Entry: $1,079.62 | -7% cut: **$1,004.05** | Current: $1,065.21 (-1.34%)
-- Buffer: **$61.16 (5.74%)** — recovered from yesterday's $4.59 danger zone
-- 10% trailing stop: $959.93 (hwm $1,066.59, ID: 700011ff)
-- MU up +3.18% today — DRAM lawsuit panic is reversing
-- **No cut needed. Hold.**
-
-### COST Management (pending fill)
-- Entry target: ~$920-935 (market order, fills at open)
-- 5 shares × ~$924 = ~$4,620 (4.64% of portfolio) ✅
-- 10% trailing stop to be placed immediately after fill confirmed (midday routine)
-- Thesis: Bernstein H2 top pick, 18.8% upside to PT $1,099, defensive diversification
+1. ✅ **MU BUY → CUT** — Bought 4 shares at $1,079.62 (July 1), cut at ~$983.78 (July 2 midday). -8.88% realized loss (~-$383).
+2. ✅ **META STOP TIGHTENED** — 7% trailing stop (ID: c760484c, stop $584.30, hwm $628.28). ⚠️ Only $0.85 from current price.
+3. ✅ **COST FILLED + STOP PLACED** — 5 shares at $930.376 (July 2). 10% stop ID: 9f15edad, stop $851.769.
 
 ## Week 3 Preview (July 7+)
-- 1 remaining position slot from Week 2
-- GOOGL: Still above $335-345 pullback target — no entry until it dips
 - Markets closed July 4 (Friday) — Week 3 starts Monday July 7
-- Strategy reset: reassess MU stop (may need tightening if up >5%), monitor COST momentum
+- **First action: Check if META 7% trailing stop (c760484c, $584.30) fired or if META recovered**
+- 3 new position slots available for Week 3
+- GOOGL: Still above $335-345 pullback target. Could revisit if pulled back over holiday
+- Consider a 3rd position in Week 3 — sector: healthcare or energy for further diversification
+- Evaluate: why have 3 of 4 stock picks been cuts? Better entry timing, sector rotation, thesis quality
 
 ## Risk Appetite
-**DEPLOYED.** Portfolio is now diversified across 3 sectors. Both stop orders are active. COST trailing stop to be placed at midday. With markets closed July 4, the long holiday weekend is a risk event — all stops are in place to protect against any adverse Monday opens.
+**CAUTIOUS.** Two open positions (META, COST) with active stops. META's stop may fire by EOD. Holiday weekend = gap risk Monday. COST stop protects vs. sharp weekend adverse macro. Need to show improved stock-picking in Week 3.
 
 ## Signals Being Watched
-- **COST fill price** — target $920-935. Midday to confirm.
-- **MU vs $1,004.05** — hard cut threshold. Buffer $61.16. Keep monitoring.
-- **META trailing stop at $584.30** (7% from hwm $628.28) — well away from current $603.75
-- **Jobs Report actual number** — couldn't verify exact figure, but market reaction (SPY +0.36%) confirms benign print
+- **META vs $584.30** — trailing stop level. Did it fire? Check at next session (Monday July 7).
+- **COST thesis** — Bernstein H2 pick, +1.68% Day 1. Monitor for upside to tighten stop toward 7% if up >5%.
 - **GOOGL pullback to $335-345** — still not materialized; Week 3 watch
+- **Week 3 sector rotation** — which sectors are leading entering Q3?
 
 ## Active Watchlist
 | Stock | Last Known Price | Thesis | Action Trigger | Priority |
 |-------|-----------------|--------|----------------|----------|
-| COST | ~$924 (July 1) | H2 Bernstein top pick, 18.8% upside, special div speculation, defensive diversification | **ORDERED — fills at 9:30 AM ET** | **EXECUTING** |
-| MU | $1,065.21 (today) | HBM supercycle intact. DRAM lawsuit = risk but stock recovering. | **Hold. Cut if at/below $1,004.05** | **HOLD / MONITOR** |
-| META | $603.75 (today) | AI cloud business. +6.02% from entry. Strong. | Hold. No action. | **HOLD** |
+| META | $585.15 (midday July 2) | AI cloud business. +2.76% from entry. 7% stop at $584.30 — CRITICAL WATCH. | Did trailing stop fire? Check July 7. | **MONITOR — stop may have fired** |
+| COST | $945.975 (midday July 2) | H2 Bernstein top pick, +1.68% Day 1. 10% stop active. | Tighten to 7% if up >5% ($976.89). | **HOLD / MONITOR** |
 | GOOGL | ~$353 (est.) | Dow inclusion, Berkshire stake, Cloud +32% YoY | Wait for pullback to $335–345. Not yet. | **WATCH — no entry** |
