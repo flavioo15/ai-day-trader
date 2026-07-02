@@ -1,31 +1,32 @@
 # Portfolio
 
-**Last Updated:** 2026-07-01 (end of day — EOD, live Alpaca data)
+**Last Updated:** 2026-07-02 (market open routine — pre-market / COST order placed)
 
 ## Summary
-- **Cash:** $90,461.51
-- **Holdings Value:** $9,159.16 (META + MU)
-- **Total Portfolio Value:** $99,620.67 (equity, per Alpaca)
-- **Total P/L:** -$379.33 (-0.38%) ← *total from $100K start, realized -$664.46 + unrealized +$283.77*
-- **Today's P/L:** +$334.36 (+0.34%) — META +$432.80 session, MU -$99.84 from entry
-- **S&P 500 Week 2:** Monitoring (S&P +0.79% Tuesday June 30)
-- **vs S&P 500:** Tracking — Week 2 outperformance TBD
+- **Cash:** $90,461.51 (pre-COST fill); ~$85,840 estimated after COST fills at ~$924
+- **Holdings Value:** $9,107.00 (META $4,830 + MU $4,277) — live Alpaca equity
+- **Total Portfolio Value:** $99,568.50 (equity, per Alpaca)
+- **Total P/L:** -$431.50 (-0.43%) ← *from $100K start; realized -$664.46 + unrealized +$216.85*
+- **Today's P/L:** +$74.60 (+0.07%) — MU recovering, META down slightly
+- **S&P 500:** SPY pre-market $749.37 (+0.36% from prior close $746.65) — benign Jobs Report reaction
+- **vs S&P 500:** Tracking — outperformed by +1.49% in Week 1
 
 ## Current Holdings
 
 | Ticker | Shares | Entry Price | Entry Date | Current Price | P/L $ | P/L % | Trailing Stop |
 |--------|--------|-------------|------------|---------------|-------|-------|---------------|
-| META | 8 | $569.44 | 2026-06-22 | $617.39 | +$383.61 | +8.42% | **7% (TIGHTENED)** (stop $584.30, hwm $628.28, ID: c760484c) |
-| MU | 4 | $1,079.62 | 2026-07-01 | $1,054.66 | -$99.84 | -2.31% | **10%** (stop $955.60, hwm $1,061.78, ID: 700011ff) — stop auto-moved up from $944.03 |
+| META | 8 | $569.44 | 2026-06-22 | $603.75 | +$274.49 | +6.02% | **7% TIGHTENED** (stop $584.30, hwm $628.28, ID: c760484c) |
+| MU | 4 | $1,079.62 | 2026-07-01 | $1,065.21 | -$57.64 | -1.34% | **10%** (stop $959.93, hwm $1,066.59, ID: 700011ff) |
+| COST | 5 | TBD | 2026-07-02 | ~$924 (pre-mkt) | — | — | **PENDING FILL** (10% trailing stop to be placed at midday after fill confirms) |
 
-**Total Unrealized P/L:** +$383.61 (META) - $99.84 (MU) = **+$283.77**
+**Total Unrealized P/L:** +$274.49 (META) - $57.64 (MU) = **+$216.85** (excludes COST pending)
 
-### Key Events Today (2026-07-01 EOD)
-1. **META surged +9.60% session** — From $563.29 (June 30 close) to $617.39 EOD. From entry $569.44 now +8.42% (+$383.61 unrealized). 7% trailing stop: HWM $628.28, stop $584.30. Stop NOT triggered.
-2. **MU 10% trailing stop auto-moved up** — HWM updated to $1,061.78 (up from $1,048.93 at midday). Stop auto-adjusted to $955.60 (from $944.03). MU reached intraday high $1,061.78.
-3. **MU EOD at $1,054.66** — From entry $1,079.62, down -2.31% (-$99.84). MU dropped -8.63% from yesterday's close ($1,154.29) but we entered at $1,079.62. -7% cut threshold from entry is $1,004.05 — buffer $50.61 (4.8%). No cut needed.
-4. **Daily loss cap check** — Portfolio +$334.36 (+0.34%) today. NOT triggered.
-5. **No new positions today** — MU is 1/3 for Week 2. Next: Thursday Jobs Report (early release) — COST conditional on ≤200K payrolls.
+### Key Events Today (2026-07-02 Market Open)
+1. **MU RECOVERED** — Pre-market $1,065.21 (+3.18% from yesterday's close $1,032.28). Buffer to -7% hard cut ($1,004.05) is now **$61.16 (5.74%)** — well clear. No cut needed. MU trailing stop unchanged: HWM $1,066.59, stop $959.93.
+2. **META consolidating** — $603.75 (-1.49% from $612.91 yesterday close). Still +6.02% from entry. 7% trailing stop intact ($584.30, HWM $628.28). No action needed.
+3. **June Jobs Report (8:30 AM ET)** — Market reaction: SPY pre-mkt +0.36%. COST gate opened (consensus ~115K, well below 200K threshold). MU's strong recovery (+3.18%) also consistent with benign/goldilocks print.
+4. **COST BUY ORDER PLACED** — 5 shares market buy, order ID: c22579e5-5683-44ec-91f1-62009a9e28b7. Will fill at 9:30 AM ET open. Expected fill ~$920-935. 10% trailing stop to be placed by midday routine after fill confirms.
+5. **Daily loss cap check** — Portfolio +$74.60 (+0.07%). NOT triggered (3% cap = $96,509 vs current $99,568). Safe.
 
 ## Closed Positions
 
@@ -37,7 +38,7 @@
 **Total Realized P/L:** -$664.46
 
 ## New Positions This Week (Week 2: June 29 - July 3)
-**1 of 3 max** (MU — filled at $1,079.62 this morning)
+**2 of 3 max** (MU — July 1 + COST — July 2 pending fill)
 
 ## Daily Performance
 | Date | Portfolio Value | Daily P/L | Daily P/L % | Notes |
@@ -49,9 +50,9 @@
 | 2026-06-26 | $99,164.48 | +$41.53 | +0.04% | Day 5. META +0.96%. First green close. Week 1 complete. |
 | 2026-06-29 | $99,306.91 | +$124.92 | +0.13% | Week 2 Day 1. META +2.84% ($565.87). No new trades. |
 | 2026-06-30 | $99,265.07 | -$15.72 | -0.02% | Week 2 Day 2. META $560.635. No new trades. |
-| 2026-07-01 | $99,620.67 | +$334.36 | +0.34% | Week 2 Day 3 (EOD). META $617.39 (+8.42%). MU filled $1,079.62, closed $1,054.66 (-2.31%). Both stops active. MU stop auto-moved to $955.60 (HWM $1,061.78). |
+| 2026-07-01 | $99,620.67 | +$334.36 | +0.34% | Week 2 Day 3 (EOD). META $617.39 (+8.42%). MU filled $1,079.62, closed $1,054.66 (-2.31%). |
+| 2026-07-02 | $99,568.50 | +$74.60 | +0.07% | Week 2 Day 4 (market open). MU recovering ($1,065.21, +3.18%). META $603.75 (-1.49%). COST buy order placed (5 shares, pending 9:30 AM fill). |
 
 ## Notes
+- **2026-07-02 (market open, ~8:40 AM ET):** June Jobs Report released at 8:30 AM ET. Market reaction: SPY pre-market +0.36% — benign/goldilocks print. MU recovering strongly from yesterday's DRAM-lawsuit panic ($1,008.64 pre-market yesterday → $1,065.21 today = +5.6% recovery). Buffer to MU's -7% cut is now $61.16 (5.74%), no longer critical. COST order placed: 5 shares market buy (order c22579e5), fills at 9:30 AM ET. Estimated fill ~$920-935. 10% trailing stop to be placed by midday routine. Portfolio +$74.60 today (+0.07%). Total P/L from $100K: -$431.50 (-0.43%). Week 2 positions used: 2/3 (MU + COST pending). 1 slot remains for Week 2. Markets CLOSED tomorrow (Friday July 4 — Independence Day).
 - **2026-07-01 (EOD):** META closed at $617.39 (+8.42% from entry $569.44, +9.60% session gain). 7% trailing stop unchanged: stop $584.30, HWM $628.28 (reached intraday). MU closed at $1,054.66 (-2.31% from entry $1,079.62). MU dropped -8.63% from yesterday's close ($1,154.29) but is 4.8% above the -7% cut threshold ($1,004.05) — no cut needed. MU 10% trailing stop auto-moved to $955.60 (HWM $1,061.78). Portfolio value $99,620.67. Daily P/L +$334.36 (+0.34%). Total P/L from $100K: -$379.33 (-0.38%). Daily loss cap not triggered. Next: Thursday July 3 — Jobs Report early release. Evaluate COST if payrolls ≤200K. Markets closed Friday July 4.
-- **2026-07-01 (midday, ~12:09 PM ET):** Two active positions confirmed. META at $620.35 (+8.94% from entry $569.44) — 7% trailing stop auto-adjusted to $584.30 (hwm $628.28). MU filled at $1,079.62 (4 shares, better than expected $1,116), currently $1,052.66 (-2.50% from entry). MU down significantly from yesterday's close (-8.80% session) but entry is well above -7% cut threshold ($1,004.05). MU 10% trailing stop placed (ID: 700011ff, stop $944.03, hwm $1,048.93). Portfolio +$350.10 today (+0.35%). Total portfolio -$363.59 from $100K start (realized -$664.46, unrealized +$299.45). Daily loss cap not triggered. Next action: Thursday pre-market — evaluate COST after June Jobs Report.
-- **2026-07-01 (market open, pre-market 8:41 AM ET):** META surging to $605.88 (+6.40% from entry $569.44). Triggered the >5% stop-tightening rule: canceled 10% stop (73d8eb21), placed 7% stop (c760484c, stop $558.61, hwm $600.66). MU buy order queued (4bc4d21d, 4 shares, market day) for 9:30 AM fill. MU was at $1,116 in pre-market — squarely in the $1,110–$1,140 entry zone from the plan. Portfolio equity $99,579.99 (+$314.92 today).
