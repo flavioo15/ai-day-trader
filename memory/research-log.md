@@ -1,5 +1,113 @@
 # Research Log
 
+## 2026-07-02 — Pre-Market Research (Thursday — Week 2 Day 4 / Jobs Report Day)
+
+**WEDNESDAY RECAP — META SURGED +9.60%, MU ADDED:**
+Wednesday July 1 was the best single day since portfolio inception. META exploded +9.60% to $617.39 on news of a new AI cloud business (selling excess compute capacity — directly competing with AWS/Azure/GCP). MU was bought at $1,079.62 (4 shares, better than planned $1,110–$1,140 zone) but closed at $1,054.66 (-2.31% from entry) as MU fell -8.63% from its June 30 close. Portfolio ended +$334.36 to $99,620.67.
+
+**Live Alpaca Pre-Market Data (July 2):**
+| Ticker | Entry | Current Pre-Mkt | P/L % | Buffer to Cut | Trailing Stop |
+|--------|-------|-----------------|-------|---------------|---------------|
+| META | $569.44 | $611.77 | **+7.43%** | N/A (up) | 7% (stop $584.30, hwm $628.28, ID: c760484c) |
+| MU | $1,079.62 | $1,008.64 | **-6.58%** | **$4.59 / 0.43%** ⚠️ | 10% (stop $959.93, hwm $1,066.59, ID: 700011ff) |
+
+- Portfolio Value: $99,384.86 (equity, per Alpaca)
+- Cash: $90,461.51
+- Daily P/L today: -$235.81 (-0.24%) — driven by MU continuing to fall
+
+**⚠️ CRITICAL ALERT — MU APPROACHING -7% HARD CUT:**
+MU is at $1,008.64. Hard cut threshold: $1,004.05 ($1,079.62 × 0.93). Buffer: **only $4.59 (0.43%)**. With new overnight headwinds (see below), MU could easily break the cut threshold at the open. Telegram notification sent.
+
+**MU OVERNIGHT HEADWINDS (New — not in original thesis):**
+1. **DRAM Class-Action Lawsuit:** U.S. lawsuit filed naming Micron, Samsung, and SK Hynix — alleging deliberate restriction of DDR3/DDR4 DRAM production to inflate prices while pivoting to high-margin HBM. Legal overhang is a NEW risk not priced into original thesis.
+2. **Oversupply Concerns:** Questions raised about supply dynamics in conventional DRAM market, even as HBM remains tight. Market is differentiating: HBM story intact, but conventional DRAM narrative is negative.
+3. **Pre-market price:** MU was cited as trading near/below $1,000 intraday yesterday; current Alpaca pre-market shows $1,008.64 (-2.29% from yesterday's $1,032.28 close per Alpaca's lastday_price).
+
+**Thesis Assessment for MU:**
+- Original thesis INTACT: HBM supercycle, $50B Q4 guide, 16 strategic agreements, $100B contracted revenue, Anthropic deal
+- NEW negative factors: DRAM lawsuit (legal cost + sentiment hit) + oversupply concerns in legacy DRAM
+- Risk/reward has shifted: thesis is muddier, stock is -6.58% from entry with only 0.43% buffer to hard cut
+- **RULE: Cut at $1,004.05 — no exceptions. No thesis-based override.**
+
+**META CATALYST UPDATE:**
+- META surged July 1 on AI cloud business announcement: will sell excess AI compute capacity and compete with AWS/Azure/GCP
+- Locked in 1.6 gigawatts of AI compute from Crusoe Energy (Texas + Missouri)
+- Q1 2026: Revenue $56.3B (+33% YoY), operating income $22.9B
+- Pre-market July 2: $611.77 (-0.19% from $612.91 yesterday close per Alpaca) — minor consolidation, healthy
+- 7% trailing stop ($584.30) gives substantial room. AI cloud pivot is a major new long-term catalyst.
+- **No action needed — hold.**
+
+**Index Futures (Pre-Market July 2):**
+| Index | Level | Change |
+|-------|-------|--------|
+| S&P 500 E-Mini | 7,529.75 | **+0.72%** |
+| Nasdaq 100 E-Mini | — | **+1.09%** |
+
+Futures are constructively positive despite MU headwinds. Market appears to be looking past individual stock issues toward the macro picture.
+
+**Today's Critical Event — June Jobs Report (8:30 AM ET):**
+- **Consensus:** ~115,000 nonfarm payrolls (range: 87K–130K)
+- **Prior (May 2026):** 172,000
+- **Unemployment Rate:** 4.3% (expected unchanged)
+- **Significance:** This is the GATE for COST entry. If payrolls ≤200K → evaluate COST buy. If hot print >200K → stay defensive, no new positions.
+- **Interpretation:** Consensus is well below 200K threshold. Unless significant upside surprise, COST gate should open.
+- **Secondary catalyst:** Fed Chair Kevin Warsh speaking — watch for rate signals.
+
+**Pre-Market Movers (Notable):**
+- **Bloom Energy (BE):** +~8% — Brookfield AI infrastructure partnership (not relevant to portfolio)
+- **Nike (NKE):** -~2% — EPS beat but revenue miss, Greater China -12% (tariff refund drove the beat, not organic) — slight consumer spending caution signal, but COST's value-seeking customers are different from Nike's brand-dependent consumers.
+
+**COSTCO (COST) Update:**
+- Current price: ~$925 (Bernstein says ~$920-941 range July 1)
+- **Below** our original entry target of $945-955 — BETTER entry opportunity
+- Bernstein analyst Zhihan Ma named COST as **top retail pick for H2 2026** (alongside Dollar General)
+- Expects 6-7% comparable sales growth (ex-gas, ex-FX)
+- Special dividend speculation is a near-term catalyst
+- 12% YoY sales growth, 92% membership renewal rate, 13% dividend increase
+- Analyst consensus: Buy, PT ~$1,099 (+18.8% upside from ~$925)
+- **If Jobs Report ≤200K: BUY COST at market.** 5 shares × ~$925 = ~$4,625 (~4.65% of portfolio)
+
+**GOOGL Update:**
+- No pullback to $335-345 target zone — still elevated
+- No entry. Patience.
+
+---
+
+## Trade Ideas for Today (July 2, 2026)
+
+### Idea 1: COST (Costco) — BUY after Jobs Report ≤200K
+- **Thesis:** Non-tech diversification. Bernstein H2 top pick. 18.8% upside to analyst PT ($1,099). Special dividend speculation. Value-seeking consumers benefit from uncertainty (trade-down effect). Portfolio needs this to break tech concentration after Week 1 lesson. COST has been a consistent out-performer through all this week's volatility.
+- **Entry:** Market buy after 8:30 AM Jobs Report confirms ≤200K payrolls. Target ~$920-935.
+- **Position size:** 5 shares × ~$925 = ~$4,625 (~4.65% of portfolio) ✅ (within 5% max)
+- **Stop:** 10% trailing immediately after fill
+- **Thesis risk:** Hot Jobs print (>200K) gates this. Nike revenue miss is a mild consumer caution flag but COST's membership model insulates from discretionary slowdowns.
+- **Risk level:** LOW-MODERATE
+
+### Idea 2: MU — Monitor Hard Cut at $1,004.05
+- **Status:** Already in position. NOT a new idea — active risk management.
+- **Action:** If MU opens at or below $1,004.05, CANCEL trailing stop (700011ff), place market sell for 4 shares immediately. No override for thesis, no waiting.
+- **If above $1,004.05 at open:** Monitor intraday. Midday routine must check.
+- **New thesis risk assessment:** DRAM lawsuit + oversupply = partially thesis-altering. But rule is mechanical: cut at -7%, not at thesis uncertainty. If MU bounces above $1,004.05 and we stay in, continue per plan.
+
+### Idea 3: GOOGL — No Action
+- Still ~$353-354, above $335-345 pullback target.
+- Week 2 slot #3 is available but preserving it for better entry conditions.
+- If Jobs Report is cold (<100K) and market rallies hard, GOOGL might pull back from any new sector rotation. But don't chase.
+- Risk: LOW (no position, no exposure)
+
+**Position Limit Check for Today:**
+- Week 2 positions used: 1/3 (MU — July 1)
+- Today: COST = position #2 of 3 (if triggered by Jobs Report)
+- Remaining after today: 1 slot for Week 2 (could use for GOOGL if it pulls back)
+
+**Daily Loss Cap Check:**
+- Current portfolio: $99,384.86
+- 3% daily loss cap trigger: $99,384.86 × 0.97 = $96,403.32
+- Today's P/L so far: -$235.81 (-0.24%) — NOT triggered
+- Would require losing another $2,981.54 to hit cap — very unlikely
+
+---
+
 ## 2026-07-01 — Pre-Market Research (Wednesday — Week 2 Day 3)
 
 **TUESDAY RECAP — STRONG CLOSE, MU BREAKS THRESHOLD:**
